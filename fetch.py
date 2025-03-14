@@ -67,8 +67,14 @@ def display_hadith_table(data):
 
 # Main execution
 if __name__ == "__main__":
-    url = "https://raw.githubusercontent.com/manli03/hadith/refs/heads/main/sahih_bukhari/chapter_66.json"
+    url = "https://doa-doa-api-ahmadramadhan.fly.dev/api"
     hadith_data = fetch_hadith_data(url)
 
     if hadith_data:
-        display_hadith_table(hadith_data)
+        # display_hadith_table(hadith_data)
+        # save into file
+        with open("doa.json", "w") as file:
+            json.dump(hadith_data, file)
+        print("Data saved to doa.json")
+    else:
+        print("No data to save.")

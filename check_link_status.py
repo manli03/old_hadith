@@ -40,7 +40,7 @@ def fetch_and_check_status(url):
 
 if __name__ == "__main__":
     api_key = os.environ.get("HADITH_API_KEY")  # Replace with your actual API key
-    url = f"https://hadithapi.com/api/al-silsila-sahiha/chapters?apiKey={api_key}"
+    url = f"https://hadithapi.com/api/hadiths?apiKey={api_key}&book=al-silsila-sahiha"
 
     while True:
         print(f"Fetching data at {time.strftime('%Y-%m-%d %H:%M:%S')}")
