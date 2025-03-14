@@ -1,0 +1,189 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 15,
+    "data": [
+      {
+        "id": 960,
+        "hadith_number": "990",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Cara Melaksanakan Solat Malam dan Witir",
+        "perawi_melayu": "Diriwayatkan oleh Ibn `Umar رضی اللہ عنہما:",
+        "english_text": "Once a person asked Allah's Messenger (ﷺ) about the night prayer. Allah's Apostle (ﷺ) replied, \"The night prayer is offered as two Rak`at followed by two Rak`at and so on and if anyone is afraid of the approaching dawn (Fajr prayer) he should pray one Rak`ah and this will be a Witr for all the Rak`at which he has prayed before.\"",
+        "malay_translation": "Pernah seorang lelaki bertanya kepada Rasulullah (ﷺ) tentang solat malam. Rasulullah (ﷺ) menjawab, \"Solat malam dilakukan dengan dua rakaat, diikuti dengan dua rakaat, dan seterusnya. Jika seseorang bimbang akanSubuh (solat Fajr) akan tiba, dia hendaklah solat satu rakaat, dan ini akan menjadi Witir bagi semua rakaat yang telah dia solatkan sebelumnya.\"",
+        "arabic_text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، وَعَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَةِ اللَّيْلِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ صَلاَةُ اللَّيْلِ مَثْنَى مَثْنَى، فَإِذَا خَشِيَ أَحَدُكُمُ الصُّبْحَ صَلَّى رَكْعَةً وَاحِدَةً، تُوتِرُ لَهُ مَا قَدْ صَلَّى ‏\"‏‏.‏"
+      },
+      {
+        "id": 961,
+        "hadith_number": "991",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Melakukan Salam Antara Satu dan Dua Rakaat Witir dan Memenuhi Keperluan",
+        "perawi_melayu": "Diriwayatkan oleh Nafi':",
+        "english_text": "Hadrat Abdullah bin Umer  رضی اللہ عنہما that he would perform the salutation between one and two units of Witr; and pass orders to fulfil any of his needs.",
+        "malay_translation": "Hadrat Abdullah bin Umar رضی اللہ عنہما bahawa beliau akan melakukan salam di antara satu dan dua rakaat Witir; dan memberi perintah untuk memenuhi apa-apa keperluannya.",
+        "arabic_text": "وَعَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يُسَلِّمُ بَيْنَ الرَّكْعَةِ وَالرَّكْعَتَيْنِ فِي الْوِتْرِ، حَتَّى يَأْمُرَ بِبَعْضِ حَاجَتِهِ‏.‏"
+      },
+      {
+        "id": 962,
+        "hadith_number": "992",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Rasulullah ﷺ Qiyamullail dan Solat Subuh",
+        "perawi_melayu": "Diriwayatkan oleh Ibn `Abbas رضي الله عنهما:",
+        "english_text": "Once I passed the night in the house of Maimuna رضی اللہ عنہ (his aunt). I slept across the bed while Allah's Apostle and his wife slept length-wise. The Prophet (ﷺ) slept till midnight or nearly so and woke up rubbing his face and recited ten verses from Surat \"Al-`Imran.\" Allah's Messenger (ﷺ) went towards a leather skin and performed ablution in the most perfect way and then stood for the prayer. I did the same and stood beside him. The Prophet (ﷺ) put his right hand on my head, twisted my ear and then prayed two rak`at five times and then ended his prayer with witr. He laid down till the Mu'adh-dhin came then he stood up and offered two rak`at (Sunnah of Fajr prayer) and then went out and offered the Fajr prayer. (See Hadith 183)",
+        "malay_translation": "Pada suatu malam, saya bermalam di rumah Maimunah رضي الله عنها (bibinya). Saya tidur melintang di atas katil sementara Rasulullah ﷺ dan isterinya tidur memanjang. Nabi ﷺ tidur sehingga tengah malam atau hampir dengannya, kemudian baginda bangun sambil mengusap wajahnya dan membaca sepuluh ayat dari Surah Al-`Imran. Rasulullah ﷺ pergi menuju ke bekas air kulit dan berwuduk dengan cara yang paling sempurna, kemudian berdiri untuk solat. Saya melakukan perkara yang sama dan berdiri di sampingnya. Nabi ﷺ meletakkan tangan kanannya di atas kepala saya, memulas telinga saya, kemudian solat dua rakaat sebanyak lima kali dan mengakhiri solatnya dengan witir. Baginda berbaring sehingga Mu'adh-dhin datang, kemudian baginda bangun dan menunaikan solat dua rakaat (Sunnah Subuh) dan kemudian keluar dan menunaikan solat Subuh. (Lihat Hadith 183)",
+        "arabic_text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ مَخْرَمَةَ بْنِ سُلَيْمَانَ، عَنْ كُرَيْبٍ، أَنَّ ابْنَ عَبَّاسٍ، أَخْبَرَهُ أَنَّهُ، بَاتَ عِنْدَ مَيْمُونَةَ، وَهْىَ خَالَتُهُ، فَاضْطَجَعْتُ فِي عَرْضِ وِسَادَةٍ، وَاضْطَجَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَهْلُهُ فِي طُولِهَا، فَنَامَ حَتَّى انْتَصَفَ اللَّيْلُ أَوْ قَرِيبًا مِنْهُ، فَاسْتَيْقَظَ يَمْسَحُ النَّوْمَ عَنْ وَجْهِهِ، ثُمَّ قَرَأَ عَشْرَ آيَاتٍ مِنْ آلِ عِمْرَانَ، ثُمَّ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى شَنٍّ مُعَلَّقَةٍ، فَتَوَضَّأَ فَأَحْسَنَ الْوُضُوءَ، ثُمَّ قَامَ يُصَلِّي فَصَنَعْتُ مِثْلَهُ فَقُمْتُ إِلَى جَنْبِهِ، فَوَضَعَ يَدَهُ الْيُمْنَى عَلَى رَأْسِي، وَأَخَذَ بِأُذُنِي يَفْتِلُهَا، ثُمَّ صَلَّى رَكْعَتَيْنِ، ثُمَّ رَكْعَتَيْنِ، ثُمَّ رَكْعَتَيْنِ، ثُمَّ رَكْعَتَيْنِ، ثُمَّ رَكْعَتَيْنِ، ثُمَّ رَكْعَتَيْنِ، ثُمَّ أَوْتَرَ، ثُمَّ اضْطَجَعَ حَتَّى جَاءَهُ الْمُؤَذِّنُ فَقَامَ فَصَلَّى رَكْعَتَيْنِ ثُمَّ، خَرَجَ فَصَلَّى الصُّبْحَ‏.‏"
+      },
+      {
+        "id": 963,
+        "hadith_number": "993",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Solat Malam: Dua Rakaat, Dua Rakaat, dan Witir",
+        "perawi_melayu": "Diriwayatkan oleh Abdullah bin `Umar ради الله عنهما:",
+        "english_text": "The Prophet (ﷺ) said, \"Night prayer is offered as two rak`at followed by two rak`at and so on, and if you want to finish it, pray only one rak`a which will be witr for all the previous rak`at.\" Al-Qasim said, \"Since we attained the age of puberty we have seen some people offering a three-rak`at prayer as witr and all that is permissible. I hope there will be no harm in it.\"",
+        "malay_translation": "Nabi ﷺ bersabda, \"Solat malam ditunaikan dua rakaat diikuti dua rakaat dan seterusnya, dan jika kamu ingin mengakhirinya, solatlah satu rakaat sahaja yang akan menjadi witir bagi semua rakaat sebelumnya.\" Al-Qasim berkata, \"Sejak kami mencapai usia baligh, kami telah melihat beberapa orang menunaikan solat tiga rakaat sebagai witir dan semua itu dibolehkan. Saya berharap tidak akan ada kemudaratan padanya.\"",
+        "arabic_text": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرٌو، أَنَّ عَبْدَ الرَّحْمَنِ بْنَ الْقَاسِمِ، حَدَّثَهُ عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ صَلاَةُ اللَّيْلِ مَثْنَى مَثْنَى، فَإِذَا أَرَدْتَ أَنْ تَنْصَرِفَ فَارْكَعْ رَكْعَةً تُوتِرُ لَكَ مَا صَلَّيْتَ ‏\"‏‏.‏ قَالَ الْقَاسِمُ وَرَأَيْنَا أُنَاسًا مُنْذُ أَدْرَكْنَا يُوتِرُونَ بِثَلاَثٍ، وَإِنَّ كُلاًّ لَوَاسِعٌ أَرْجُو أَنْ لاَ يَكُونَ بِشَىْءٍ مِنْهُ بَأْسٌ‏.‏"
+      },
+      {
+        "id": 964,
+        "hadith_number": "994",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Solat Malam Rasulullah dan Rehat Sebelum Subuh",
+        "perawi_melayu": "Diriwayatkan daripada `A'isha رضی اللہ عنہا:",
+        "english_text": "Allah's Messenger (ﷺ) used to pray eleven rak`at at night and that was his night prayer and each of his prostrations lasted for a period enough for one of you to recite fifty verses before Allah's Messenger (ﷺ) raised his head. He also used to pray two rak`at (Sunnah) before the (compulsory) Fajr prayer and then lie down on his right side till the Mu'adh-dhin came to him for the prayer.",
+        "malay_translation": "Rasulullah (ﷺ) biasanya menunaikan solat sebelas rakaat pada waktu malam, dan itulah solat malam baginda. Setiap sujud baginda berpanjangan sehingga seseorang daripada kamu dapat membaca lima puluh ayat sebelum Rasulullah (ﷺ) mengangkat kepala baginda. Baginda juga biasanya menunaikan solat dua rakaat (Sunnah) sebelum solat Fardhu Subuh, dan kemudian berbaring di sisi kanan baginda sehingga Mu'adh-dhin datang kepadanya untuk menunaikan solat.",
+        "arabic_text": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُصَلِّي إِحْدَى عَشْرَةَ رَكْعَةً، كَانَتْ تِلْكَ صَلاَتَهُ ـ تَعْنِي بِاللَّيْلِ ـ فَيَسْجُدُ السَّجْدَةَ مِنْ ذَلِكَ قَدْرَ مَا يَقْرَأُ أَحَدُكُمْ خَمْسِينَ آيَةً قَبْلَ أَنْ يَرْفَعَ رَأْسَهُ، وَيَرْكَعُ رَكْعَتَيْنِ قَبْلَ صَلاَةِ الْفَجْرِ، ثُمَّ يَضْطَجِعُ عَلَى شِقِّهِ الأَيْمَنِ حَتَّى يَأْتِيَهُ الْمُؤَذِّنُ لِلصَّلاَةِ‏.‏"
+      },
+      {
+        "id": 965,
+        "hadith_number": "995",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Dua Rakaat Sunat Sebelum Solat Subuh",
+        "perawi_melayu": "Diriwayatkan oleh Ibn `Umar رضی اللہ عنہما :",
+        "english_text": "\"What is your opinion about the two rak`at before the Fajr (compulsory) prayer, as to prolonging the recitation in them?\" He said, \"The Prophet (ﷺ) used to pray at night two rak`at followed by two and so on, and end the prayer by one rak`ah witr. He used to offer two rak`at before the Fajr prayer immediately after the Adhan.\" (Hammad, the sub-narrator said, \"That meant (that he prayed) quickly.)\"",
+        "malay_translation": "\"Apakah pendapat kamu tentang dua rakaat sebelum solat Fajar (wajib), mengenai memanjangkan bacaan di dalamnya?\" Dia berkata, \"Nabi (ﷺ) biasanya solat pada waktu malam dua rakaat diikuti dengan dua rakaat dan seterusnya, dan mengakhiri solat dengan satu rakaat witir. Baginda biasanya menawarkan dua rakaat sebelum solat Fajar sejurus selepas azan.\" (Hammad, sub-periwayat berkata, \"Itu bermaksud (bahawa baginda solat) dengan cepat.)\"",
+        "arabic_text": "حَدَّثَنَا أَبُو النُّعْمَانِ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، قَالَ حَدَّثَنَا أَنَسُ بْنُ سِيرِينَ، قَالَ قُلْتُ لاِبْنِ عُمَرَ أَرَأَيْتَ الرَّكْعَتَيْنِ قَبْلَ صَلاَةِ الْغَدَاةِ أُطِيلُ فِيهِمَا الْقِرَاءَةَ فَقَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي مِنَ اللَّيْلِ مَثْنَى مَثْنَى، وَيُوتِرُ بِرَكْعَةٍ وَيُصَلِّي الرَّكْعَتَيْنِ قَبْلَ صَلاَةِ الْغَدَاةِ وَكَأَنَّ الأَذَانَ بِأُذُنَيْهِ‏.‏ قَالَ حَمَّادٌ أَىْ سُرْعَةً‏.‏"
+      },
+      {
+        "id": 966,
+        "hadith_number": "996",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Waktu Solat Witir yang Berbeza",
+        "perawi_melayu": "Diriwayatkan daripada `Aisha RA:",
+        "english_text": "Allah's Messenger (ﷺ) offered witr prayer at different nights at various hours extending (from the `Isha' prayer) up to the last hour of the night.",
+        "malay_translation": "Rasulullah SAW menunaikan solat witir pada malam-malam yang berbeza pada waktu yang pelbagai, bermula (dari solat Isyak) hingga ke penghujung malam.",
+        "arabic_text": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا الأَعْمَشُ، قَالَ حَدَّثَنِي مُسْلِمٌ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ كُلَّ اللَّيْلِ أَوْتَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَانْتَهَى وِتْرُهُ إِلَى السَّحَرِ‏.‏"
+      },
+      {
+        "id": 967,
+        "hadith_number": "997",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Nabi ﷺ Membangunkan Aisyah untuk Solat Witir",
+        "perawi_melayu": "Diriwayatkan daripada `A'isha رضي الله عنها:",
+        "english_text": "The Prophet (ﷺ) used to offer his night prayer while I was sleeping across in his bed. Whenever he intended to offer the witr prayer, he used to wake me up and I would offer the witr prayer too.",
+        "malay_translation": "Nabi ﷺ biasa menunaikan solat malam ketika saya sedang tidur di katilnya. Setiap kali baginda berniat untuk menunaikan solat witir, baginda akan membangunkan saya dan saya juga akan menunaikan solat witir.",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا هِشَامٌ، قَالَ حَدَّثَنِي أَبِي، عَنْ عَائِشَةَ، قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي، وَأَنَا رَاقِدَةٌ مُعْتَرِضَةً عَلَى فِرَاشِهِ، فَإِذَا أَرَادَ أَنْ يُوتِرَ أَيْقَظَنِي فَأَوْتَرْتُ‏.‏"
+      },
+      {
+        "id": 968,
+        "hadith_number": "998",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Jadikan Witir Sebagai Solat Terakhir di Malam Hari",
+        "perawi_melayu": "Diriwayatkan oleh Abdullah bin `Umar رضی اللہ عنہما :",
+        "english_text": "The Prophet (ﷺ) said, \"Make witr as your last prayer at night.\"",
+        "malay_translation": "Nabi (ﷺ) bersabda, \"Jadikanlah witir sebagai solat terakhir kamu pada waktu malam.\"",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ، حَدَّثَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ اجْعَلُوا آخِرَ صَلاَتِكُمْ بِاللَّيْلِ وِتْرًا ‏\"‏‏.‏"
+      },
+      {
+        "id": 969,
+        "hadith_number": "999",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Solat Witir Ketika Bermusafir",
+        "perawi_melayu": "Diriwayatkan oleh Sa'id bin Yasar:",
+        "english_text": "I was going to Mecca in the company of `Abdullah bin `Umar رضی اللہ عنہما and when I apprehended the approaching dawn, I dismounted and offered the witr prayer and then joined him. `Abdullah bin `Umar رضی اللہ عنہما said, \"Where have you been?\" I replied, \"I apprehended the approaching dawn so I dismounted and prayed the witr prayer.\" `Abdullah رضی اللہ عنہما said, \"Isn't it sufficient for you to follow the good example of Allah's Messenger (ﷺ)?\" I replied, \"Yes, by Allah.\" He said, \"Allah's Messenger (ﷺ) used to pray witr on the back of the camel (while on a journey).\"",
+        "malay_translation": "Saya dalam perjalanan ke Mekah bersama Abdullah bin Umar RA, dan apabila saya merasakan fajar akan tiba, saya turun dari kenderaan dan menunaikan solat witir, kemudian menyertainya semula. Abdullah bin Umar RA bertanya, \"Ke mana kamu pergi?\" Saya menjawab, \"Saya merasakan fajar akan tiba, jadi saya turun dan menunaikan solat witir.\" Abdullah RA berkata, \"Bukankah sudah cukup bagi kamu untuk mengikuti contoh baik Rasulullah SAW?\" Saya menjawab, \"Ya, demi Allah.\" Beliau berkata, \"Rasulullah SAW biasa menunaikan solat witir di atas unta (ketika dalam perjalanan).\"",
+        "arabic_text": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ أَبِي بَكْرِ بْنِ عُمَرَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ، عَنْ سَعِيدِ بْنِ يَسَارٍ، أَنَّهُ قَالَ كُنْتُ أَسِيرُ مَعَ عَبْدِ اللَّهِ بْنِ عُمَرَ بِطَرِيقِ مَكَّةَ فَقَالَ سَعِيدٌ فَلَمَّا خَشِيتُ الصُّبْحَ نَزَلْتُ فَأَوْتَرْتُ، ثُمَّ لَحِقْتُهُ فَقَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ أَيْنَ كُنْتَ فَقُلْتُ خَشِيتُ الصُّبْحَ، فَنَزَلْتُ فَأَوْتَرْتُ‏.‏ فَقَالَ عَبْدُ اللَّهِ أَلَيْسَ لَكَ فِي رَسُولِ اللَّهِ صلى الله عليه وسلم أُسْوَةٌ حَسَنَةٌ فَقُلْتُ بَلَى وَاللَّهِ‏.‏ قَالَ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُوتِرُ عَلَى الْبَعِيرِ‏.‏"
+      },
+      {
+        "id": 970,
+        "hadith_number": "1000",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Solat Sunat dan Witir di atas Kenderaan",
+        "perawi_melayu": "Diriwayatkan oleh Ibn `Umar R.A :",
+        "english_text": "The Prophet (ﷺ) used to offer (Nawafil) prayers on his Rahila (mount) facing its direction by signals, but not the compulsory prayer. He also used to pray witr on his (mount) Rahila.",
+        "malay_translation": "Nabi Muhammad SAW pernah menunaikan solat-solat sunat (Nawafil) di atas Rahilah (kenderaannya) menghadap ke arah yang dituju dengan isyarat, tetapi bukan solat fardhu. Baginda juga pernah menunaikan solat Witir di atas Rahilah (kenderaannya).",
+        "arabic_text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا جُوَيْرِيَةُ بْنُ أَسْمَاءَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي فِي السَّفَرِ عَلَى رَاحِلَتِهِ، حَيْثُ تَوَجَّهَتْ بِهِ، يُومِئُ إِيمَاءً، صَلاَةَ اللَّيْلِ إِلاَّ الْفَرَائِضَ، وَيُوتِرُ عَلَى رَاحِلَتِهِ‏.‏"
+      },
+      {
+        "id": 971,
+        "hadith_number": "1001",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Bacaan Qunut dalam Solat Subuh",
+        "perawi_melayu": "Diriwayatkan oleh Anas رضي الله عنه:",
+        "english_text": "\"Did the Prophet (ﷺ) recite Qunut in the Fajr prayer?\" Anas replied in the affirmative. He was further asked, \"Did he recite Qunut before bowing?\" Anas replied, \"He recited Qunut after bowing for some time (for one month).\"",
+        "malay_translation": "\"Adakah Nabi (ﷺ) membaca Qunut dalam solat Subuh?\" Anas menjawab ya. Beliau ditanya lagi, \"Adakah beliau membaca Qunut sebelum rukuk?\" Anas menjawab, \"Beliau membaca Qunut selepas rukuk untuk beberapa waktu (selama satu bulan).\"",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، قَالَ سُئِلَ أَنَسٌ أَقَنَتَ النَّبِيُّ صلى الله عليه وسلم فِي الصُّبْحِ قَالَ نَعَمْ‏.‏ فَقِيلَ لَهُ أَوَقَنَتَ قَبْلَ الرُّكُوعِ قَالَ بَعْدَ الرُّكُوعِ يَسِيرًا‏.‏"
+      },
+      {
+        "id": 972,
+        "hadith_number": "1002",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Qunut: Bacaan Sebelum atau Selepas Rukuk dan Doa Rasulullah SAW Terhadap Pengkhianat",
+        "perawi_melayu": "Diriwayatkan daripada `Asim:",
+        "english_text": "I asked Anas bin Malik رضی اللہ عنہ about the Qunut. Anas replied, \"Definitely it was (recited)\". I asked, \"Before bowing or after it?\" Anas replied, \"Before bowing.\" I added, \"So and so has told me that you had informed him that it had been after bowing.\" Anas said, \"He told an untruth (i.e. \"was mistaken,\" according to the Hijazi dialect). Allah's Messenger (ﷺ) recited Qunut after bowing for a period of one month.\" Anas added, \"The Prophet (ﷺ) sent about seventy men (who knew the Qur'an by heart) towards the pagans (of Najd) who were less than they in number and there was a peace treaty between them and Allah's Messenger (ﷺ) (but the Pagans broke the treaty and killed the seventy men). So Allah's Messenger (ﷺ) recited Qunut for a period of one month asking Allah to punish them.\"",
+        "malay_translation": "Saya bertanya kepada Anas bin Malik RA tentang Qunut. Anas menjawab, \"Sememangnya ia (dibaca)\". Saya bertanya, \"Sebelum rukuk atau selepasnya?\" Anas menjawab, \"Sebelum rukuk.\" Saya menambah, \"Si fulan telah memberitahu saya bahawa anda telah memaklumkan kepadanya bahawa ia dibaca selepas rukuk.\" Anas berkata, \"Dia telah berkata dusta (iaitu \"tersilap,\" menurut dialek Hijazi). Rasulullah SAW membaca Qunut selepas rukuk selama sebulan.\" Anas menambah, \"Nabi SAW menghantar kira-kira tujuh puluh orang (yang menghafal Al-Quran) ke arah orang-orang kafir (Najd) yang jumlahnya lebih sedikit daripada mereka dan terdapat perjanjian damai antara mereka dan Rasulullah SAW (tetapi orang-orang kafir itu melanggar perjanjian dan membunuh tujuh puluh orang itu). Maka Rasulullah SAW membaca Qunut selama sebulan memohon kepada Allah untuk menghukum mereka.\"",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ، قَالَ حَدَّثَنَا عَاصِمٌ، قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ عَنِ الْقُنُوتِ،‏.‏ فَقَالَ قَدْ كَانَ الْقُنُوتُ‏.‏ قُلْتُ قَبْلَ الرُّكُوعِ أَوْ بَعْدَهُ قَالَ قَبْلَهُ‏.‏ قَالَ فَإِنَّ فُلاَنًا أَخْبَرَنِي عَنْكَ أَنَّكَ قُلْتَ بَعْدَ الرُّكُوعِ‏.‏ فَقَالَ كَذَبَ، إِنَّمَا قَنَتَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَعْدَ الرُّكُوعِ شَهْرًا ـ أُرَاهُ ـ كَانَ بَعَثَ قَوْمًا يُقَالُ لَهُمُ الْقُرَّاءُ زُهَاءَ سَبْعِينَ رَجُلاً إِلَى قَوْمٍ مِنَ الْمُشْرِكِينَ دُونَ أُولَئِكَ، وَكَانَ بَيْنَهُمْ وَبَيْنَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَهْدٌ فَقَنَتَ رَسُولُ اللَّهِ صلى الله عليه وسلم شَهْرًا يَدْعُو عَلَيْهِمْ‏.‏"
+      },
+      {
+        "id": 973,
+        "hadith_number": "1003",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Nabi Muhammad ﷺ Membaca Qunut selama Sebulan untuk Menghukum Suku Ral dan Dhakwan",
+        "perawi_melayu": "Diriwayatkan oleh Anas bin Malik رضي الله عنه :",
+        "english_text": "The Prophet (ﷺ) recited Qunut for one month (in the Fajr prayer) asking Allah to punish the tribes of Ral and Dhakwan.",
+        "malay_translation": "Nabi Muhammad ﷺ membaca Qunut selama sebulan (dalam solat Subuh) memohon kepada Allah untuk menghukum suku Ral dan Dhakwan.",
+        "arabic_text": "أَخْبَرَنَا أَحْمَدُ بْنُ يُونُسَ، قَالَ حَدَّثَنَا زَائِدَةُ، عَنِ التَّيْمِيِّ، عَنْ أَبِي مِجْلَزٍ، عَنْ أَنَسٍ، قَالَ قَنَتَ النَّبِيُّ صلى الله عليه وسلم شَهْرًا يَدْعُو عَلَى رِعْلٍ وَذَكْوَانَ‏.‏"
+      },
+      {
+        "id": 974,
+        "hadith_number": "1004",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Bacaan Qunut dalam Solat Maghrib dan Subuh",
+        "perawi_melayu": "Diriwayatkan oleh Anas RA:",
+        "english_text": "During the time of Holy prophet (ﷺ) Qunut used to be recited in the Maghrib and the Fajr prayers.",
+        "malay_translation": "Pada zaman Nabi Muhammad SAW, Qunut dibaca dalam solat Maghrib dan Subuh.",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، قَالَ كَانَ الْقُنُوتُ فِي الْمَغْرِبِ وَالْفَجْرِ‏.‏"
+      }
+    ]
+  }
+}

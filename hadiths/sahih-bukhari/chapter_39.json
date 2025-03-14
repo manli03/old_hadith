@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 3,
+    "data": [
+      {
+        "id": 2190,
+        "hadith_number": "2287",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Kezaliman Menangguhkan Pembayaran Hutang bagi Orang Kaya",
+        "perawi_melayu": "Diriwayatkan oleh Abu Hurairah Radiyallahu Anhu:",
+        "english_text": "The Prophet (ﷺ) said, \"Procrastination (delay) in paying debts by a wealthy man is injustice. So, if your debt is transferred from your debtor to a rich debtor, you should agree.\"",
+        "malay_translation": "Rasulullah (ﷺ) bersabda, \"Menangguhkan pembayaran hutang oleh orang kaya adalah kezaliman. Oleh itu, jika hutang anda dipindahkan dari penghutang anda kepada penghutang yang kaya, maka hendaklah kamu bersetuju.\"",
+        "arabic_text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ \"‏ مَطْلُ الْغَنِيِّ ظُلْمٌ، فَإِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيٍّ فَلْيَتْبَعْ ‏\"‏‏.‏"
+      },
+      {
+        "id": 2191,
+        "hadith_number": "2288",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Kezaliman Menangguhkan Hutang dan Kebenaran Pemindahan Hutang",
+        "perawi_melayu": "Diriwayatkan oleh Abu Hurairah رضی اللہ عنہ :",
+        "english_text": "The Prophet (ﷺ) said, \"Procrastination (delay) in paying debts by a wealthy person is injustice. So, if your debt is transferred from your debtor to a rich debtor, you should agree.\"",
+        "malay_translation": "Nabi (ﷺ) bersabda, \"Menangguhkan pembayaran hutang oleh orang kaya adalah kezaliman. Oleh itu, jika hutang anda dipindahkan daripada penghutang anda kepada penghutang yang kaya, anda hendaklah bersetuju.\"",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ ذَكْوَانَ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ مَطْلُ الْغَنِيِّ ظُلْمٌ، وَمَنْ أُتْبِعَ عَلَى مَلِيٍّ فَلْيَتَّبِعْ ‏\"‏‏.‏"
+      },
+      {
+        "id": 2192,
+        "hadith_number": "2289",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Hutang dan Solat Jenazah",
+        "perawi_melayu": "Diriwayatkan oleh Salama bin Al-Akwa رضی اللہ عنہ :",
+        "english_text": "Once, while we were sitting in the company of Prophet, a dead man was brought. The Prophet (ﷺ) was requested to lead the funeral prayer for the deceased. He said, \"Is he in debt?\" The people replied in the negative. He said, \"Has he left any wealth?\" They said, \"No.\" So, he led his funeral prayer. Another dead man was brought and the people said, \"O Allah's Messenger (ﷺ)! Lead his funeral prayer.\" The Prophet (ﷺ) said, \"Is he in debt?\" They said, \"Yes.\" He said, \"Has he left any wealth?\" They said, ''Three Dinars.\" So, he led the prayer. Then a third dead man was brought and the people said (to the Prophet (ﷺ) ), Please lead his funeral prayer.\" He said, \"Has he left any wealth?\" They said, \"No.\" He asked, \"Is he in debt?\" They said, (\"Yes! He has to pay) three Diners.', He (refused to pray and) said, \"Then pray for your (dead) companion.\" Abu Qatada رضی اللہ عنہ said, \"O Allah's Messenger (ﷺ)! Lead his funeral prayer, and I will pay his debt.\" So, he led the prayer.",
+        "malay_translation": "Pada suatu ketika, ketika kami sedang duduk bersama Nabi, seorang lelaki yang meninggal dunia dibawa. Nabi (ﷺ) diminta untuk memimpin solat jenazah bagi si mati. Baginda bertanya, \"Adakah dia berhutang?\" Orang ramai menjawab tidak. Baginda bertanya lagi, \"Adakah dia meninggalkan harta?\" Mereka menjawab, \"Tidak.\" Maka, Baginda pun memimpin solat jenazah. Seorang lagi lelaki yang meninggal dunia dibawa dan orang ramai berkata, \"Wahai Rasulullah (ﷺ)! Pimpinlah solat jenazahnya.\" Nabi (ﷺ) bertanya, \"Adakah dia berhutang?\" Mereka menjawab, \"Ya.\" Baginda bertanya, \"Adakah dia meninggalkan harta?\" Mereka menjawab, \"Tiga Dinar.\" Maka, Baginda pun memimpin solat jenazah. Kemudian, seorang lelaki ketiga yang meninggal dunia dibawa dan orang ramai berkata (kepada Nabi (ﷺ)), \"Mohon pimpin solat jenazahnya.\" Baginda bertanya, \"Adakah dia meninggalkan harta?\" Mereka menjawab, \"Tidak.\" Baginda bertanya, \"Adakah dia berhutang?\" Mereka menjawab, \"Ya! Dia berhutang tiga Dinar.\", Baginda (enggan untuk solat dan) bersabda, \"Maka solatkanlah sahabat kamu ini.\" Abu Qatada رضی اللہ عنہ berkata, \"Wahai Rasulullah (ﷺ)! Pimpinlah solat jenazahnya, dan saya akan membayar hutangnya.\" Maka, Baginda pun memimpin solat jenazah.",
+        "arabic_text": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا يَزِيدُ بْنُ أَبِي عُبَيْدٍ، عَنْ سَلَمَةَ بْنِ الأَكْوَعِ ـ رضى الله عنه ـ قَالَ كُنَّا جُلُوسًا عِنْدَ النَّبِيِّ صلى الله عليه وسلم إِذْ أُتِيَ بِجَنَازَةٍ، فَقَالُوا صَلِّ عَلَيْهَا‏.‏ فَقَالَ ‏\"‏ هَلْ عَلَيْهِ دَيْنٌ ‏\"‏‏.‏ قَالُوا لاَ‏.‏ قَالَ ‏\"‏ فَهَلْ تَرَكَ شَيْئًا ‏\"‏‏.‏ قَالُوا لاَ‏.‏ فَصَلَّى عَلَيْهِ ثُمَّ أُتِيَ بِجَنَازَةٍ أُخْرَى، فَقَالُوا يَا رَسُولَ اللَّهِ، صَلِّ عَلَيْهَا‏.‏ قَالَ ‏\"‏ هَلْ عَلَيْهِ دَيْنٌ ‏\"‏‏.‏ قِيلَ نَعَمْ‏.‏ قَالَ ‏\"‏ فَهَلْ تَرَكَ شَيْئًا ‏\"‏‏.‏ قَالُوا ثَلاَثَةَ دَنَانِيرَ‏.‏ فَصَلَّى عَلَيْهَا، ثُمَّ أُتِيَ بِالثَّالِثَةِ، فَقَالُوا صَلِّ عَلَيْهَا‏.‏ قَالَ ‏\"‏ هَلْ تَرَكَ شَيْئًا ‏\"‏‏.‏ قَالُوا لاَ‏.‏ قَالَ ‏\"‏ فَهَلْ عَلَيْهِ دَيْنٌ ‏\"‏‏.‏ قَالُوا ثَلاَثَةُ دَنَانِيرَ‏.‏ قَالَ ‏\"‏ صَلُّوا عَلَى صَاحِبِكُمْ ‏\"‏‏.‏ قَالَ أَبُو قَتَادَةَ صَلِّ عَلَيْهِ يَا رَسُولَ اللَّهِ، وَعَلَىَّ دَيْنُهُ‏.‏ فَصَلَّى عَلَيْهِ‏.‏"
+      }
+    ]
+  }
+}

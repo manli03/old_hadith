@@ -1,0 +1,189 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 15,
+    "data": [
+      {
+        "id": 26729,
+        "hadith_number": "2375",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Menyaksikan Pemberian Harta kepada Anak",
+        "perawi_melayu": "Nu'man bin Bashir (رَضِيَ ٱللَّٰهُ عَنْهُ)",
+        "english_text": "It was narrated that Nu'man bin Bashir said that his father took him to the Prophet (ﷺ) and said: “Bear witness that I have given Nu'man such and such from my wealth.” He said: “Have you given all your children something like that which you have given to Nu'man?” He said: “No.” He said: “Then let someone other than me bear witness to that.” And he said: “Would you not like all your children to honor you equally?” He said: “Of course.” He said: “Then do not do this.”",
+        "malay_translation": "Diriwayatkan bahawa Nu'man bin Bashir berkata bahawa bapanya membawanya kepada Nabi (ﷺ) dan berkata: “Saksikanlah bahawa aku telah memberikan Nu'man sekian dan sekian daripada hartaku.” Baginda bertanya: “Adakah kamu telah memberikan kepada semua anak-anakmu seperti apa yang telah kamu berikan kepada Nu'man?” Bapa itu menjawab: “Tidak.” Baginda bersabda: “Kalau begitu, biarlah orang lain selain aku menjadi saksi atasnya.” Dan Baginda bersabda lagi: “Tidakkah kamu suka jika semua anak-anakmu menghormatimu secara sama rata?” Bapa itu menjawab: “Tentu saja.” Baginda bersabda: “Kalau begitu, janganlah kamu lakukan perkara ini.”",
+        "arabic_text": "حَدَّثَنَا أَبُو بِشْرٍ بَكْرُ بْنُ خَلَفٍ، ‏‏‏‏‏‏حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، ‏‏‏‏‏‏عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، ‏‏‏‏‏‏عَنِ الشَّعْبِيِّ، ‏‏‏‏‏‏عَنْ النُّعْمَانِ بْنِ بَشِيرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ انْطَلَقَ بِهِ أَبُوهُ يَحْمِلُهُ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ:‏‏‏‏ اشْهَدْ أَنِّي قَدْ نَحَلْتُ النُّعْمَانَ مِنْ مَالِي كَذَا وَكَذَا، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَكُلَّ بَنِيكَ نَحَلْتَ مِثْلَ الَّذِي نَحَلْتَ النُّعْمَانَ ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَأَشْهِدْ عَلَى هَذَا غَيْرِي ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَلَيْسَ يَسُرُّكَ أَنْ يَكُونُوا لَكَ فِي الْبِرِّ سَوَاءً ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ بَلَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَلَا إِذًا ."
+      },
+      {
+        "id": 26730,
+        "hadith_number": "2376",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Hadiah Hamba: Keadilan dalam Pemberian",
+        "perawi_melayu": "Nu'man bin Bashir (Radiyallahu Anhu)",
+        "english_text": "It was narrated from Nu'man bin Bashir that: his father gave him a gift of a slave, and he came to the Prophet (ﷺ) so that he could witness the gift. He said: “Have you given something to all of your children?” He said: “No.” He said: “Then take back (your gift).\"",
+        "malay_translation": "Diriwayatkan daripada Nu'man bin Bashir bahawa: bapanya telah menghadiahkan seorang hamba kepadanya, dan dia datang kepada Nabi (ﷺ) untuk menjadikannya saksi atas hadiah tersebut. Baginda bersabda: “Adakah kamu telah memberikan sesuatu kepada semua anak-anakmu?” Dia menjawab: “Tidak.” Baginda bersabda: “Kalau begitu, tariklah balik (hadiahmu).\"",
+        "arabic_text": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، ‏‏‏‏‏‏حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنِ الزُّهْرِيِّ، ‏‏‏‏‏‏عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، ‏‏‏‏‏‏ وَمُحَمَّدِ بْنِ النُّعْمَانِ بْنِ بَشِيرٍ، ‏‏‏‏‏‏أَخْبَرَاهُ، ‏‏‏‏‏‏عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، ‏‏‏‏‏‏أَنَّ أَبَاهُ نَحَلَهُ غُلَامًا وَأَنَّهُ جَاءَ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُشْهِدُهُ، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ أَكُلَّ وَلَدِكَ نَحَلْتَهُ ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَارْدُدْهُ ."
+      },
+      {
+        "id": 26731,
+        "hadith_number": "2377",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Hukum Mengambil Semula Pemberian Kecuali Pemberian Bapa kepada Anak",
+        "perawi_melayu": "Daripada Ibn 'Abbas dan Ibn 'Umar (semoga Allah meredhai mereka)",
+        "english_text": "It was narrated from Ibn 'Abbas and Ibn 'Umar, who attributed the Hadith to the Prophet (ﷺ) that he said: “It is not permissible for a man to give a gift then take it back, except what a father gives to his child.”",
+        "malay_translation": "Diriwayatkan daripada Ibn 'Abbas dan Ibn 'Umar (semoga Allah meredhai mereka), yang meriwayatkan Hadith kepada Nabi (ﷺ) bahawa baginda bersabda: \"Tidak halal bagi seseorang lelaki memberikan pemberian kemudian mengambilnya semula, kecuali apa yang diberikan oleh seorang bapa kepada anaknya.\"",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، ‏‏‏‏‏‏ وَأَبُو بَكْرِ بْنُ خَلَّادٍ الْبَاهِلِيُّ، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، ‏‏‏‏‏‏عَنْ حُسَيْنٍ الْمُعَلِّمِ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏ وَابْنِ عُمَرَ، ‏‏‏‏‏‏يرفعان الحديث إلى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ لَا يَحِلُّ لِلرَّجُلِ أَنْ يُعْطِيَ الْعَطِيَّةَ ثُمَّ يَرْجِعَ فِيهَا إِلَّا الْوَالِدَ فِيمَا يُعْطِي وَلَدَهُ ."
+      },
+      {
+        "id": 26732,
+        "hadith_number": "2378",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Larangan Mengambil Semula Pemberian Kecuali daripada Anak",
+        "perawi_melayu": "Amr bin Shu'aib, daripada bapanya, daripada datuknya",
+        "english_text": "It was narrated from Amr bin Shu'aib, from his father, from, his Grandfather, that the Prophet (ﷺ) of Allah (SWT) said: “None of you should take back his gift, except a father (taking it back) from his son.”",
+        "malay_translation": "Diriwayatkan daripada Amr bin Shu'aib, daripada bapanya, daripada datuknya, bahawa Nabi (ﷺ) Allah (SWT) bersabda: \"Janganlah sesiapa di antara kamu mengambil semula pemberiannya, kecuali seorang bapa (mengambilnya semula) daripada anaknya.\"",
+        "arabic_text": "حَدَّثَنَا جَمِيلُ بْنُ الْحَسَنِ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الْأَعْلَى، ‏‏‏‏‏‏حَدَّثَنَا سَعِيدٌ، ‏‏‏‏‏‏عَنْ عَامِرٍ الْأَحْوَلِ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ لَا يَرْجِعْ أَحَدُكُمْ فِي هِبَتِهِ إِلَّا الْوَالِدَ مِنْ وَلَدِهِ ."
+      },
+      {
+        "id": 26733,
+        "hadith_number": "2379",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Ketiadaan Pemberian Sepanjang Hayat",
+        "perawi_melayu": "Abu Hurairah (semoga Allah meredhainya)",
+        "english_text": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said: “There is no lifelong grant. Whoever is given something as a lifelong grant, it is his.' ”",
+        "malay_translation": "Diriwayatkan daripada Abu Hurairah bahawa Rasulullah (ﷺ) bersabda: “Tidak ada pemberian sepanjang hayat. Sesiapa yang diberi sesuatu sebagai pemberian sepanjang hayat, maka ia adalah haknya.' ”",
+        "arabic_text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ عَمْرٍو، ‏‏‏‏‏‏عَنْ أَبِي سَلَمَةَ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ لَا عُمْرَى فَمَنْ أُعْمِرَ شَيْئًا فَهُوَ لَهُ ."
+      },
+      {
+        "id": 26734,
+        "hadith_number": "2380",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Kurniaan Seumur Hidup: Hak Milik Penerima dan Warisnya",
+        "perawi_melayu": "Jabir (RA)",
+        "english_text": "It was narrated that Jabir said: “I heard the Messenger of Allah (ﷺ) say: 'Whoever gives a lifelong grant to a man, it belongs to him (the recipient) and to his heirs. His (the giver's) words put an end to his right to it, and it belongs to the one to whom it was given for life and to his heirs.”",
+        "malay_translation": "Diriwayatkan bahawa Jabir berkata: \"Aku mendengar Rasulullah (ﷺ) bersabda: 'Sesiapa yang memberikan kurniaan seumur hidup kepada seseorang, maka ia adalah hak milik penerima dan warisnya. Kata-katanya (pemberi) telah menamatkan haknya terhadapnya, dan ia adalah milik orang yang diberikan kurniaan seumur hidup dan warisnya.\"",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، ‏‏‏‏‏‏أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، ‏‏‏‏‏‏عَنِ ابْنِ شِهَابٍ، ‏‏‏‏‏‏عَنْ أَبِي سَلَمَةَ، ‏‏‏‏‏‏عَنْ جَابِرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ:‏‏‏‏ مَنْ أَعْمَرَ رَجُلًا عُمْرَى لَهُ وَلِعَقِبِهِ فَقَدْ قَطَعَ قَوْلُهُ حَقَّهُ فِيهَا فَهِيَ لِمَنْ أُعْمِرَ وَلِعَقِبِهِ ."
+      },
+      {
+        "id": 26735,
+        "hadith_number": "2381",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Hukum Hibah Umrah untuk Waris",
+        "perawi_melayu": "Zaid bin Thabit",
+        "english_text": "It was narrated from Zaid bin Thabit that : the Prophet (ﷺ) ruled that a gift given for life belongs to the heirs (of the recipient).",
+        "malay_translation": "Diriwayatkan daripada Zaid bin Thabit bahawa: Nabi (ﷺ) telah memutuskan bahawa pemberian hadiah untuk seumur hidup adalah hak milik waris (penerima).",
+        "arabic_text": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، ‏‏‏‏‏‏حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ دِينَارٍ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنْ حُجْرٍ الْمَدَرِيِّ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ جَعَلَ الْعُمْرَى لِلْوَارِثِ ."
+      },
+      {
+        "id": 26736,
+        "hadith_number": "2382",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Tiada Ruqba dalam Pemberian",
+        "perawi_melayu": "Daripada Ibnu 'Umar",
+        "english_text": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said: “There is no Ruqba. Whoever is given a gift on the basis of Ruqba, it belongs to him, whether he lives or dies.”",
+        "malay_translation": "Diriwayatkan daripada Ibnu 'Umar bahawa Rasulullah (ﷺ) bersabda: “Tiada Ruqba. Sesiapa yang diberi hadiah atas dasar Ruqba, maka ia adalah miliknya, sama ada dia hidup atau mati.”",
+        "arabic_text": "حَدَّثَنَا إِسْحَاق بْنُ مَنْصُورٍ، ‏‏‏‏‏‏أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، ‏‏‏‏‏‏أَنْبَأَنَا ابْنُ جُرَيْجٍ، ‏‏‏‏‏‏عَنْ عَطَاءٍ، ‏‏‏‏‏‏عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، ‏‏‏‏‏‏عَنِ ابْنِ عُمَرَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ لَا رُقْبَى فَمَنْ أُرْقِبَ شَيْئًا فَهُوَ لَهُ حَيَاتَهُ وَمَمَاتَهُ ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ وَالرُّقْبَى أَنْ يَقُولَ هُوَ لِلْآخَرِ مِنِّي وَمِنْكَ مَوْتًا."
+      },
+      {
+        "id": 26737,
+        "hadith_number": "2383",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Umrah dan Ruqba",
+        "perawi_melayu": "Jabir bin 'Abdullah",
+        "english_text": "It was narrated from Jabir bin 'Abdullah that the Messenger of Allah (ﷺ) said: “Umra belongs to the one to whom it is given, and Ruqba belongs to the one to whom it is given.”",
+        "malay_translation": "Diriwayatkan daripada Jabir bin 'Abdullah bahawa Rasulullah (ﷺ) bersabda: “Umra adalah hak milik orang yang diberikan kepadanya, dan Ruqba adalah hak milik orang yang diberikan kepadanya.”",
+        "arabic_text": "حَدَّثَنَا عَمْرُو بْنُ رَافِعٍ، ‏‏‏‏‏‏حَدَّثَنَا هُشَيْمٌ، ‏‏‏‏‏‏ح وَحَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو مُعَاوِيَةَ، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا دَاوُدُ، ‏‏‏‏‏‏عَنْ أَبِي الزُّبَيْرِ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْعُمْرَى جَائِزَةٌ لِمَنْ أُعْمِرَهَا، ‏‏‏‏‏‏وَالرُّقْبَى جَائِزَةٌ لِمَنْ أُرْقِبَهَا ."
+      },
+      {
+        "id": 26738,
+        "hadith_number": "2384",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Perumpamaan Orang yang Mengambil Semula Pemberian",
+        "perawi_melayu": "Daripada Abu Hurairah",
+        "english_text": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said: “The likeness of one who takes back his gift is that of a dog that eats until it is full and vomits; then it goes back to its vomit and eats it again.”",
+        "malay_translation": "Diriwayatkan daripada Abu Hurairah bahawa Rasulullah ﷺ bersabda: “Perumpamaan orang yang mengambil semula pemberiannya adalah seperti anjing yang makan sehingga kenyang dan muntah; kemudian ia kembali kepada muntahnya dan memakannya semula.”",
+        "arabic_text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو أُسَامَةَ، ‏‏‏‏‏‏عَنْ عَوْفٍ، ‏‏‏‏‏‏عَنْ خِلَاسٍ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ إِنَّ مَثَلَ الَّذِي يَعُودُ فِي عَطِيَّتِهِ كَمَثَلِ الْكَلْبِ أَكَلَ حَتَّى إِذَا شَبِعَ قَاءَ ثُمَّ عَادَ فِي قَيْئِهِ فَأَكَلَهُ ."
+      },
+      {
+        "id": 26739,
+        "hadith_number": "2385",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Perumpamaan Orang yang Mengambil Semula Hadiah",
+        "perawi_melayu": "Daripada Ibnu 'Abbas رضي الله عنه",
+        "english_text": "It was narrated from Ibn 'Abbas that the Messenger of Allah (ﷺ) said: “The one who takes back his gift is like the one who goes back to his vomit.”",
+        "malay_translation": "Diriwayatkan daripada Ibnu 'Abbas رضي الله عنه bahawa Rasulullah ﷺ bersabda: \"Orang yang mengambil semula hadiahnya adalah seperti orang yang kembali kepada muntahnya.\"",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، ‏‏‏‏‏‏ وَمُحَمَّدُ بْنُ الْمُثَنَّى، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، ‏‏‏‏‏‏حَدَّثَنَا شُعْبَةُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَمِعْتُ قَتَادَةَ يُحَدِّثُ، ‏‏‏‏‏‏عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْعَائِدُ فِي هِبَتِهِ كَالْعَائِدِ فِي قَيْئِهِ ."
+      },
+      {
+        "id": 26740,
+        "hadith_number": "2386",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Orang yang Mengambil Semula Pemberiannya",
+        "perawi_melayu": "Daripada Ibn`Umar",
+        "english_text": "It was narrated from Ibn`Umar that the Prophet (ﷺ) said: “The one who takes back his gift is like the dog that goes back to its vomit.”",
+        "malay_translation": "Diriwayatkan daripada Ibn`Umar bahawa Nabi (ﷺ) bersabda: “Orang yang mengambil semula pemberiannya adalah seperti anjing yang kembali kepada muntahnya.”",
+        "arabic_text": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُوسُفَ الْعَرْعَرِيُّ، ‏‏‏‏‏‏حَدَّثَنَا يَزِيدُ بْنُ أَبِي حَكِيمٍ، ‏‏‏‏‏‏حَدَّثَنَا الْعُمَرِيُّ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ أَسْلَمَ، ‏‏‏‏‏‏عَنِ ابْنِ عُمَرَ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ الْعَائِدُ فِي هِبَتِهِ كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ ."
+      },
+      {
+        "id": 26741,
+        "hadith_number": "2387",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Hak Lelaki Terhadap Pemberiannya",
+        "perawi_melayu": "Abu Hurairah",
+        "english_text": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said: “A man has more right to his gift so long as he has not gotten something in return for it.”",
+        "malay_translation": "Diriwayatkan daripada Abu Hurairah bahawa Rasulullah (ﷺ) bersabda: “Seorang lelaki lebih berhak terhadap pemberiannya selagi dia belum mendapat balasan daripadanya.”",
+        "arabic_text": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، ‏‏‏‏‏‏ وَمُحَمَّدُ بْنُ إِسْمَاعِيل، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا وَكِيعٌ، ‏‏‏‏‏‏حَدَّثَنَا إِبْرَاهِيمُ بْنُ إِسْمَاعِيل بْنِ مُجَمِّعِ بْنِ جَارِيَةَ الْأَنْصَارِيُّ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ دِينَارٍ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الرَّجُلُ أَحَقُّ بِهِبَتِهِ مَا لَمْ يُثَبْ مِنْهَا ."
+      },
+      {
+        "id": 26742,
+        "hadith_number": "2388",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Wanita Tidak Boleh Mengurus Hartanya Tanpa Kebenaran Suami",
+        "perawi_melayu": "Daripada 'Amr bin Shu'aib, daripada bapanya",
+        "english_text": "It was narrated from 'Amr bin Shu'aib, from his father that he delivered: “It is not permissible for a woman to dispose of her wealth except with her husband's permission, once he has married her.”",
+        "malay_translation": "Diriwayatkan daripada 'Amr bin Shu'aib, daripada bapanya, bahawa beliau menyampaikan: \"Tidak halal bagi seorang wanita untuk mengurus hartanya kecuali dengan izin suaminya, setelah dia telah berkahwin dengannya.\"",
+        "arabic_text": "حَدَّثَنَا أَبُو يُوسُفَ الرَّقِّيُّ مُحَمَّدُ بْنُ أَحْمَدَ الصَّيْدَلَانِيُّ، ‏‏‏‏‏‏حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، ‏‏‏‏‏‏عَنِ الْمُثَنَّى بْنِ الصَّبَّاحِ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ فِي خُطْبَةٍ خَطَبَهَا:‏‏‏‏ لَا يَجُوزُ لِامْرَأَةٍ فِي مَالِهَا إِلَّا بِإِذْنِ زَوْجِهَا إِذَا هُوَ مَلَكَ عِصْمَتَهَا ."
+      },
+      {
+        "id": 26743,
+        "hadith_number": "2389",
+        "status": "Sahih",
+        "nama_buku": "Sunan Ibn-e-Majah",
+        "penulis_buku": "Imam Muhammad bin Yazid Ibn Majah al-Qazvini",
+        "tajuk_hadith": "Kebolehan Wanita Bersedekah dengan Kebenaran Suami",
+        "perawi_melayu": "'Abdullah bin Yahya, daripada datuknya",
+        "english_text": "It was narrated from 'Abdullah bin Yahya, one of the sons of Ka'b bin Malik, from his grandfather, that : his grandmother Khairah, the wife of Ka'b bin Malik, came to the Messenger of Allah (ﷺ) with some jewelry belonging to her and said, I am giving this in charity. The Messenger of Allah (ﷺ) said to her: “It is not permissible for a woman to dispose of her wealth without her husband's permission. Did you ask Ka'b's permission?” She said: “Yes.” So the Messenger of Allah (ﷺ) sent for Ka'b bin Malik, her husband, and said, “Did you give Khairah permission to give her jewelry in charity?” He said: “Yes.” So the Messenger of Allah (ﷺ) accepted it from her.",
+        "malay_translation": "Diriwayatkan daripada 'Abdullah bin Yahya, salah seorang anak lelaki Ka'b bin Malik, daripada datuknya, bahawa: neneknya Khairah, isteri Ka'b bin Malik, datang kepada Rasulullah (ﷺ) dengan beberapa perhiasan miliknya dan berkata, “Saya bersedekah dengan ini.” Rasulullah (ﷺ) bersabda kepadanya: “Tidak dibenarkan bagi seorang wanita untuk mengurus hartanya tanpa keizinan suaminya. Adakah kamu telah meminta izin daripada Ka'b?” Dia menjawab: “Ya.” Maka Rasulullah (ﷺ) mengutus seseorang untuk memanggil Ka'b bin Malik, suaminya, dan bersabda, “Adakah kamu memberikan izin kepada Khairah untuk bersedekah dengan perhiasannya?” Dia menjawab: “Ya.” Maka Rasulullah (ﷺ) menerimanya daripada Khairah.",
+        "arabic_text": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، ‏‏‏‏‏‏أَخْبَرَنِي اللَّيْثُ بْنُ سَعْدٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ يَحْيَى رَجُلٌ مِنْ وَلَدِ كَعْبِ بْنِ مَالِكٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏أَنَّ جَدَّتَهُ خَيْرَةَ امْرَأَةَ كَعْبِ بْنِ مَالِكٍ أَتَتْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِحُلِيٍّ لَهَا فَقَالَتْ:‏‏‏‏ إِنِّي تَصَدَّقْتُ بِهَذَا، ‏‏‏‏‏‏فَقَالَ لَهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ لَا يَجُوزُ لِلْمَرْأَةِ فِي مَالِهَا إِلَّا بِإِذْنِ زَوْجِهَا فَهَلِ اسْتَأْذَنْتِ كَعْبًا . قَالَتْ:‏‏‏‏ نَعَمْ، ‏‏‏‏‏‏فَبَعَثَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى كَعْبِ بْنِ مَالِكٍ زَوْجِهَا فَقَالَ:‏‏‏‏ هَلْ أَذِنْتَ لِخَيْرَةَ أَنْ تَتَصَدَّقَ بِحُلِيِّهَا ، ‏‏‏‏‏‏فَقَال:‏‏‏‏ نَعَمْ، ‏‏‏‏‏‏فَقَبِلَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنْهَا."
+      }
+    ]
+  }
+}

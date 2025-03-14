@@ -1,0 +1,177 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 14,
+    "data": [
+      {
+        "id": 15654,
+        "hadith_number": "530",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Sunnah Berjalan Kaki ke Solat Aid dan Makan Sebelum Berangkat",
+        "perawi_melayu": "Diriwayatkan daripada Ali bin Abi Talib:",
+        "english_text": "Ali bin Abi Talib narrated: It is from the SUnnah to leave for the Eid walking, and to eat something before leaving.",
+        "malay_translation": "Ali bin Abi Talib meriwayatkan: Adalah daripada Sunnah untuk pergi ke solat Aid dengan berjalan kaki, dan makan sesuatu sebelum berangkat.",
+        "arabic_text": "حَدَّثَنَا إِسْمَاعِيل بْنُ مُوسَى الْفَزَارِيُّ، حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي إِسْحَاق، عَنْ الْحَارِثِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ:‏‏‏‏ مِنَ السُّنَّةِ أَنْ تَخْرُجَ إِلَى الْعِيدِ مَاشِيًا وَأَنْ تَأْكُلَ شَيْئًا قَبْلَ أَنْ تَخْرُجَ . قَالَ أَبُو عِيسَى:‏‏‏‏ هَذَا حَدِيثٌ حَسَنٌ. وَالْعَمَلُ عَلَى هَذَا الْحَدِيثِ عِنْدَ أَكْثَرِ أَهْلِ الْعِلْمِ يَسْتَحِبُّونَ أَنْ يَخْرُجَ الرَّجُلُ إِلَى الْعِيدِ مَاشِيًا وَأَنْ يَأْكُلَ شَيْئًا قَبْلَ أَنْ يَخْرُجَ لِصَلَاةِ الْفِطْرِ. قَالَ أَبُو عِيسَى:‏‏‏‏ وَيُسْتَحَبُّ أَنْ لَا يَرْكَبَ إِلَّا مِنْ عُذْرٍ."
+      },
+      {
+        "id": 15655,
+        "hadith_number": "531",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Solat Hari Raya sebelum Khutbah",
+        "perawi_melayu": "Diriwayatkan daripada Ibn Umar: Rasulullah SAW, Abu Bakr, dan Umar RA biasa solat semasa dua Hari Raya sebelum Khutbah, kemudian mereka memberikan Khutbah.",
+        "english_text": "Ibn Umar narrated: Allah's Messenger, Abu Bakr, and Umar would pray during the two Eid before the Khutbah, then they would give the Khutbah.",
+        "malay_translation": "Diriwayatkan daripada Ibn Umar: Rasulullah SAW, Abu Bakr, dan Umar RA biasa solat semasa dua Hari Raya sebelum Khutbah, kemudian mereka memberikan Khutbah.",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ عُبَيْدِ اللَّهِ هُوَ ابْنُ عُمَرَ بْنِ حَفْصِ بْنِ عَاصِمِ بْنِ عُمَرَ بْنِ الْخَطَّابِ، عَنْ نَافِعٍ، عَنْ ابْنِ عُمَرَ، قَالَ:‏‏‏‏ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَبُو بَكْرٍ، ‏‏‏‏‏‏وَعُمَرُ يُصَلُّونَ فِي الْعِيدَيْنِ قَبْلَ الْخُطْبَةِ ثُمَّ يَخْطُبُونَ . قَالَ:‏‏‏‏ وَفِي الْبَاب عَنْ جَابِرٍ، ‏‏‏‏‏‏وَابْنِ عَبَّاسٍ. قَالَ أَبُو عِيسَى:‏‏‏‏ حَدِيثُ ابْنِ عُمَرَ حَدِيثٌ حَسَنٌ صَحِيحٌ. وَالْعَمَلُ عَلَى هَذَا عِنْدَ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَغَيْرِهِمْ أَنَّ صَلَاةَ الْعِيدَيْنِ قَبْلَ الْخُطْبَةِ. وَيُقَالُ:‏‏‏‏ إِنَّ أَوَّلَ مَنْ خَطَبَ قَبْلَ الصَّلَاةِ مَرْوَانُ بْنُ الْحَكَمِ."
+      },
+      {
+        "id": 15656,
+        "hadith_number": "532",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Solat Hari Raya Bersama Nabi SAW Tanpa Azan dan Iqamah",
+        "perawi_melayu": "Jabir bin Samurah meriwayatkan:",
+        "english_text": "Jabir bin Samurah narrated: I prayed the two Eid prayers with the Prophet - not one time, not two times - without and Adhan nor an Iqamah.",
+        "malay_translation": "Jabir bin Samurah meriwayatkan: Aku solat dua solat Hari Raya bersama Nabi SAW - bukan sekali, bukan dua kali - tanpa azan mahupun Iqamah.",
+        "arabic_text": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو الْأَحْوَصِ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ:‏‏‏‏ صَلَّيْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْعِيدَيْنِ غَيْرَ مَرَّةٍ وَلَا مَرَّتَيْنِ بِغَيْرِ أَذَانٍ وَلَا إِقَامَةٍ . قَالَ:‏‏‏‏ وَفِي الْبَاب عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، ‏‏‏‏‏‏وَابْنِ عَبَّاسٍ. قَالَ أَبُو عِيسَى:‏‏‏‏ وَحَدِيثُ جَابِرِ بْنِ سَمُرَةَ حَدِيثٌ حَسَنٌ صَحِيحٌ. وَالْعَمَلُ عَلَيْهِ عِنْدَ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَغَيْرِهِمْ، ‏‏‏‏‏‏أَنَّهُ لَا يُؤَذَّنُ لِصَلَاةِ الْعِيدَيْنِ وَلَا لِشَيْءٍ مِنَ النَّوَافِلِ."
+      },
+      {
+        "id": 15657,
+        "hadith_number": "533",
+        "status": "sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Bacaan Rasulullah SAW dalam Solat Hari Raya dan Jumaat",
+        "perawi_melayu": "An-Numan bin Bashir meriwayatkan:",
+        "english_text": "An-Numan bin Bashir narrated: For the two Eid and the Friday prayer, the Prophet would recite: Glorify the Name of your Lord, the Most High, and Has there come to you the narration of the overwhelming? And sometimes they would occur on he same day, so he would recite the two of them.",
+        "malay_translation": "An-Numan bin Bashir meriwayatkan: Untuk dua Hari Raya dan solat Jumaat, Nabi SAW akan membaca: Sucikan nama Tuhanmu, Yang Maha Tinggi, dan Adakah telah sampai kepadamu berita tentang (hari kiamat) yang meliputi (segala sesuatu)? Dan kadang-kadang kedua-duanya berlaku pada hari yang sama, maka Baginda akan membaca kedua-duanya.",
+        "arabic_text": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ، عَنْ أَبِيهِ، عَنْ حَبِيبِ بْنِ سَالِمٍ، عَنْ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ:‏‏‏‏ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ فِي الْعِيدَيْنِ وَفِي الْجُمُعَةِ بِ:‏‏‏‏ سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى وَ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ وَرُبَّمَا اجْتَمَعَا فِي يَوْمٍ وَاحِدٍ فَيَقْرَأُ بِهِمَا . قَالَ:‏‏‏‏ وَفِي الْبَاب عَنْ أَبِي وَاقِدٍ، ‏‏‏‏‏‏وَسَمُرَةَ بْنِ جُنْدَبٍ، ‏‏‏‏‏‏وَابْنِ عَبَّاسٍ. قَالَ أَبُو عِيسَى:‏‏‏‏ حَدِيثُ النُّعْمَانِ بْنِ بَشِيرٍ حَدِيثٌ حَسَنٌ صَحِيحٌ. وَهَكَذَا رَوَى سُفْيَانُ الثَّوْرِيُّ، ‏‏‏‏‏‏وَمِسْعَرٌ، ‏‏‏‏‏‏عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ نَحْوَ حَدِيثِ أَبِي عَوَانَةَ، ‏‏‏‏‏‏وَأَمَّا سُفْيَانُ بْنُ عُيَيْنَةَ فَيُخْتَلَفُ عَلَيْهِ فِي الرِّوَايَةِ، ‏‏‏‏‏‏يُرْوَى عَنْهُ عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ حَبِيبِ بْنِ سَالِمٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ النُّعْمَانِ بْنِ بَشِيرٍ وَلَا نَعْرِفُ لِحَبِيبِ بْنِ سَالِمٍ رِوَايَةً عَنْ أَبِيهِ، ‏‏‏‏‏‏وَحَبِيبُ بْنُ سَالِمٍ هُوَ مَوْلَى النُّعْمَانِ بْنِ بَشِيرٍ. وَرَوَى عَنْ النُّعْمَانِ بْنِ بَشِيرٍ أَحَادِيثَ، ‏‏‏‏‏‏وَقَدْ رُوِيَ عَنْ ابْنِ عُيَيْنَةَ، ‏‏‏‏‏‏عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ الْمُنْتَشِرِ نَحْوُ رِوَايَةِ هَؤُلَاءِ، ‏‏‏‏‏‏وَرُوِي عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ أَنَّهُ كَانَ يَقْرَأُ فِي صَلَاةِ الْعِيدَيْنِ بِ قَافٍ، ‏‏‏‏‏‏وَاقْتَرَبَتِ السَّاعَةُ وَبِهِ يَقُولُ الشَّافِعِيّ."
+      },
+      {
+        "id": 15658,
+        "hadith_number": "534",
+        "status": "sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Bacaan Rasulullah SAW semasa Solat Aidilfitri dan Aidiladha",
+        "perawi_melayu": "Ubaidullah bin Abdullah bin Utbah meriwayatkan: Umar bin Al-Khattab bertanya kepada Abu Waqid Al-Laithi tentang bacaan Rasulullah SAW semasa Aidilfitri dan Aidiladha.",
+        "english_text": "Ubaidullah bin Abdullah bin Utbah narrated: Umar bin Al-Khattab asked Abu Waqid Al-Laithi what Allah's Messenger would recite during Al-Fitr and Al-Adha, so he said: 'He would recite: Qaf, By the Glorious Quran and the Hour has drawn near, and the moon has been cleft asunder.'",
+        "malay_translation": "Ubaidullah bin Abdullah bin Utbah meriwayatkan: Umar bin Al-Khattab bertanya kepada Abu Waqid Al-Laithi, apakah yang dibaca oleh Rasulullah SAW semasa solat Aidilfitri dan Aidiladha? Maka beliau menjawab: 'Baginda membaca: Qaf, Demi Al-Quran yang mulia dan saat (kiamat) telah dekat, dan bulan telah terbelah.'",
+        "arabic_text": "حَدَّثَنَا إِسْحَاق بْنُ مُوسَى الْأَنْصَارِيُّ، حَدَّثَنَا مَعْنُ بْنُ عِيسَى، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ ضَمْرَةَ بْنِ سَعِيدٍ الْمَازِنِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ سَأَلَ أَبَا وَاقِدٍ اللَّيْثِيّ:‏‏‏‏ مَا كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ بِهِ فِي الْفِطْرِ وَالْأَضْحَى ؟ قَالَ:‏‏‏‏ كَانَ يَقْرَأُ بِ ق وَالْقُرْآنِ الْمَجِيدِ وَ اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ . قَالَ أَبُو عِيسَى:‏‏‏‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ"
+      },
+      {
+        "id": 15659,
+        "hadith_number": "535",
+        "status": "sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Sanad Lain dengan Riwayat Serupa",
+        "perawi_melayu": "Ubaidullah bin Abdullah bin Utbah",
+        "english_text": "Ubaidullah bin Abdullah bin Utbah: There is a another chain with similar narration.",
+        "malay_translation": "Ubaidullah bin Abdullah bin Utbah: Terdapat sanad lain dengan riwayat yang serupa.",
+        "arabic_text": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ ضَمْرَةَ بْنِ سَعِيدٍ بِهَذَا الْإِسْنَادِ نَحْوَهُ. قَالَ أَبُو عِيسَى:‏‏‏‏ وَأَبُو وَاقِدٍ اللَّيْثِيُّ بن عوف"
+      },
+      {
+        "id": 15660,
+        "hadith_number": "536",
+        "status": "sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Bilangan Takbir dalam Solat",
+        "perawi_melayu": "Kathir bin Abdullah meriwayatkan daripada ayahnya, daripada datuknya:",
+        "english_text": "Kathir bin Abdullah narrated from this father, from his grandfather: The Prophet said the Takbir in the first (Rak'ah) sever (times) before the recitation, and in the last, five (times) before the recitation.",
+        "malay_translation": "Kathir bin Abdullah meriwayatkan daripada ayahnya, daripada datuknya: Nabi Muhammad SAW bertakbir tujuh kali pada rakaat pertama sebelum membaca (Al-Fatihah), dan lima kali pada rakaat terakhir sebelum membaca (Al-Fatihah).",
+        "arabic_text": "حَدَّثَنَا مُسْلِمُ بْنُ عَمْرٍو أَبُو عَمْرٍو الْحَذَّاءُ الْمَدِينِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نَافِعٍ الصَّائِغُ، عَنْ كَثِيرِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَبَّرَ فِي الْعِيدَيْنِ فِي الْأُولَى سَبْعًا قَبْلَ الْقِرَاءَةِ، ‏‏‏‏‏‏وَفِي الْآخِرَةِ خَمْسًا قَبْلَ الْقِرَاءَةِ . قَالَ:‏‏‏‏ وَفِي الْبَاب عَنْ عَائِشَةَ، ‏‏‏‏‏‏وَابْنِ عُمَرَ، ‏‏‏‏‏‏وَعَبْدِ اللَّهِ بْنِ عَمْرٍو. قَالَ أَبُو عِيسَى:‏‏‏‏ حَدِيثُ جَدِّ كَثِيرٍ حَدِيثٌ حَسَنٌ، ‏‏‏‏‏‏وَهُوَ أَحْسَنُ شَيْءٍ رُوِيَ فِي هَذَا الْبَاب عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ. وَاسْمُهُ عَمْرُو بْنُ عَوْفٍ الْمُزَنِيُّ، ‏‏‏‏‏‏وَالْعَمَلُ عَلَى هَذَا عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَغَيْرِهِمْ. وَهَكَذَا رُوِيَ عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏أَنَّهُ صَلَّى بِالْمَدِينَةِ نَحْوَ هَذِهِ الصَّلَاةِ، ‏‏‏‏‏‏وَهُوَ قَوْلُ أَهْلِ الْمَدِينَةِ، ‏‏‏‏‏‏وَبِهِ يَقُولُ مَالِكُ بْنُ أَنَسٍ، ‏‏‏‏‏‏وَالشَّافِعِيُّ، ‏‏‏‏‏‏وَأَحْمَدُ، ‏‏‏‏‏‏وَإِسْحَاق. وَرُوِي عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، ‏‏‏‏‏‏أَنَّهُ قَالَ فِي التَّكْبِيرِ فِي الْعِيدَيْنِ:‏‏‏‏ تِسْعَ تَكْبِيرَاتٍ، ‏‏‏‏‏‏فِي الرَّكْعَةِ الْأُولَى خَمْسًا قَبْلَ الْقِرَاءَةِ، ‏‏‏‏‏‏وَفِي الرَّكْعَةِ الثَّانِيَةِ يَبْدَأُ بِالْقِرَاءَةِ، ‏‏‏‏‏‏ثُمَّ يُكَبِّرُ أَرْبَعًا مَعَ تَكْبِيرَةِ الرُّكُوعِ. وَقَدْ رُوِيَ عَنْ غَيْرِ وَاحِدٍ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَحْوُ هَذَا، ‏‏‏‏‏‏وَهُوَ قَوْلُ أَهْلِ الْكُوفَةِ. وَبِهِ يَقُولُ سُفْيَانُ الثَّوْرِيُّ."
+      },
+      {
+        "id": 15661,
+        "hadith_number": "537",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Solat Hari Raya Aidilfitri: Dua Rakaat Tanpa Solat Sunat Sebelum atau Selepasnya",
+        "perawi_melayu": "Ibn Abbas meriwayatkan:",
+        "english_text": "Ibn Abbas narrated: The Prophet went out on the day of Al-Fitr, so he prayed two Rak'ah, then he did not pray before it nor after it.",
+        "malay_translation": "Ibn Abbas meriwayatkan: Nabi ﷺ keluar pada Hari Raya Aidilfitri, lalu baginda solat dua rakaat, kemudian baginda tidak solat sebelum dan selepasnya.",
+        "arabic_text": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلَانَ، حَدَّثَنَا أَبُو دَاوُدَ الطَّيَالِسِيُّ، قَالَ:‏‏‏‏ أَنْبَأَنَا شُعْبَةُ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، قَال:‏‏‏‏ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ يُحَدِّثُ، ‏‏‏‏‏‏عَنْ ابْنِ عَبَّاسٍ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَرَجَ يَوْمَ الْفِطْرِ، ‏‏‏‏‏‏فَصَلَّى رَكْعَتَيْنِ ثُمَّ لَمْ يُصَلِّ قَبْلَهَا وَلَا بَعْدَهَا . قَالَ:‏‏‏‏ وَفِي الْبَاب عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، ‏‏‏‏‏‏وَعَبْدِ اللَّهِ بْنِ عَمْرٍو، ‏‏‏‏‏‏وَأَبِي سَعِيدٍ. قَالَ أَبُو عِيسَى:‏‏‏‏ حَدِيثُ ابْنِ عَبَّاسٍ حَدِيثٌ حَسَنٌ صَحِيحٌ، ‏‏‏‏‏‏وَالْعَمَلُ عَلَيْهِ عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَغَيْرِهِمْ، ‏‏‏‏‏‏وَبِهِ يَقُولُ الشَّافِعِيُّ، ‏‏‏‏‏‏وَأَحْمَدُ، ‏‏‏‏‏‏وَإِسْحَاق. وَقَدْ رَأَى طَائِفَةٌ مِنْ أَهْلِ الْعِلْمِ الصَّلَاةَ بَعْدَ صَلَاةِ الْعِيدَيْنِ، ‏‏‏‏‏‏وَقَبْلَهَا مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَغَيْرِهِمْ، ‏‏‏‏‏‏وَالْقَوْلُ الْأَوَّلُ أَصَحُّ."
+      },
+      {
+        "id": 15662,
+        "hadith_number": "538",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Solat Sunat Hari Raya: Tidak Dilakukan Sebelum dan Selepas",
+        "perawi_melayu": "Abu Bakr bin Hafs - dan beliau adalah Ibn Umar bin Sa'd bin Abi Waqas - meriwayatkan daripada Ibn Umar, bahawa:",
+        "english_text": "Abu Bakr bin Hafs - and he is Ibn Umar bin Sa'd bin Abi Waqas - narrated about Ibn Umar, that: He went out on the day of Eid, and he did not pray before it nor after it. He mentioned that the Prophet did so.",
+        "malay_translation": "Abu Bakr bin Hafs - dan beliau adalah Ibn Umar bin Sa'd bin Abi Waqas - meriwayatkan daripada Ibn Umar, bahawa: Beliau keluar pada hari Raya, dan beliau tidak solat sebelum dan selepasnya. Beliau menyebut bahawa Nabi ﷺ juga berbuat demikian.",
+        "arabic_text": "حَدَّثَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا وَكِيعٌ، عَنْ أَبَانَ بْنِ عَبْدِ اللَّهِ الْبَجَلِيِّ، عَنْ أَبِي بَكْرِ بْنِ حَفْصٍ وَهُوَ ابْنُ عُمَرَ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ وَهُوَ ابْنُ عُمَرَ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ ابْنِ عُمَرَ أَنَّهُ خَرَجَ فِي يَوْمِ عِيدٍ فَلَمْ يُصَلِّ قَبْلَهَا وَلَا بَعْدَهَا، ‏‏‏‏‏‏وَذَكَرَ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَعَلَهُ . قَالَ أَبُو عِيسَى:‏‏‏‏ وَهَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ."
+      },
+      {
+        "id": 15663,
+        "hadith_number": "539",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Perintah untuk Wanita Keluar Menunaikan Solat Hari Raya",
+        "perawi_melayu": "Umm Atiyyah meriwayatkan:",
+        "english_text": "Umm Atiyyah narrated: Allah's Messenger would order the virgins, the mature women, the secluded and the menstruating to go out for the two Eid. As for the menstruating women, they were to stay away from the Musalla and participate in the Muslims supplications. One of them said: 'O Messenger of Allah! What if she does not have a Jilbab? He said: 'Then let her sis lend her a Jilbab.'",
+        "malay_translation": "Umm Atiyyah meriwayatkan: Rasulullah SAW memerintahkan para gadis, wanita dewasa, wanita yang berada dalam pingitan dan wanita yang sedang haid untuk keluar menunaikan solat dua Hari Raya (Aidilfitri dan Aidiladha). Bagi wanita yang sedang haid, mereka hendaklah menjauhi Musalla (tempat solat) dan turut serta dalam doa umat Islam. Salah seorang daripada mereka berkata: 'Wahai Rasulullah! Bagaimana jika dia tidak mempunyai Jilbab?' Baginda bersabda: 'Maka hendaklah saudarinya meminjamkan Jilbab kepadanya.'",
+        "arabic_text": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا مَنْصُورٌ هُوَ ابْنُ زَاذَانَ، عَنْ ابْنِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُخْرِجُ الْأَبْكَارَ وَالْعَوَاتِقَ وَذَوَاتِ الْخُدُورِ وَالْحُيَّضَ فِي الْعِيدَيْنِ، ‏‏‏‏‏‏فَأَمَّا الْحُيَّضُ فَيَعْتَزِلْنَ الْمُصَلَّى وَيَشْهَدْنَ دَعْوَةَ الْمُسْلِمِينَ، ‏‏‏‏‏‏قَالَتْ إِحْدَاهُنَّ:‏‏‏‏ يَا رَسُولَ اللَّهِ إِنْ لَمْ يَكُنْ لَهَا جِلْبَاب ؟ قَالَ:‏‏‏‏ فَلْتُعِرْهَا أُخْتُهَا مِنْ جَلَابِيبِهَا ."
+      },
+      {
+        "id": 15664,
+        "hadith_number": "540",
+        "status": "sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Riwayat Serupa dari Umm Atiyyah",
+        "perawi_melayu": "Tiada",
+        "english_text": "There is a similar narration from Umm Atiyyah : with another chain.",
+        "malay_translation": "Terdapat riwayat yang serupa daripada Umm Atiyyah: dengan sanad yang lain.",
+        "arabic_text": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا هُشَيْمٌ، عَنْ هِشَامِ بْنِ حَسَّانَ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ بِنَحْوِهِ. قَالَ:‏‏‏‏ وَفِي الْبَاب عَنْ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏وَجَابِرٍ. قَالَ أَبُو عِيسَى:‏‏‏‏ وَحَدِيثُ أُمِّ عَطِيَّةَ حَدِيثٌ حَسَنٌ صَحِيحٌ. وَقَدْ ذَهَبَ بَعْضُ أَهْلِ الْعِلْمِ إِلَى هَذَا الْحَدِيثِ، ‏‏‏‏‏‏وَرَخَّصَ لِلنِّسَاءِ فِي الْخُرُوجِ إِلَى الْعِيدَيْنِ وَكَرِهَهُ بَعْضُهُمْ. وَرُوِي عَنْ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، ‏‏‏‏‏‏أَنَّهُ قَالَ:‏‏‏‏ أَكْرَهُ الْيَوْمَ الْخُرُوجَ لِلنِّسَاءِ فِي الْعِيدَيْنِ، ‏‏‏‏‏‏فَإِنْ أَبَتِ الْمَرْأَةُ إِلَّا أَنْ تَخْرُجَ فَلْيَأْذَنْ لَهَا زَوْجُهَا أَنْ تَخْرُجَ فِي أَطْمَارِهَا الْخُلْقَانِ وَلَا تَتَزَيَّنْ، ‏‏‏‏‏‏فَإِنْ أَبَتْ أَنْ تَخْرُجَ كَذَلِكَ فَلِلزَّوْجِ أَنْ يَمْنَعَهَا عَنِ الْخُرُوجِ. وَيُرْوَى عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، ‏‏‏‏‏‏قَالَتْ:‏‏‏‏ لَوْ رَأَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا أَحْدَثَ النِّسَاءُ لَمَنَعَهُنَّ الْمَسْجِدَ كَمَا مُنِعَتْ نِسَاءُ بَنِي إِسْرَائِيلَ. وَيُرْوَى عَنْ سُفْيَانَ الثَّوْرِيِّ أَنَّهُ كَرِهَ الْيَوْمَ الْخُرُوجَ لِلنِّسَاءِ إِلَى الْعِيدِ"
+      },
+      {
+        "id": 15665,
+        "hadith_number": "541",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Adab Perjalanan Nabi Muhammad SAW pada Hari Raya",
+        "perawi_melayu": "Abu Hurairah meriwayatkan:",
+        "english_text": "Abu Hurairah narrated: When Allah's Messenger would go out on the day of Eid by one route, he would return by another.",
+        "malay_translation": "Abu Hurairah meriwayatkan: Apabila Rasulullah SAW keluar pada hari raya melalui satu jalan, Baginda akan kembali melalui jalan yang lain.",
+        "arabic_text": "حَدَّثَنَا عَبْدُ الْأَعْلَى بْنُ وَاصِلِ بْنِ عَبْدِ الْأَعْلَى الْكُوفِيُّ، وَأَبُو زُرْعَةَ، قَالَا:‏‏‏‏ حَدَّثَنَا مُحَمَّدُ بْنُ الصَّلْتِ، عَنْ فُلَيْحِ بْنِ سُلَيْمَانَ، عَنْ سَعِيدِ بْنِ الْحَارِثِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ:‏‏‏‏ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا خَرَجَ يَوْمَ الْعِيدِ فِي طَرِيقٍ رَجَعَ فِي غَيْرِهِ . قَالَ:‏‏‏‏ وَفِي الْبَاب عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، ‏‏‏‏‏‏وَأَبِي رَافِعٍ. قَالَ أَبُو عِيسَى:‏‏‏‏ وَحَدِيثُ أَبِي هُرَيْرَةَ حَدِيثٌ حَسَنٌ غَرِيبٌ. وَرَوَى أَبُو تُمَيْلَةَ، ‏‏‏‏‏‏وَيُونُسُ بْنُ مُحَمَّدٍ هَذَا الْحَدِيثَ، ‏‏‏‏‏‏عَنْ فُلَيْحِ بْنِ سُلَيْمَانَ، ‏‏‏‏‏‏عَنْ سَعِيدِ بْنِ الْحَارِثِ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ وَقَدِ اسْتَحَبَّ بَعْضُ أَهْلِ الْعِلْمِ لِلْإِمَامِ إِذَا خَرَجَ فِي طَرِيقٍ أَنْ يَرْجِعَ فِي غَيْرِهِ اتِّبَاعًا لِهَذَا الْحَدِيثِ. وَهُوَ قَوْلُ الشَّافِعِيِّ، ‏‏‏‏‏‏وَحَدِيثُ جَابِرٍ كَأَنَّهُ أَصَحُّ."
+      },
+      {
+        "id": 15666,
+        "hadith_number": "542",
+        "status": "sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Amalan Nabi SAW Sebelum Solat Hari Raya",
+        "perawi_melayu": "Abdullah bin Buraidah meriwayatkan daripada ayahnya",
+        "english_text": "Abdullah bin Buraidah narrated from his father: The Prophet would not leave on the Day of Fitr until he ate, and he would not eat on the day of Adha until he prayed.",
+        "malay_translation": "Abdullah bin Buraidah meriwayatkan daripada ayahnya: Nabi SAW tidak akan keluar pada Hari Raya Fitri sehingga baginda makan, dan baginda tidak akan makan pada Hari Raya Adha sehingga baginda solat.",
+        "arabic_text": "حَدَّثَنَا الْحَسَنُ بْنُ الصَّبَّاحِ الْبَزَّارُ الْبَغْدَادِيُّ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، عَنْ ثَوَابِ بْنِ عُتْبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ:‏‏‏‏ كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَا يَخْرُجُ يَوْمَ الْفِطْرِ حَتَّى يَطْعَمَ وَلَا يَطْعَمُ يَوْمَ الْأَضْحَى حَتَّى يُصَلِّيَ . قَالَ:‏‏‏‏ وَفِي الْبَاب عَنْ عَلِيٍّ، ‏‏‏‏‏‏وَأَنَسٍ. قَالَ أَبُو عِيسَى:‏‏‏‏ حَدِيثُ بُرَيْدَةَ بْنِ حُصَيْبٍ الْأَسْلَمِيِّ حَدِيثٌ غَرِيبٌ. وقَالَ مُحَمَّدٌ:‏‏‏‏ لَا أَعْرِفُ لِثَوَابِ بْنِ عُتْبَةَ غَيْرَ هَذَا الْحَدِيثِ، ‏‏‏‏‏‏وَقَدِ اسْتَحَبَّ قَوْمٌ مِنْ أَهْلِ الْعِلْمِ أَنْ لَا يَخْرُجَ يَوْمَ الْفِطْرِ حَتَّى يَطْعَمَ شَيْئًا وَيُسْتَحَبُّ لَهُ أَنْ يُفْطِرَ عَلَى تَمْرٍ، ‏‏‏‏‏‏وَلَا يَطْعَمَ يَوْمَ الْأَضْحَى حَتَّى يَرْجِعَ."
+      },
+      {
+        "id": 15667,
+        "hadith_number": "543",
+        "status": "sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Sarapan Kurma Sebelum Solat Hari Raya Fitri",
+        "perawi_melayu": "Anas bin Malik meriwayatkan:",
+        "english_text": "Anas bin Malik narrated: The Prophet would have a breakfast of dates on the Day of Fitr before leaving for the Musalla.",
+        "malay_translation": "Anas bin Malik meriwayatkan: Nabi SAW biasanya bersarapan dengan kurma pada Hari Raya Fitri sebelum berangkat ke Musalla.",
+        "arabic_text": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا هُشَيْمٌ، عَنْ مُحَمَّدِ بْنِ إِسْحَاق، عَنْ حَفْصِ بْنِ عُبَيْدِ اللَّهِ بْنِ أَنَسٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُفْطِرُ عَلَى تَمَرَاتٍ يَوْمَ الْفِطْرِ قَبْلَ أَنْ يَخْرُجَ إِلَى الْمُصَلَّى . قَالَ أَبُو عِيسَى:‏‏‏‏ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ صَحِيحٌ."
+      }
+    ]
+  }
+}

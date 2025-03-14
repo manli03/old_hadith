@@ -1,0 +1,189 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 15,
+    "data": [
+      {
+        "id": 20481,
+        "hadith_number": "1401",
+        "status": "sahih",
+        "nama_buku": "Sunan Abu Dawud",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Sunnah tentang Ruku' dan Sujud Semasa Membaca Al-Quran",
+        "perawi_melayu": "Amr ibn al-As",
+        "english_text": "Narrated Amr ibn al-As: The Prophet صلی ‌اللہ ‌علیہ ‌وسلم taught me fifteen prostrations while reciting the Quran, including three in al-Mufassal and two in Surah al-Hajj. Abu Dawud said: Abu al-Darda has reported eleven prostrations from the Prophet صلی ‌اللہ ‌علیہ ‌وسلم, but chain of this tradition is weak.",
+        "malay_translation": "Dikisahkan oleh Amr ibn al-As: Rasulullah SAW telah mengajarkan kepadaku lima belas kali sujud ketika membaca Al-Quran, termasuk tiga sujud dalam al-Mufassal dan dua sujud dalam Surah al-Hajj. Abu Dawud berkata: Abu al-Darda telah meriwayatkan sebelas kali sujud daripada Rasulullah SAW, tetapi sanad (rantai perawi) riwayat ini lemah.",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ بْنِ الْبَرْقِيِّ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، ‏‏‏‏‏‏أَخْبَرَنَا نَافِعُ بْنُ يَزِيدَ، ‏‏‏‏‏‏عَنْ الْحَارِثِ بْنِ سَعِيدٍ الْعُتَقِيِّ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ مُنَيْنٍ مِنْ بَنِي عَبْدِ كُلَالٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ الْعَاصِ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَقْرَأَهُ خَمْسَ عَشْرَةَ سَجْدَةً فِي الْقُرْآنِ، ‏‏‏‏‏‏مِنْهَا ثَلَاثٌ فِي الْمُفَصَّلِ، ‏‏‏‏‏‏وَفِي سُورَةِ الْحَجِّ سَجْدَتَانِ . قَالَ أَبُو دَاوُد:‏‏‏‏ رُوِيَ عَنْ أَبِي الدَّرْدَاءِ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏ إِحْدَى عَشْرَةَ سَجْدَةً وَإِسْنَادُهُ وَاهٍ."
+      },
+      {
+        "id": 20482,
+        "hadith_number": "1402",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Dua Sujud dalam Surah al-Hajj",
+        "perawi_melayu": "Uqbah ibn Amir (Semoga Allah meredhainya)",
+        "english_text": "Narrated Uqbah ibn Amir: I said to the Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم: Are there two prostrations in Surah al-Hajj? He replied: Yes; if anyone does not make two prostrations, he should not recite them.",
+        "malay_translation": "Diriwayatkan daripada Uqbah ibn Amir: Saya berkata kepada Rasulullah صلی ‌اللہ ‌علیہ ‌وسلم: Adakah terdapat dua sujud dalam Surah al-Hajj? Baginda menjawab: Ya; sesiapa yang tidak melakukan dua sujud tersebut, maka janganlah dia membacanya.",
+        "arabic_text": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، ‏‏‏‏‏‏أَخْبَرَنَا ابْنُ وَهْبٍ، ‏‏‏‏‏‏أَخْبَرَنِي ابْنُ لَهِيعَةَ، ‏‏‏‏‏‏أَنَّ مِشْرَحَ بْنَ هَاعَانَ أَبَا الْمُصْعَبِ حَدَّثَهُ، ‏‏‏‏‏‏أَنَّ عُقْبَةَ بْنَ عَامِرٍ حَدَّثَهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قُلْتُ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ أَفِي سُورَةِ الْحَجِّ سَجْدَتَانِ ؟ قَالَ:‏‏‏‏ نَعَمْ، ‏‏‏‏‏‏وَمَنْ لَمْ يَسْجُدْهُمَا فَلَا يَقْرَأْهُمَا ."
+      },
+      {
+        "id": 20483,
+        "hadith_number": "1403",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Rasulullah SAW Tidak Sujud Dalam Ayat-Ayat al-Mufassal di Madinah",
+        "perawi_melayu": "Abdullah ibn Abbas (RA)",
+        "english_text": "Narrated Abdullah ibn Abbas: The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم did not make a prostration at any verse in al-Mufassal from the time he moved to Madina.",
+        "malay_translation": "Diriwayatkan daripada Abdullah ibn Abbas: Rasulullah SAW tidak melakukan sujud pada mana-mana ayat dalam al-Mufassal sejak baginda berpindah ke Madinah.",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، ‏‏‏‏‏‏حَدَّثَنَا أَزْهَرُ بْنُ الْقَاسِمِ، ‏‏‏‏‏‏قَالَ مُحَمَّدٌ:‏‏‏‏ رَأَيْتُهُ بِمَكَّةَ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو قُدَامَةَ، ‏‏‏‏‏‏عَنْ مَطَرٍ الْوَرَّاقِ، ‏‏‏‏‏‏عَنْعِكْرِمَةَ، ‏‏‏‏‏‏عَنْ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمْ يَسْجُدْ فِي شَيْءٍ مِنْ الْمُفَصَّلِ مُنْذُ تَحَوَّلَ إِلَى الْمَدِينَةِ ."
+      },
+      {
+        "id": 20484,
+        "hadith_number": "1404",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Nabi ﷺ Tidak Bersujud di Surah al-Mufassal di Madinah",
+        "perawi_melayu": "Zaid bin Thabit رضي الله عنه",
+        "english_text": "Narrated Zaid bin Thabit: The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم did not make prostration at any verse in al-Mufassal from the time he moved to Madina.",
+        "malay_translation": "Diriwayatkan daripada Zaid bin Thabit: Rasulullah صلی ‌اللہ ‌علیہ ‌وسلم tidak melakukan sujud pada mana-mana ayat dalam al-Mufassal sejak baginda berpindah ke Madinah.",
+        "arabic_text": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، ‏‏‏‏‏‏حَدَّثَنَا وَكِيعٌ، ‏‏‏‏‏‏عَنْ ابْنِ أَبِي ذِئْبٍ، ‏‏‏‏‏‏عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ، ‏‏‏‏‏‏عَنْ عَطَاءِ بْنِ يَسَارٍ، ‏‏‏‏‏‏عَنْزَيْدِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَرَأْتُ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ النَّجْمَ فَلَمْ يَسْجُدْ فِيهَا ."
+      },
+      {
+        "id": 20485,
+        "hadith_number": "1405",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawud",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Zaid bin Thabit: Solat dan Tidak Bersujud",
+        "perawi_melayu": "Zaid bin Thabit",
+        "english_text": "This tradition has also been transmitted by Zaid bin Thabit through a different chain of narrators to the same effect. Abu Dawud said: Zaid was imam (in a prayer) and he did not make prostration.",
+        "malay_translation": "Hadith ini juga telah diriwayatkan oleh Zaid bin Thabit melalui rangkaian perawi yang berbeza dengan kesan yang sama. Abu Dawud berkata: Zaid adalah imam (dalam solat) dan dia tidak melakukan sujud.",
+        "arabic_text": "حَدَّثَنَا ابْنُ السَّرْحِ، ‏‏‏‏‏‏أَخْبَرَنَا ابْنُ وَهْبٍ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو صَخْرٍ، ‏‏‏‏‏‏عَنْ ابْنِ قُسَيْطٍ، ‏‏‏‏‏‏عَنْ خَارِجَةَ بْنِ زَيْدِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏بِمَعْنَاهُ. قَالَ أَبُو دَاوُد:‏‏‏‏ كَانَ زَيْدٌ الْإِمَامَ فَلَمْ يَسْجُدْ فِيهَا."
+      },
+      {
+        "id": 20486,
+        "hadith_number": "1406",
+        "status": "sahih",
+        "nama_buku": "Sunan Abu Dawud",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Kisah Rasulullah SAW Membaca Surah An-Najm dan Sujudnya",
+        "perawi_melayu": "Abdullah bin Mas'ud",
+        "english_text": "Narrated Abdullah (bin Masud): The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم recited Surah al-Najm and prostrated himself. No one remained there who did not prostrate (along with him). A man from the people took a handful of pebbles or dust and raised it to his face saying: This is enough for me. Abdullah (bin Masud) said: I later saw him killed as an infidel.",
+        "malay_translation": "Dikisahkan oleh Abdullah bin Mas'ud: Rasulullah SAW membaca Surah An-Najm dan sujud. Tidak seorang pun yang berada di situ yang tidak bersujud (bersama baginda). Seorang lelaki dari kalangan manusia mengambil segenggam batu atau debu dan mengangkatnya ke mukanya sambil berkata: “Ini cukup buatku.” Abdullah bin Mas'ud berkata: Kemudian aku melihatnya dibunuh sebagai seorang kafir.",
+        "arabic_text": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، ‏‏‏‏‏‏حَدَّثَنَا شُعْبَةُ، ‏‏‏‏‏‏عَنْ أَبِي إِسْحَاقَ، ‏‏‏‏‏‏عَنْ الْأَسْوَدِ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَرَأَ سُورَةَ النَّجْمِ فَسَجَدَ فِيهَا، ‏‏‏‏‏‏وَمَا بَقِيَ أَحَدٌ مِنَ الْقَوْمِ إِلَّا سَجَدَ، ‏‏‏‏‏‏فَأَخَذَ رَجُلٌ مِنَ الْقَوْمِ كَفًّا مِنْ حَصًى أَوْ تُرَابٍ فَرَفَعَهُ إِلَى وَجْهِهِ، ‏‏‏‏‏‏وَقَالَ يَكْفِينِي هَذَا ، ‏‏‏‏‏‏قَالَ عَبْدُ اللَّهِ:‏‏‏‏ فَلَقَدْ رَأَيْتُهُ بَعْدَ ذَلِكَ قُتِلَ كَافِرًا."
+      },
+      {
+        "id": 20487,
+        "hadith_number": "1407",
+        "status": "sahih",
+        "nama_buku": "Sunan Abu Dawud",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Sujud Bersama Rasulullah SAW dan Pembukaan Langit",
+        "perawi_melayu": "Abu Hurairah",
+        "english_text": "Narrated Abu Hurairah: We prostrated ourselves along with the Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم on account of: When the sky is rent asunder and Recite in the name of Your Lord Who created",
+        "malay_translation": "Dikisahkan oleh Abu Hurairah: Kami sujud bersama Rasulullah SAW disebabkan: Apabila langit terbelah dan Bacalah dengan (nama) Tuhanmu yang menciptakan",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ أَيُّوبَ بْنِ مُوسَى، ‏‏‏‏‏‏عَنْ عَطَاءِ بْنِ مِينَاءَ، ‏‏‏‏‏‏عَنْ أَبِي هُرَيْرَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَجَدْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي:‏‏‏‏ إِذَا السَّمَاءُ انْشَقَّتْ وَ اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ."
+      },
+      {
+        "id": 20488,
+        "hadith_number": "1408",
+        "status": "sahih",
+        "nama_buku": "Sunan Abu Dawud",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Dalil dan Hikmah Solat Sujud yang Khusus untuk Surah Insyirah",
+        "perawi_melayu": "Abu Rafi",
+        "english_text": "Narrated Abu Rafi: I offered the night prayer behind Abu Hurairah. He recited Surah Inshiqaq ( When the sky is rent asunder ) and prostrated himself. I asked him: What is this prostration ? He replied: I prostrated myself on account of this (surah) behind Abu al-Qasim (i. e. the Prophet). I shall continue prostrating on account of this till I meet him.",
+        "malay_translation": "Dikisahkan oleh Abu Rafi: Aku menunaikan solat malam di belakang Abu Hurairah. Beliau membaca Surah Insyirah (apabila langit dibelah) dan sujud. Aku bertanya kepadanya, \"Apakah maksud sujud ini?\" Beliau menjawab, \"Aku sujud atas sebab surah ini, kerana aku telah melihat Rasulullah (saw) sujud atas sebab surah ini. Aku akan terus sujud atas sebab ini hingga aku bertemu dengannya (Rasulullah).\" ",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا الْمُعْتَمِرُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَمِعْتُ أَبِي، ‏‏‏‏‏‏حَدَّثَنَا بَكْرٌ، ‏‏‏‏‏‏عَنْ أَبِي رَافِعٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ صَلَّيْتُ مَعَ أَبِي هُرَيْرَةَ الْعَتَمَةَ، ‏‏‏‏‏‏فَقَرَأَ:‏‏‏‏ إِذَا السَّمَاءُ انْشَقَّتْ، ‏‏‏‏‏‏فَسَجَدَ، ‏‏‏‏‏‏فَقُلْتُ:‏‏‏‏ مَا هَذِهِ السَّجْدَةُ ؟ قَالَ:‏‏‏‏ سَجَدْتُ بِهَا خَلْفَ أَبِي الْقَاسِمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏فَلَا أَزَالُ أَسْجُدُ بِهَا حَتَّى أَلْقَاهُ ‏.‏"
+      },
+      {
+        "id": 20489,
+        "hadith_number": "1409",
+        "status": "sahih",
+        "nama_buku": "Sunan Abu Dawud",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Sujud Semasa Membaca Surah Sad Bukan Daripada yang Diperintahkan Allah",
+        "perawi_melayu": "Ibn Abbas",
+        "english_text": "Narrated Ibn Abbas: A prostration when reciting Sad is not one of those which are divinely commanded, but I have seen Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم prostrate himself.",
+        "malay_translation": "Dikisahkan oleh Ibn Abbas: Sujud ketika membaca Surah Sad bukanlah salah satu sujud yang diwajibkan, tetapi aku telah melihat Rasulullah صلی ‌اللہ ‌علیہ ‌وسلم sujud.",
+        "arabic_text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، ‏‏‏‏‏‏حَدَّثَنَا وُهَيْبٌ، ‏‏‏‏‏‏حَدَّثَنَا أَيُّوبُ، ‏‏‏‏‏‏عَنْ عِكْرِمَةَ، ‏‏‏‏‏‏عَنْ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَيْسَ ص مِنْ عَزَائِمِ السُّجُودِ، ‏‏‏‏‏‏وَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْجُدُ فِيهَا ."
+      },
+      {
+        "id": 20490,
+        "hadith_number": "1410",
+        "status": "sahih",
+        "nama_buku": "Sunan Abu Dawud",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Tuntutan Bersujud Ketika Membaca Surah Sad",
+        "perawi_melayu": "Sa'id al-Khudri",
+        "english_text": "Narrated Saeed al-Khudri: The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم recited surah Sad on the pulpit. When he reached the place of prostration (in the surah), he descended and prostrated himself and the people prostrated with him. When the next day came, he recited it. When he reached the place of prostration (in the surah), the people became ready for prostration. Thereupon the Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم said: This is the repentance of a Prophet ; but I saw you being ready for prostration. So he descended and prostrated himself and the people prostrated along with him.",
+        "malay_translation": "Perawi Sa'id al-Khudri meriwayatkan: Rasulullah صلی ‌اللہ ‌علیہ ‌وسلم membaca Surah Sad di atas mimbar. Apabila baginda sampai pada tempat sujud, baginda turun dan bersujud, dan orang ramai bersujud bersama baginda. Pada hari berikutnya, baginda membacanya semula. Apabila sampai pada tempat sujud, orang ramai sudah bersiap sedia untuk sujud. Lalu Rasulullah صلی ‌اللہ ‌علیہ ‌وسلم bersabda: 'Inilah taubat seorang Nabi, tetapi aku melihat kamu semua sudah bersiap untuk sujud.'  Maka baginda turun dan bersujud, dan orang ramai bersujud bersama baginda.",
+        "arabic_text": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ وَهْبٍ، ‏‏‏‏‏‏أَخْبَرَنِي عَمْرٌو يَعْنِي ابْنَ الْحَارِثِ، ‏‏‏‏‏‏عَنْ ابْنِ أَبِي هِلَالٍ، ‏‏‏‏‏‏عَنْ عِيَاضِ بْنِ عَبْدِ اللَّهِ بْنِ سَعْدِ بْنِ أَبِي سَرْحٍ، ‏‏‏‏‏‏عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، ‏‏‏‏‏‏أَنَّهُ قَالَ:‏‏‏‏ قَرَأَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ عَلَى الْمِنْبَرِ ص، ‏‏‏‏‏‏فَلَمَّا بَلَغَ السَّجْدَةَ نَزَلَ فَسَجَدَ وَسَجَدَ النَّاسُ مَعَهُ، ‏‏‏‏‏‏فَلَمَّا كَانَ يَوْمٌ آخَرُ قَرَأَهَا فَلَمَّا بَلَغَ السَّجْدَةَ تَشَزَّنَ النَّاسُ لِلسُّجُودِ، ‏‏‏‏‏‏فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ إِنَّمَا هِيَ تَوْبَةُ نَبِيٍّ، ‏‏‏‏‏‏وَلَكِنِّي رَأَيْتُكُمْ تَشَزَّنْتُمْ لِلسُّجُودِ، ‏‏‏‏‏‏فَنَزَلَ، ‏‏‏‏‏‏فَسَجَدَ وَسَجَدُوا ."
+      },
+      {
+        "id": 20491,
+        "hadith_number": "1411",
+        "status": "sahih",
+        "nama_buku": "Sunan Abu Dawud",
+        "penulis_buku": "Imam Abu Dawud Sulaiman bin al-Ash'ath al-Sijistani",
+        "tajuk_hadith": "Kisah Sembahyang Sujud dalam Tahun Penaklukan",
+        "perawi_melayu": "Abdullah bin Umar",
+        "english_text": "Narrated Abdullah ibn Umar: In the year of Conquest the Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم recited a verse at which a prostration should be made and all the people prostrated themselves. Some were mounted, and some were prostrating themselves on the ground, and those who were mounted prostrated themselves on their hands.",
+        "malay_translation": "Dikisahkan oleh Abdullah bin Umar: Pada tahun penaklukan, Rasulullah صلی ‌اللہ ‌علیہ ‌وسلم melafazkan satu ayat yang memerlukan sujud, dan semua orang melakukan sujud. Ada yang menunggang kenderaan, dan ada yang sujud di atas tanah. Orang yang menunggang kenderaan pula sujud di atas tangan mereka.",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ أَبُو الْجَمَاهِرِ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الْعَزِيزِ يَعْنِي ابْنَ مُحَمَّدٍ، ‏‏‏‏‏‏عَنْ مُصْعَبِ بْنِ ثَابِتِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَرَأَ عَامَ الْفَتْحِ سَجْدَةً، ‏‏‏‏‏‏فَسَجَدَ النَّاسُ كُلُّهُمْ، ‏‏‏‏‏‏مِنْهُمُ الرَّاكِبُ وَالسَّاجِدُ فِي الْأَرْضِ حَتَّى إِنَّ الرَّاكِبَ لَيَسْجُدُ عَلَى يَدِهِ ."
+      },
+      {
+        "id": 20492,
+        "hadith_number": "1412",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Rasulullah ﷺ Membaca Surah dan Sujud",
+        "perawi_melayu": "Ibn Umar",
+        "english_text": "Narrated Ibn Umar: The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم would recite to us a surah (according to the version of Ibn Numair) outside the prayer (the agreed version goes), then he would prostrate along with him, and none of us could find a place for his forehead.",
+        "malay_translation": "Diriwayatkan oleh Ibnu Umar: Rasulullah ﷺ membaca kepada kami sebuah surah (menurut riwayat Ibn Numair) di luar solat (seperti yang disepakati), kemudian baginda sujud bersama kami, dan tiada seorang pun di antara kami yang dapat mencari tempat untuk meletakkan dahi mereka.",
+        "arabic_text": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، ‏‏‏‏‏‏حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ. ح وحَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ الْحَرَّانِيُّ، ‏‏‏‏‏‏حَدَّثَنَا ابْنُ نُمَيْرٍ الْمَعْنَى، ‏‏‏‏‏‏عَنْ عُبَيْدِ اللَّهِ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ عَلَيْنَا السُّورَةَ، ‏‏‏‏‏‏قَالَ ابْنُ نُمَيْرٍ:‏‏‏‏ فِي غَيْرِ الصَّلَاةِ، ‏‏‏‏‏‏ثُمَّ اتَّفَقَا، ‏‏‏‏‏‏فَيَسْجُدُ وَنَسْجُدُ مَعَهُ حَتَّى لَا يَجِدَ أَحَدُنَا مَكَانًا لِمَوْضِعِ جَبْهَتِهِ ."
+      },
+      {
+        "id": 20493,
+        "hadith_number": "1413",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Nabi SAW Mengucapkan Takbir Ketika Membaca Ayat Sajdah",
+        "perawi_melayu": "Abdullah ibn Umar (رضي الله عنه)",
+        "english_text": "Narrated Abdullah ibn Umar: The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم used to recite the Quran to us. When he came upon the verse containing prostration, he would utter the takbir (Allah is most great) and we would prostrate ourselves along with him. The narrator Abd al-Razzaq said: Al-Thawri liked this tradition very much. Abu Dawud said: This was liked by him for this contains the uttering of takbir.",
+        "malay_translation": "Diriwayatkan daripada Abdullah ibn Umar: Rasulullah صلی ‌اللہ ‌علیہ ‌وسلم selalu membacakan al-Quran kepada kami. Apabila baginda sampai pada ayat yang mengandungi sujud, baginda akan mengucapkan takbir (Allah Maha Besar) dan kami pun turut sujud bersama baginda. Perawi Abd al-Razzaq berkata: Al-Thawri sangat menyukai hadis ini. Abu Dawud berkata: Hadis ini disukai olehnya kerana ia mengandungi ucapan takbir.",
+        "arabic_text": "حَدَّثَنَا أَحْمَدُ بْنُ الْفُرَاتِ أَبُو مَسْعُودٍ الرَّازِيُّ، ‏‏‏‏‏‏أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، ‏‏‏‏‏‏أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ، ‏‏‏‏‏‏عَنْ نَافِعٍ، ‏‏‏‏‏‏عَنْ ابْنِ عُمَرَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقْرَأُ عَلَيْنَا الْقُرْآنَ، ‏‏‏‏‏‏فَإِذَا مَرَّ بِالسَّجْدَةِ كَبَّرَ وَسَجَدَ وَسَجَدْنَا . قَالَ عَبْدُ الرَّزَّاقِ:‏‏‏‏ وَكَانَ الثَّوْرِيُّ يُعْجِبُهُ هَذَا الْحَدِيثُ. قَالَ أَبُو دَاوُد:‏‏‏‏ يُعْجِبُهُ لِأَنَّهُ كَبَّرَ."
+      },
+      {
+        "id": 20494,
+        "hadith_number": "1414",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Sujud Rasulullah SAW Ketika Membaca Al-Quran di Malam Hari",
+        "perawi_melayu": "Aishah, Ummul Muminin (Semoga Allah meredhainya)",
+        "english_text": "Narrated Aishah, Ummul Muminin: The Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم prostrated himself at night when reciting the Quran. He said repeatedly: My face prostrates itself to Him Who created it and brought forth its hearing and seeing by His might and power.",
+        "malay_translation": "Diriwayatkan daripada Aishah, Ummul Muminin (Semoga Allah meredhainya): Rasulullah ﷺ sujud pada waktu malam ketika membaca Al-Quran. Baginda mengulang-ulangi: Wajahku bersujud kepada Dia yang menciptanya dan mengeluarkan pendengaran dan penglihatannya dengan kekuasaan dan kekuatan-Nya.",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا إِسْمَاعِيلُ، ‏‏‏‏‏‏حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، ‏‏‏‏‏‏عَنْ رَجُلٍ، ‏‏‏‏‏‏عَنْ أَبِي الْعَالِيَةِ، ‏‏‏‏‏‏عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا، ‏‏‏‏‏‏قَالَتْ:‏‏‏‏ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ فِي سُجُودِ الْقُرْآنِ بِاللَّيْلِ، ‏‏‏‏‏‏يَقُولُ فِي السَّجْدَةِ مِرَارًا:‏‏‏‏ سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَشَقَّ سَمْعَهُ وَبَصَرَهُ بِحَوْلِهِ وَقُوَّتِهِ ."
+      },
+      {
+        "id": 20495,
+        "hadith_number": "1415",
+        "status": "sahih",
+        "nama_buku": "Sunan Abu Dawud",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Larangan Sujud Tilawah Sebelum Terbit Matahari",
+        "perawi_melayu": "Abu Tamimah al-Hujaymi",
+        "english_text": "Narrated Abu Tamimah al-Hujaymi: When we came to Madina accompanying the caravan, I used to preach after the dawn prayer, and prostrate on account of the recitation of the Quran. Ibn Umar prohibited me three times, but I did not cease doing that. He then repeated (his prohibition) saying: I prayed behind the Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم, Abu Bakr, Umar and Uthman, they would not prostrate (on account of the recitation of the Quran) till the sun had risen.",
+        "malay_translation": "Dikisahkan oleh Abu Tamimah al-Hujaymi: Ketika kami tiba di Madinah bersama rombongan, saya selalu menyampaikan khutbah selepas solat Subuh, dan sujud tilawah atas bacaan al-Quran. Ibn Umar melarang saya sebanyak tiga kali, namun saya tetap melakukannya. Kemudian beliau mengulangi larangannya, sambil berkata: Saya pernah solat di belakang Rasulullah صلی ‌اللہ ‌علیہ ‌وسلم, Abu Bakar, Umar dan Uthman, mereka tidak akan sujud tilawah sehingga matahari terbit.",
+        "arabic_text": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الصَّبَّاحِ الْعَطَّارُ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو بَحْرٍ، ‏‏‏‏‏‏حَدَّثَنَا ثَابِتُ بْنُ عُمَارَةَ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو تَمِيمَةَ الْهُجَيْمِيُّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَمَّا بَعَثْنَا الرَّكْبَ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ يَعْنِي إِلَى الْمَدِينَةِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ كُنْتُ أَقُصُّ بَعْدَ صَلَاةِ الصُّبْحِ، ‏‏‏‏‏‏فَأَسْجُدُ، ‏‏‏‏‏‏فَنَهَانِي ابْنُ عُمَرَ فَلَمْ أَنْتَهِ ثَلَاثَ مِرَارٍ، ‏‏‏‏‏‏ثُمَّ عَادَ، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ إِنِّي صَلَّيْتُ خَلْفَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏وَمَعَ أَبِي بَكْرٍ، ‏‏‏‏‏‏وَعُمَرَ، ‏‏‏‏‏‏وَعُثْمَانَ رَضِيَ اللَّهُ عَنْهُمْ فَلَمْ يَسْجُدُوا حَتَّى تَطْلُعَ الشَّمْسُ ."
+      }
+    ]
+  }
+}

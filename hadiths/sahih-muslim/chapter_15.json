@@ -1,0 +1,141 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 11,
+    "data": [
+      {
+        "id": 10344,
+        "hadith_number": "2780",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Amalan I'tikaf Rasulullah SAW pada Sepuluh Hari Terakhir Ramadan",
+        "perawi_melayu": "Diriwayatkan daripada Ibn 'Umar (رضی اللہ تعالیٰ عنہ):",
+        "english_text": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe i'tikaf in the last ten days of Ramadan.",
+        "malay_translation": "Rasulullah (‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) biasa beri'tikaf pada sepuluh hari terakhir bulan Ramadan.",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ الرَّازِيُّ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا: «أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يَعْتَكِفُ فِي الْعَشْرِ الْأَوَاخِرِ مِنْ رَمَضَانَ»."
+      },
+      {
+        "id": 10345,
+        "hadith_number": "2781",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Rasulullah SAW Beriktikaf pada Sepuluh Hari Terakhir Ramadan",
+        "perawi_melayu": "Diriwayatkan oleh Abdullah bin Umar (رضی اللہ تعالیٰ عنہ):",
+        "english_text": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe i'tikaf in the last ten days of Ramadan. Nafi' said: Abdullah (رضی اللہ تعالیٰ عنہ) showed me the place in the mosque where the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe i'tikaf.",
+        "malay_translation": "Rasulullah (صلی ‌اللہ ‌علیہ ‌وسلم ‌) biasa melakukan i'tikaf pada sepuluh hari terakhir bulan Ramadan. Nafi' berkata: Abdullah (رضی اللہ تعالیٰ عنہ) menunjukkan kepada saya tempat di masjid di mana Rasulullah (صلی ‌اللہ ‌علیہ ‌وسلم ‌) biasa melakukan i'tikaf.",
+        "arabic_text": "وحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ بْنُ يَزِيدَ، أَنَّ نَافِعًا، حَدَّثَهُ عَنْ عَبْدِ اللهِ بْنِ عُمَرَ رَضِيَ اللهُ عَنْهُمَا: «أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ يَعْتَكِفُ الْعَشْرَ الْأَوَاخِرَ مِنْ رَمَضَانَ» قَالَ نَافِعٌ: وَقَدْ أَرَانِي عَبْدُ اللهِ رَضِيَ اللهُ عَنْهُ: «الْمَكَانَ الَّذِي كَانَ يَعْتَكِفُ فِيهِ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنَ الْمَسْجِدِ»."
+      },
+      {
+        "id": 10346,
+        "hadith_number": "2782",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Amalan I'tikaf Rasulullah SAW pada Sepuluh Hari Terakhir Ramadan",
+        "perawi_melayu": "Diriwayatkan oleh A'isha (رضی اللہ تعالیٰ عنہا):",
+        "english_text": "The Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to observe i'tikaf in the last ten days of Ramadan.",
+        "malay_translation": "Rasulullah (‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) biasa melakukan i'tikaf pada sepuluh hari terakhir bulan Ramadan.",
+        "arabic_text": "وحَدَّثَنَا سَهْلُ بْنُ عُثْمَانَ، حَدَّثَنَا عُقْبَةُ بْنُ خَالِدٍ السَّكُونِيُّ، عَنْ عُبَيْدِ اللهِ بْنِ عُمَرَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَعْتَكِفُ الْعَشْرَ الْأَوَاخِرَ مِنْ رَمَضَانَ»."
+      },
+      {
+        "id": 10347,
+        "hadith_number": "2783",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Rasulullah ﷺ Beri'tikaf pada Sepuluh Hari Terakhir Ramadan",
+        "perawi_melayu": "Diriwayatkan daripada 'A'isha (رضی اللہ تعالیٰ عنہا) berkata:",
+        "english_text": "The Messenger of Allah ﷺ used to observe I'tikaf during the last ten days.",
+        "malay_translation": "Rasulullah ﷺ biasa beri'tikaf pada sepuluh hari terakhir (bulan Ramadan).",
+        "arabic_text": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، ح وحَدَّثَنَا سَهْلُ بْنُ عُثْمَانَ، أَخْبَرَنَا حَفْصُ بْنُ غِيَاثٍ، جَمِيعًا عَنْ هِشَامٍ، ح وحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ - وَاللَّفْظُ لَهُمَا - قَالَا: حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رَضِيَ اللهُ عَنْهَا، قَالَتْ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «يَعْتَكِفُ الْعَشْرَ الْأَوَاخِرَ مِنْ رَمَضَانَ»."
+      },
+      {
+        "id": 10348,
+        "hadith_number": "2784",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Iktikaf Nabi Muhammad SAW pada Bulan Ramadan",
+        "perawi_melayu": "Diriwayatkan dari A'isha (رضي الله تعالى عنها):",
+        "english_text": "The Messenger of Allah (ﷺ) used to observe i'tikif in the last ten days of Ramadan till Allah called him back (to his heavenly home). Then his wives observed i'tikaf after him.",
+        "malay_translation": "Rasulullah (ﷺ) biasa beri'tikaf pada sepuluh hari terakhir Ramadan sehingga Allah memanggil baginda kembali (ke rumah syurga-Nya). Kemudian isteri-isteri baginda turut beri'tikaf selepas baginda.",
+        "arabic_text": "وحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ «كَانَ يَعْتَكِفُ الْعَشْرَ الْأَوَاخِرَ مِنْ رَمَضَانَ، حَتَّى تَوَفَّاهُ اللهُ عَزَّ وَجَلَّ، ثُمَّ اعْتَكَفَ أَزْوَاجُهُ مِنْ بَعْدِهِ»."
+      },
+      {
+        "id": 10349,
+        "hadith_number": "2785",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Perbuatan I'tikaf Rasulullah SAW dan Isteri-isteri Baginda pada Bulan Ramadan dan Shawwal",
+        "perawi_melayu": "Aisyah RA meriwayatkan:",
+        "english_text": "When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) decided to observe i'tikaf, he prayed in the morning and then went to the place of his i'tikaf, and he commanded that a tent should be pitched for him, and it was pitched. He (once) decided to observe i'tikaf in the last ten days of Ramadan. Zainab ( رضی اللہ عنہا) commanded that a tent should be pitched for her. It was pitched accordingly. And some other wives of Allah's Apostle ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) commanded that tents should be pitched for them too. And they were pitched. When the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ) offered the morning prayer, he looked and found (so many) tents. Thereupon he said: What is this virtue that these (ladies) have decided to acquire? He commanded his tent to be struck and abandoned i'tikaf in the month of Ramadan and postponed it to the first ten days of Shawwal.",
+        "malay_translation": "Apabila Rasulullah SAW memutuskan untuk beri'tikaf, baginda solat pada waktu pagi dan kemudian pergi ke tempat i'tikafnya, dan baginda memerintahkan agar khemah didirikan untuk baginda, lalu khemah itu didirikan. Baginda (pernah) memutuskan untuk beri'tikaf pada sepuluh hari terakhir bulan Ramadan. Zainab RA memerintahkan agar khemah didirikan untuknya. Maka didirikanlah khemah itu. Dan beberapa isteri Rasulullah SAW yang lain memerintahkan agar khemah didirikan untuk mereka juga. Lalu khemah-khemah itu didirikan. Apabila Rasulullah SAW selesai menunaikan solat subuh, baginda melihat dan mendapati (begitu banyak) khemah. Maka baginda bersabda: 'Apakah kebaikan yang ingin dicapai oleh wanita-wanita ini?' Baginda memerintahkan agar khemah baginda dirobohkan dan membatalkan i'tikaf pada bulan Ramadan dan menundanya ke sepuluh hari pertama bulan Shawwal.",
+        "arabic_text": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، إِذَا أَرَادَ أَنْ يَعْتَكِفَ صَلَّى الْفَجْرَ، ثُمَّ دَخَلَ مُعْتَكَفَهُ وَإِنَّهُ أَمَرَ بِخِبَائِهِ فَضُرِبَ، أَرَادَ الِاعْتِكَافَ فِي الْعَشْرِ الْأَوَاخِرِ مِنْ رَمَضَانَ، فَأَمَرَتْ زَيْنَبُ بِخِبَائِهَا فَضُرِبَ، وَأَمَرَ غَيْرُهَا مِنْ أَزْوَاجِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِخِبَائِهِ فَضُرِبَ، فَلَمَّا صَلَّى رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الْفَجْرَ، نَظَرَ، فَإِذَا الْأَخْبِيَةُ فَقَالَ: «آلْبِرَّ تُرِدْنَ؟» فَأَمَرَ بِخِبَائِهِ فَقُوِّضَ، وَتَرَكَ الِاعْتِكَافَ فِي شَهْرِ رَمَضَانَ، حَتَّى اعْتَكَفَ فِي الْعَشْرِ الْأَوَّلِ مِنْ شَوَّالٍ."
+      },
+      {
+        "id": 10350,
+        "hadith_number": "2786",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Aisyah, Hafsa dan Zainab Mendirikan Khemah untuk I'tikaf",
+        "perawi_melayu": "Hadis yang serupa dengan hadis Abu Muawiyah (no.2785) diriwayatkan daripada Aisyah رضی اللہ تعالیٰ عنہا daripada Nabi ﷺ. Dalam Hadis Ibn Uyaynah, Amr bin Al-Harith dan Ibn Ishaq, disebutkan:",
+        "english_text": "'A'isha رضی اللہ تعالیٰ عنہا , Hafsa رضی اللہ تعالیٰ عنہا and Zainab ( رضی اللہ تعالیٰ عنہا) setting up of tents for i'tikaf.",
+        "malay_translation": "Aisyah رضی اللہ تعالیٰ عنہا, Hafsa رضی اللہ تعالیٰ عنہا dan Zainab ( رضی اللہ تعالیٰ عنہا) mendirikan khemah untuk i'tikaf.",
+        "arabic_text": "وحَدَّثَنَاه ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، ح وحَدَّثَنِي عَمْرُو بْنُ سَوَّادٍ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنَا عَمْرُو بْنُ الْحَارِثِ، ح وحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا أَبُو أَحْمَدَ، حَدَّثَنَا سُفْيَانُ، ح وحَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا أَبُو الْمُغِيرَةِ، حَدَّثَنَا الْأَوْزَاعِيُّ، ح وحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنِ ابْنِ إِسْحَاقَ، كُلُّ هَؤُلَاءِ عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، عَنِ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، بِمَعْنَى حَدِيثِ أَبِي مُعَاوِيَةَ. وَفِي حَدِيثِ ابْنِ عُيَيْنَةَ، وَعَمْرِو بْنِ الْحَارِثِ، وَابْنِ إِسْحَاقَ، ذِكْرُ عَائِشَةَ، وَحَفْصَةَ، وَزَيْنَبَ رَضِيَ اللهُ عَنْهُنَّ، أَنَّهُنَّ ضَرَبْنَ الْأَخْبِيَةَ لِلِاعْتِكَافِ."
+      },
+      {
+        "id": 10351,
+        "hadith_number": "2787",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Amalan Rasulullah ﷺ pada Sepuluh Malam Terakhir",
+        "perawi_melayu": "A'isha (رضی اللہ عنہا) meriwayatkan:",
+        "english_text": "When the last ten nights began Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) kept awake at night (for prayer and devotion), wakened his family, and prepared himself to observe prayer (with more vigour).",
+        "malay_translation": "Apabila sepuluh malam terakhir (Ramadhan) bermula, Rasulullah ﷺ berjaga malam (untuk solat dan ibadah), membangunkan keluarganya, dan mempersiapkan diri untuk mengerjakan solat (dengan lebih bersungguh-sungguh).",
+        "arabic_text": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، قَالَ إِسْحَاقُ: أَخْبَرَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَبِي يَعْفُورٍ، عَنْ مُسْلِمِ بْنِ صُبَيْحٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، «إِذَا دَخَلَ الْعَشْرُ، أَحْيَا اللَّيْلَ، وَأَيْقَظَ أَهْلَهُ، وَجَدَّ وَشَدَّ الْمِئْزَرَ»."
+      },
+      {
+        "id": 10352,
+        "hadith_number": "2788",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Kesungguhan Rasulullah SAW dalam Beribadah pada Sepuluh Malam Terakhir Ramadhan",
+        "perawi_melayu": "Diriwayatkan daripada Aisyah (semoga Allah meredhainya):",
+        "english_text": "Allah's Messenger ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) used to exert himself in devotion during the last ten nights to a greater extent than at any other time.",
+        "malay_translation": "Rasulullah (‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) biasanya bersungguh-sungguh dalam beribadah pada sepuluh malam terakhir (Ramadhan) melebihi pada waktu-waktu lain.",
+        "arabic_text": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَأَبُو كَامِلٍ الْجَحْدَرِيُّ، كِلَاهُمَا عَنْ عَبْدِ الْوَاحِدِ بْنِ زِيَادٍ، قَالَ قُتَيْبَةُ: حَدَّثَنَا عَبْدُ الْوَاحِدِ، عَنِ الْحَسَنِ بْنِ عُبَيْدِ اللهِ، قَالَ: سَمِعْتُ إِبْرَاهِيمَ، يَقُولُ: سَمِعْتُ الْأَسْوَدَ بْنَ يَزِيدَ، يَقُولُ: قَالَتْ عَائِشَةُ رَضِيَ اللهُ عَنْهَا: «كَانَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَجْتَهِدُ فِي الْعَشْرِ الْأَوَاخِرِ، مَا لَا يَجْتَهِدُ فِي غَيْرِهِ»."
+      },
+      {
+        "id": 10353,
+        "hadith_number": "2789",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Tidak Pernah Melihat Rasulullah SAW Berpuasa pada Sepuluh Hari Zulhijjah",
+        "perawi_melayu": "Diriwayatkan oleh Aisyah (رضی اللہ تعالیٰ عنہا):",
+        "english_text": "I never saw the Messenger of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) fasting in the ten days of Dhu'I-Hijja.",
+        "malay_translation": "Saya tidak pernah melihat Rasulullah (‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) berpuasa dalam sepuluh hari Zulhijjah.",
+        "arabic_text": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ وَإِسْحَاقُ - قَالَ إِسْحَاقُ: أَخْبَرَنَا، وَقَالَ الْآخَرَانِ: - حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الْأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنِ الْأَسْوَدِ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا، قَالَتْ: «مَا رَأَيْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ صَائِمًا فِي الْعَشْرِ قَطُّ»."
+      },
+      {
+        "id": 10354,
+        "hadith_number": "2790",
+        "status": "Sahih",
+        "nama_buku": "Sahih Muslim",
+        "penulis_buku": "Imam Muslim",
+        "tajuk_hadith": "Rasulullah ﷺ Tidak Berpuasa pada Sepuluh Hari Zulhijjah",
+        "perawi_melayu": "Diriwayatkan oleh Aisyah (رضi الله عنها):",
+        "english_text": "The Apostle of Allah ( ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌) did not observe fast in the ten days of Dhul-Hijja.",
+        "malay_translation": "Rasulullah (ﷺ) tidak berpuasa pada sepuluh hari Zulhijjah.",
+        "arabic_text": "وحَدَّثَنِي أَبُو بَكْرِ بْنُ نَافِعٍ الْعَبْدِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنِ الْأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنِ الْأَسْوَدِ، عَنْ عَائِشَةَ رَضِيَ اللهُ عَنْهَا: «أَنَّ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ لَمْ يَصُمِ الْعَشْرَ»."
+      }
+    ]
+  }
+}

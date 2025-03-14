@@ -1,0 +1,129 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 10,
+    "data": [
+      {
+        "id": 39205,
+        "hadith_number": "4217",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Hukum 'Aqiqah dan Jumlah Korban",
+        "perawi_melayu": "'Amr bin Shuaib, daripada ayahnya, daripada datuknya",
+        "english_text": "It was narrated from 'Amr bin Shuaib, from his fahther, that his grandfather said: The messenger of Allah was asked about the 'Aqiqah and he said: Allah, the mighty and sublime, does not like Al-Uquq' as if he disliked the word (Al-Aqiqah). He said to the Messenger of Allah: 'But one of us may offer a sacrifice when a child is born to him.' He said: 'Whoever wants to offer a sacrifice for his child, let him do so, for a boy; two sheep, Mukafaatan, (of equal age), and for a girl, one.' (One of the narrators) Dawud said: 'I asked Ziad bin Aslam about the word Mukafaatan and he said: 'Two similar sheep that are slaughtered together.",
+        "malay_translation": "Diriwayatkan daripada 'Amr bin Shuaib, daripada ayahnya, daripada datuknya, beliau berkata: Rasulullah ﷺ ditanya tentang 'Aqiqah, lalu Baginda bersabda: Allah Yang Maha Agung dan Maha Tinggi tidak menyukai Al-Uquq seolah-olah Baginda tidak menyukai perkataan (Al-Aqiqah). Beliau berkata kepada Rasulullah ﷺ: 'Tetapi salah seorang daripada kami mungkin menawarkan korban apabila seorang anak dilahirkan kepadanya.' Baginda bersabda: 'Sesiapa yang ingin menawarkan korban untuk anaknya, biarlah dia berbuat demikian. Untuk seorang lelaki, dua ekor kambing, Mukafaatan (yang sama umurnya), dan untuk seorang perempuan, seekor.' (Salah seorang perawi) Dawud berkata: 'Saya bertanya kepada Ziad bin Aslam tentang perkataan Mukafaatan dan dia berkata: 'Dua ekor kambing yang serupa yang disembelih bersama-sama.'",
+        "arabic_text": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا أَبُو نُعَيْمٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا دَاوُدُ بْنُ قَيْسٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ شُعَيْبٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَدِّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الْعَقِيقَةِ ؟، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ لَا يُحِبُّ اللَّهُ عَزَّ وَجَلَّ الْعُقُوقَ ،‏‏‏‏ وَكَأَنَّهُ كَرِهَ الِاسْمَ، ‏‏‏‏‏‏قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ إِنَّمَا نَسْأَلُكَ أَحَدُنَا يُولَدُ لَهُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ مَنْ أَحَبَّ أَنْ يَنْسُكَ عَنْ وَلَدِهِ فَلْيَنْسُكْ عَنْهُ عَنَ الْغُلَامِ شَاتَانِ مُكَافَأَتَانِ، ‏‏‏‏‏‏وَعَنِ الْجَارِيَةِ شَاةٌ . قَالَ دَاوُدُ:‏‏‏‏ سَأَلْتُ زَيْدَ بْنَ أَسْلَمَ عَنِ الْمُكَافَأَتَانِ ؟، ‏‏‏‏‏‏قَالَ:‏‏‏‏ الشَّاتَانِ الْمُشَبَّهَتَانِ،‏‏‏‏ تُذْبَحَانِ جَمِيعًا."
+      },
+      {
+        "id": 39206,
+        "hadith_number": "4218",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Nabi SAW Melaksanakan Aqiqah untuk Al-Hasan dan Al-Husain",
+        "perawi_melayu": "'Abdullah bin Buraidah, daripada bapanya",
+        "english_text": "It was narrated from 'Abdullah bin Buraidah, from his father, that: the Messenger of Allah offered the 'Aqiqah for Al-Hasan and Al-Husain.",
+        "malay_translation": "Diriwayatkan daripada 'Abdullah bin Buraidah, daripada bapanya, bahawa Rasulullah SAW melakukan 'Aqiqah untuk Al-Hasan dan Al-Husain.",
+        "arabic_text": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا الْفَضْلُ، ‏‏‏‏‏‏عَنْ الْحُسَيْنِ بْنِ وَاقِدٍ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ عَقَّ عَنِ الْحَسَنِ،‏‏‏‏ وَالْحُسَيْنِ ."
+      },
+      {
+        "id": 39207,
+        "hadith_number": "4219",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Hukum Aqiqah untuk Anak Lelaki",
+        "perawi_melayu": "Salman bin 'Amir Ad-Dabbi",
+        "english_text": "It was narrated from Salman bin 'Amir Ad-Dabbi that the Messenger of Allah said: For a boy there shoud be an 'Aqiqah, so shed blood for him, and remove the harm from him.",
+        "malay_translation": "Diriwayatkan daripada Salman bin 'Amir Ad-Dabbi bahawa Rasulullah ﷺ bersabda: Bagi seorang anak lelaki, hendaklah dilakukan 'Aqiqah, maka sembelihlah korban untuknya, dan hilangkanlah sebarang gangguan daripadanya.",
+        "arabic_text": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَفَّانُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا أَيُّوبُ، ‏‏‏‏‏‏وَحَبِيبٌ، ‏‏‏‏‏‏وَيُونُسُ، ‏‏‏‏‏‏وَقَتَادَةُ، ‏‏‏‏‏‏عَنْ مُحَمَّدِ بْنِ سِيرِينَ، ‏‏‏‏‏‏عَنْ سَلْمَانَ بْنِ عَامِرٍ الضَّبِّيِّ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ فِي الْغُلَامِ عَقِيقَةٌ فَأَهْرِيقُوا عَنْهُ دَمًا وَأَمِيطُوا عَنْهُ الْأَذَى ."
+      },
+      {
+        "id": 39208,
+        "hadith_number": "4220",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Penyembelihan Aqiqah untuk Anak Lelaki dan Perempuan",
+        "perawi_melayu": "Um Kurz (رضي الله عنها)",
+        "english_text": "t was narrated from Um Kurz that the Messenger of Allah said: for a boy two sheep, Mukafaatan (of equal age), and for a girl, one sheep.",
+        "malay_translation": "Diriwayatkan daripada Um Kurz (رضي الله عنها) bahawa Rasulullah ﷺ bersabda: \"Untuk anak lelaki dua ekor kambing, Mukafaatan (umur yang sama), dan untuk anak perempuan, seekor kambing.\"",
+        "arabic_text": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَفَّانُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا حَمَّادٌ، ‏‏‏‏‏‏عَنْ قَيْسِ بْنِ سَعْدٍ، ‏‏‏‏‏‏عَنْ عَطَاءٍ، ‏‏‏‏‏‏وَطَاوُسٍ، ‏‏‏‏‏‏وَمُجَاهِدٍ، ‏‏‏‏‏‏عَنْ أُمِّ كُرْزٍ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ فِي الْغُلَامِ شَاتَانِ مُكَافَأَتَانِ، ‏‏‏‏‏‏وَفِي الْجَارِيَةِ شَاةٌ ."
+      },
+      {
+        "id": 39209,
+        "hadith_number": "4221",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Aqiqah untuk Anak Lelaki dan Perempuan",
+        "perawi_melayu": "Umm Kurz",
+        "english_text": "It was narrated from Umm Kurz that the Messenger of Allah said: For a boy two sheep, Mukafaatan (of equal age), and for a girl, one sheep,",
+        "malay_translation": "Diriwayatkan daripada Umm Kurz bahawa Rasulullah ﷺ bersabda: Untuk seorang anak lelaki dua ekor kambing, Mukafaatan (sebaya), dan untuk anak perempuan, seekor kambing.",
+        "arabic_text": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ عَمْرٌو،‏‏‏‏ عَنْ عَطَاءٍ، ‏‏‏‏‏‏عَنْ حَبِيبَةَ بِنْتِ مَيْسَرَةَ، ‏‏‏‏‏‏عَنْ أُمِّ كُرْزٍ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ عَنِ الْغُلَامِ شَاتَانِ مُكَافَأَتَانِ، ‏‏‏‏‏‏وَعَنِ الْجَارِيَةِ شَاةٌ ."
+      },
+      {
+        "id": 39210,
+        "hadith_number": "4222",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Kurban untuk Anak Lelaki dan Perempuan",
+        "perawi_melayu": "Umm Kurz",
+        "english_text": "It was narrated that umm Kurz said: I came to the Prophet and asked him about the sacrificial meat. I heard him say: 'For a boy, two sheep, and for a girl, one sheep, and it does not matter if they are male or female. '",
+        "malay_translation": "Diriwayatkan bahawa Umm Kurz berkata: Saya datang kepada Nabi ﷺ dan bertanya tentang daging korban. Saya mendengar baginda bersabda: 'Bagi anak lelaki, dua ekor kambing, dan bagi anak perempuan, seekor kambing, dan tidak mengapa sama ada jantan atau betina.' ",
+        "arabic_text": "أَخْبَرَنَا قُتَيْبَةُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ عُبَيْدِ اللَّهِ وَهُوَ ابْنُ أَبِي يَزِيدَ، ‏‏‏‏‏‏عَنْ سِبَاعِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏عَنْ أُمِّ كُرْزٍ، ‏‏‏‏‏‏قَالَتْ:‏‏‏‏ أَتَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالْحُدَيْبِيَةِ أَسْأَلُهُ عَنْ لُحُومِ الْهَدْيِ ؟ فَسَمِعْتُهُ يَقُولُ:‏‏‏‏ عَلَى الْغُلَامِ شَاتَانِ،‏‏‏‏ وَعَلَى الْجَارِيَةِ شَاةٌ لَا يَضُرُّكُمْ ذُكْرَانًا كُنَّ أَمْ إِنَاثًا ."
+      },
+      {
+        "id": 39211,
+        "hadith_number": "4223",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Kurban Aqiqah: Dua Ekor Kambing untuk Anak Lelaki, Satu untuk Anak Perempuan",
+        "perawi_melayu": "Ummu Kurz",
+        "english_text": "It was narrated from Umma Kurz that the Messenger of Allah said: For a boy, two sheep, and or a girl, one sheep, and it does not matter if they are male or female",
+        "malay_translation": "Diriwayatkan daripada Ummu Kurz bahawa Rasulullah ﷺ bersabda: “Bagi anak lelaki, dua ekor kambing, dan bagi anak perempuan, seekor kambing, dan tidak mengapa sama ada jantan atau betina.”",
+        "arabic_text": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا ابْنُ جُرَيْجٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ أَبِي يَزِيدَ، ‏‏‏‏‏‏عَنْ سِبَاعِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏عَنْ أُمِّ كُرْزٍ، ‏‏‏‏‏‏أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ عَنِ الْغُلَامِ شَاتَانِ، ‏‏‏‏‏‏وَعَنَ الْجَارِيَةِ شَاةٌ، ‏‏‏‏‏‏لَا يَضُرُّكُمْ ذُكْرَانًا كُنَّ أَمْ إِنَاثًا ."
+      },
+      {
+        "id": 39212,
+        "hadith_number": "4224",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Nabi saw. Mengaqiqah Hasan dan Husain",
+        "perawi_melayu": "Abdullah bin 'Abbas (r.a.)",
+        "english_text": "It was narrated that Ibn 'Abbas said: The Messenger of Allah offered an 'Aqiqah for Al-Hasan and Al-Husain, may Allah be please with them, two rams for each.",
+        "malay_translation": "Diriwayatkan daripada Ibn 'Abbas bahawa Rasulullah ﷺ telah melakukan 'Aqiqah untuk Al-Hasan dan Al-Husain, semoga Allah meredhai mereka, dengan dua ekor kambing biri-biri untuk setiap seorang.",
+        "arabic_text": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصِ بْنِ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي أَبِي، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي إِبْرَاهِيمُ هُوَ ابْنُ طَهْمَانَ، ‏‏‏‏‏‏عَنْ الْحَجَّاجِ بْنِ الْحَجَّاجِ، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏عَنْ عِكْرِمَةَ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ عَقَّ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنَ الْحَسَنِ وَالْحُسَيْنِ رَضِيَ اللَّهُ عَنْهُمَا بِكَبْشَيْنِ كَبْشَيْنِ ."
+      },
+      {
+        "id": 39213,
+        "hadith_number": "4225",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Setiap Anak Lelaki Tergadai dengan 'Aqiqahnya",
+        "perawi_melayu": "Daripada Samurah bin Jundab رضي الله عنه",
+        "english_text": "It was narrated from Qatadah, from Al-Hasan, from Samurh bin Jundab that the Messenger of Allah said: Every boy is in pledge for his 'Aqiqah, so slaughter (the animal) for him on the seventh day, and shave his head, and a name",
+        "malay_translation": "Diriwayatkan daripada Qatadah, daripada Al-Hasan, daripada Samurah bin Jundab رضي الله عنه bahawa Rasulullah ﷺ bersabda: Setiap anak lelaki tergadai dengan 'Aqiqahnya. Maka sembelihlah (binatang) untuknya pada hari ketujuh, cukurlah kepalanya, dan berilah nama.",
+        "arabic_text": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، ‏‏‏‏‏‏وَمُحَمَّدُ بْنُ عَبْدِ الْأَعْلَى، ‏‏‏‏‏‏قَالَا:‏‏‏‏ حَدَّثَنَا يَزِيدُ وَهُوَ ابْنُ زُرَيْعٍ، ‏‏‏‏‏‏عَنْ سَعِيدٍ، ‏‏‏‏‏‏أَنْبَأَنَا قَتَادَةُ، ‏‏‏‏‏‏عَنْ الْحَسَنِ، ‏‏‏‏‏‏عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، ‏‏‏‏‏‏عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ كُلُّ غُلَامٍ رَهِينٌ بِعَقِيقَتِهِ تُذْبَحُ عَنْهُ يَوْمَ سَابِعِهِ،‏‏‏‏ وَيُحْلَقُ رَأْسُهُ وَيُسَمَّى ."
+      },
+      {
+        "id": 39214,
+        "hadith_number": "4226",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Hadith tentang 'Aqiqah: Riwayat daripada Habib bin Ash-Shahid",
+        "perawi_melayu": "Habib bin Ash-Shahid",
+        "english_text": "It was narrated from Habib bin Ash-Shahid: Muhammad bin Sirin said to me: 'Ask Al-Hasan (Al-Basri) from whom he heard this Hadith about the 'Aqiqah.' I asked him about that and he said: 'I heard it from Samurh. '",
+        "malay_translation": "Diriwayatkan daripada Habib bin Ash-Shahid: Muhammad bin Sirin berkata kepada saya: 'Tanyalah Al-Hasan (Al-Basri) daripada siapa dia mendengar Hadith ini tentang 'Aqiqah.' Saya bertanya kepadanya tentang perkara itu dan dia berkata: 'Saya mendengarnya daripada Samurah.'",
+        "arabic_text": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا قُرَيْشُ بْنُ أَنَسٍ، ‏‏‏‏‏‏عَنْ حَبِيبِ بْنِ الشَّهِيدِ، ‏‏‏‏‏‏قَالَ لِي مُحَمَّدُ بْنُ سِيرِينَ:‏‏‏‏ سَلْ الْحَسَنَ مِمَّنْ سَمِعَ حَدِيثَهُ فِي الْعَقِيقَةِ،‏‏‏‏ فَسَأَلْتُهُ عَنْ ذَلِكَ ؟، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ سَمِعْتُهُ مِنْ سَمُرَةَ."
+      }
+    ]
+  }
+}

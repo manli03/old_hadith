@@ -1,0 +1,165 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 13,
+    "data": [
+      {
+        "id": 1033,
+        "hadith_number": "1067",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Sujud Ketika Membaca Surah An-Najm dan Akibat Keengganan",
+        "perawi_melayu": "Diriwayatkan oleh Abdullah bin Mas'ud RA:",
+        "english_text": "The Prophet (ﷺ) recited Suratan-Najm (103) at Mecca and prostrated while reciting it and those who were with him did the same except an old man who took a handful of small stones or earth and lifted it to his forehead and said, \"This is sufficient for me.\" Later on, I saw him killed as a non-believer.",
+        "malay_translation": "Nabi Muhammad SAW membaca Surah An-Najm (103) di Mekah dan sujud ketika membacanya. Mereka yang bersama baginda turut melakukan perkara yang sama kecuali seorang lelaki tua yang mengambil segenggam batu kecil atau tanah, mengangkatnya ke dahinya dan berkata, \"Ini sudah cukup bagi saya.\" Kemudian, saya melihatnya terbunuh sebagai seorang bukan beriman.",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا غُنْدَرٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ الأَسْوَدَ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ قَرَأَ النَّبِيُّ صلى الله عليه وسلم النَّجْمَ بِمَكَّةَ فَسَجَدَ فِيهَا، وَسَجَدَ مَنْ مَعَهُ، غَيْرَ شَيْخٍ أَخَذَ كَفًّا مِنْ حَصًى أَوْ تُرَابٍ فَرَفَعَهُ إِلَى جَبْهَتِهِ وَقَالَ يَكْفِينِي هَذَا‏.‏ فَرَأَيْتُهُ بَعْدَ ذَلِكَ قُتِلَ كَافِرًا‏.‏"
+      },
+      {
+        "id": 1034,
+        "hadith_number": "1068",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Bacaan Nabi Muhammad SAW dalam Solat Subuh pada Hari Jumaat",
+        "perawi_melayu": "Diriwayatkan oleh Abu Hurairah RA:",
+        "english_text": "On Fridays the Prophet (ﷺ) used to recite Alif Lam Mim Tanzil-As-Sajda (in the first rak`a) and Hal ata `alal-insani i.e. Surat ad-Dahr (LXXVI) (in the second rak`a), in the Fajr prayer.",
+        "malay_translation": "Pada hari Jumaat, Nabi Muhammad SAW biasanya membaca Alif Lam Mim Tanzil-As-Sajda (pada rakaat pertama) dan Hal ata `alal-insani iaitu Surah ad-Dahr (LXXVI) (pada rakaat kedua), dalam solat Subuh.",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ فِي الْجُمُعَةِ فِي صَلاَةِ الْفَجْرِ ‏{‏الم * تَنْزِيلُ‏}‏ السَّجْدَةَ وَ‏{‏هَلْ أَتَى عَلَى الإِنْسَانِ‏}‏"
+      },
+      {
+        "id": 1035,
+        "hadith_number": "1069",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Sujud Tilawah Sa'd dan Amalan Nabi Muhammad SAW",
+        "perawi_melayu": "Diriwayatkan oleh Ibn `Abbas RA:",
+        "english_text": "The prostration of Sa`d is not a compulsory one but I saw the Prophet (ﷺ) prostrating while reciting it.",
+        "malay_translation": "Sujud (tilawah) yang dilakukan oleh Sa'd bukanlah wajib, tetapi saya melihat Nabi Muhammad SAW sujud ketika membacanya (ayat tersebut).",
+        "arabic_text": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، وَأَبُو النُّعْمَانِ، قَالاَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ ‏{‏ص‏}‏ لَيْسَ مِنْ عَزَائِمِ السُّجُودِ، وَقَدْ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَسْجُدُ فِيهَا‏.‏"
+      },
+      {
+        "id": 1036,
+        "hadith_number": "1070",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Nabi Muhammad ﷺ Sujud Ketika Membaca Surah An-Najm",
+        "perawi_melayu": "Diriwayatkan daripada Abdullah bin Mas'ud رضي الله عنهما:",
+        "english_text": "The Prophet (ﷺ) recited Surat-an-Najm (53) and prostrated while reciting it and all the people prostrated and a man amongst the people took a handful of stones or earth and raised it to his face and said, \"This is sufficient for me.Abdullah said: I Later on I saw him killed as a non-believer.\"",
+        "malay_translation": "Nabi ﷺ membaca Surah an-Najm (53) dan sujud ketika membacanya. Semua orang pun turut sujud. Seorang lelaki di antara mereka mengambil segenggam batu atau tanah, mengangkatnya ke wajahnya, dan berkata, \"Ini sudah cukup bagiku.\" Abdullah berkata: Kemudian aku melihatnya terbunuh sebagai seorang kafir.",
+        "arabic_text": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَرَأَ سُورَةَ النَّجْمِ فَسَجَدَ بِهَا، فَمَا بَقِيَ أَحَدٌ مِنَ الْقَوْمِ إِلاَّ سَجَدَ، فَأَخَذَ رَجُلٌ مِنَ الْقَوْمِ كَفًّا مِنْ حَصًى أَوْ تُرَابٍ، فَرَفَعَهُ إِلَى وَجْهِهِ وَقَالَ يَكْفِينِي هَذَا، فَلَقَدْ رَأَيْتُهُ بَعْدُ قُتِلَ كَافِرًا‏.‏"
+      },
+      {
+        "id": 1037,
+        "hadith_number": "1071",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Sujud Tilawah Ketika Membaca Surah An-Najm",
+        "perawi_melayu": "Diriwayatkan daripada Ibn `Abbas RA:",
+        "english_text": "The Prophet (ﷺ) I prostrated while reciting An-Najm and with him prostrated the Muslims, the pagans, the jinns, and all human beings.\r\nIbrahim bin Tahman has reported it from Ayyub.",
+        "malay_translation": "Nabi Muhammad SAW sujud ketika membaca Surah An-Najm dan bersama baginda turut sujud orang-orang Muslim, orang-orang kafir, jin, dan seluruh manusia.\r\nIbrahim bin Tahman meriwayatkan hadis ini daripada Ayyub.",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما أَنَّ النَّبِيَّ صلى الله عليه وسلم سَجَدَ بِالنَّجْمِ وَسَجَدَ مَعَهُ الْمُسْلِمُونَ وَالْمُشْرِكُونَ وَالْجِنُّ وَالإِنْسُ‏.‏ وَرَوَاهُ ابْنُ طَهْمَانَ عَنْ أَيُّوبَ‏.‏"
+      },
+      {
+        "id": 1038,
+        "hadith_number": "1072",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Tidak Sujud Ketika Membaca Surah An-Najm di Hadapan Nabi ﷺ",
+        "perawi_melayu": "Diriwayatkan oleh `Ata' bin Yasar:",
+        "english_text": "I asked Zaid bin Thabit رضی اللہ عنہ about prostration on which he said that he had recited An-Najm before the Prophet, yet he (the Prophet) had not performed a prostration.",
+        "malay_translation": "Saya bertanya kepada Zaid bin Thabit رضی اللہ عنہ tentang sujud (tilawah). Beliau berkata bahawa beliau telah membaca Surah An-Najm di hadapan Nabi ﷺ, tetapi Nabi ﷺ tidak melakukan sujud.",
+        "arabic_text": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَبُو الرَّبِيعِ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، قَالَ أَخْبَرَنَا يَزِيدُ بْنُ خُصَيْفَةَ، عَنِ ابْنِ قُسَيْطٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، أَنَّهُ أَخْبَرَهُ، أَنَّهُ، سَأَلَ زَيْدَ بْنَ ثَابِتٍ ـ رضى الله عنه ـ فَزَعَمَ أَنَّهُ قَرَأَ عَلَى النَّبِيِّ صلى الله عليه وسلم ‏{‏وَالنَّجْمِ‏}‏ فَلَمْ يَسْجُدْ فِيهَا‏.‏"
+      },
+      {
+        "id": 1039,
+        "hadith_number": "1073",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Tidak Sujud Tilawah Ketika Membaca Surah An-Najm di Hadapan Nabi ﷺ",
+        "perawi_melayu": "Diriwayatkan daripada Zaid bin Thabit رضي الله عنه :",
+        "english_text": "I recited An-Najm before the Prophet, yet he did not perform a prostration.",
+        "malay_translation": "Saya membaca Surah An-Najm di hadapan Nabi ﷺ, namun baginda tidak melakukan sujud tilawah.",
+        "arabic_text": "حَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، قَالَ قَرَأْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم ‏{‏وَالنَّجْمِ‏}‏ فَلَمْ يَسْجُدْ فِيهَا‏.‏"
+      },
+      {
+        "id": 1040,
+        "hadith_number": "1074",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Anjuran Sujud Tilawah Ketika Membaca Surah Al-Inshiqaq",
+        "perawi_melayu": "Diriwayatkan oleh Abu Salma:",
+        "english_text": "I saw Abu Huraira رضی اللہ  عنہ reciting Idha-Sama' un-Shaqqat and he prostrated during its recitation. I asked Abu Huraira, \"Didn't I see you prostrating?\" Abu Huraira said, \"Had I not seen the Prophet (ﷺ) prostrating, I would not have prostrated.\"",
+        "malay_translation": "Saya melihat Abu Hurairah رضی اللہ  عنہ membaca Idha-Sama' un-Shaqqat dan beliau sujud semasa bacaannya. Saya bertanya kepada Abu Hurairah, \"Bukankah saya melihat anda sujud?\" Abu Hurairah berkata, \"Sekiranya saya tidak melihat Nabi (ﷺ) sujud, saya tidak akan sujud.\"",
+        "arabic_text": "حَدَّثَنَا مُسْلِمٌ، وَمُعَاذُ بْنُ فَضَالَةَ، قَالاَ أَخْبَرَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، قَالَ رَأَيْتُ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَرَأَ ‏{‏إِذَا السَّمَاءُ انْشَقَّتْ‏}‏ فَسَجَدَ بِهَا فَقُلْتُ يَا أَبَا هُرَيْرَةَ، أَلَمْ أَرَكَ تَسْجُدُ قَالَ لَوْ لَمْ أَرَ النَّبِيَّ صلى الله عليه وسلم يَسْجُدُ لَمْ أَسْجُدْ‏.‏"
+      },
+      {
+        "id": 1041,
+        "hadith_number": "1075",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Sujud Ketika Nabi Membaca Surah yang Mengandungi Ayat Sajdah",
+        "perawi_melayu": "Diriwayatkan oleh Ibn `Umar رضی اللہ عنہما :",
+        "english_text": "When the Prophet (ﷺ) recited a Sura that contained the prostration he would prostrate and we would do the same and some of us (because of the heavy rush) could not find a place for prostration.",
+        "malay_translation": "Apabila Nabi (ﷺ) membaca surah yang mengandungi ayat sajadah, baginda akan sujud, dan kami pun turut sujud. Sebahagian daripada kami (disebabkan kesesakan yang teruk) tidak dapat mencari tempat untuk sujud.",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ عَلَيْنَا السُّورَةَ فِيهَا السَّجْدَةُ، فَيَسْجُدُ وَنَسْجُدُ، حَتَّى مَا يَجِدُ أَحَدُنَا مَوْضِعَ جَبْهَتِهِ‏.‏"
+      },
+      {
+        "id": 1042,
+        "hadith_number": "1076",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Sujud Ketika Rasulullah Membaca Surah As-Sajda",
+        "perawi_melayu": "Diriwayatkan oleh Ibn `Umar رضي الله عنهما:",
+        "english_text": "When the Prophet (ﷺ) recited Surat As-Sajda and we were with him, he would prostrate and we also would prostrate with him and some of us (because of the heavy rush) would not find a place (for our foreheads) to prostrate on.",
+        "malay_translation": "Ketika Nabi Muhammad ﷺ membaca Surah As-Sajda dan kami bersama baginda, baginda akan sujud dan kami juga turut sujud bersama baginda, dan sebahagian daripada kami (disebabkan oleh kesesakan yang teruk) tidak dapat mencari tempat (untuk dahi kami) untuk sujud.",
+        "arabic_text": "حَدَّثَنَا بِشْرُ بْنُ آدَمَ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، قَالَ أَخْبَرَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ السَّجْدَةَ وَنَحْنُ عِنْدَهُ فَيَسْجُدُ وَنَسْجُدُ مَعَهُ فَنَزْدَحِمُ حَتَّى مَا يَجِدُ أَحَدُنَا لِجَبْهَتِهِ مَوْضِعًا يَسْجُدُ عَلَيْهِ‏.‏"
+      },
+      {
+        "id": 1043,
+        "hadith_number": "1077",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Rabi'a Menyifatkan Situasi di Majlis Umar bin Khattab RA: Sujud Tilawah Tidak Wajib",
+        "perawi_melayu": "Diriwayatkan oleh Rabi'a:",
+        "english_text": "Rabi'a was one of the very good people. Rabi'a described the situation that she saw in the assembly of Hazrat Umar bin Khattab رضی اللہ عنہ . `Umar bin Al-Khattab رضی اللہ عنہ recited Surat-an-Nahl on a Friday on the pulpit and when he reached the verse of Sajda he got down from the pulpit and prostrated and the people also prostrated. The next Friday `Umar bin Al-Khattab recited the same Sura and when he reached the verse of Sajda he said, \"O people! When we recite the verses of Sajda (during the sermon) whoever prostrates does the right thing, yet it is no sin for the one who does not prostrate.\" And `Umar رضی اللہ عنہ did not prostrate (that day). Added Ibn `Umar رضی اللہ عنہما  \"Allah has not made the prostration of recitation compulsory but if we wish we can do it.\"",
+        "malay_translation": "Rabi'a adalah seorang daripada orang yang sangat baik. Rabi'a menerangkan situasi yang dilihatnya di dalam majlis Hazrat Umar bin Khattab RA. `Umar bin Al-Khattab RA membaca Surah an-Nahl pada hari Jumaat di atas mimbar dan apabila beliau sampai pada ayat Sajdah, beliau turun dari mimbar dan sujud, dan orang ramai juga turut sujud. Pada hari Jumaat berikutnya, `Umar bin Al-Khattab membaca surah yang sama dan apabila beliau sampai pada ayat Sajdah, beliau berkata, \"Wahai manusia! Apabila kami membaca ayat-ayat Sajdah (semasa khutbah), sesiapa yang sujud telah melakukan perkara yang betul, namun tidak berdosa bagi sesiapa yang tidak sujud.\" Dan `Umar RA tidak sujud (pada hari itu). Ibn `Umar RA menambah: \"Allah tidak menjadikan sujud tilawah itu wajib, tetapi jika kita mahu, kita boleh melakukannya.\"",
+        "arabic_text": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، قَالَ أَخْبَرَنَا هِشَامُ بْنُ يُوسُفَ، أَنَّ ابْنَ جُرَيْجٍ، أَخْبَرَهُمْ قَالَ أَخْبَرَنِي أَبُو بَكْرِ بْنُ أَبِي مُلَيْكَةَ، عَنْ عُثْمَانَ بْنِ عَبْدِ الرَّحْمَنِ التَّيْمِيِّ، عَنْ رَبِيعَةَ بْنِ عَبْدِ اللَّهِ بْنِ الْهُدَيْرِ التَّيْمِيِّ ـ قَالَ أَبُو بَكْرٍ وَكَانَ رَبِيعَةُ مِنْ خِيَارِ النَّاسِ عَمَّا حَضَرَ رَبِيعَةُ مِنْ عُمَرَ بْنِ الْخَطَّابِ ـ رضى الله عنه ـ قَرَأَ يَوْمَ الْجُمُعَةِ عَلَى الْمِنْبَرِ بِسُورَةِ النَّحْلِ حَتَّى إِذَا جَاءَ السَّجْدَةَ نَزَلَ فَسَجَدَ وَسَجَدَ النَّاسُ، حَتَّى إِذَا كَانَتِ الْجُمُعَةُ الْقَابِلَةُ قَرَأَ بِهَا حَتَّى إِذَا جَاءَ السَّجْدَةَ قَالَ يَا أَيُّهَا النَّاسُ إِنَّا نَمُرُّ بِالسُّجُودِ فَمَنْ سَجَدَ فَقَدْ أَصَابَ، وَمَنْ لَمْ يَسْجُدْ فَلاَ إِثْمَ عَلَيْهِ‏.‏ وَلَمْ يَسْجُدْ عُمَرُ ـ رضى الله عنه‏.‏ وَزَادَ نَافِعٌ عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما إِنَّ اللَّهَ لَمْ يَفْرِضِ السُّجُودَ إِلاَّ أَنْ نَشَاءَ‏.‏"
+      },
+      {
+        "id": 1044,
+        "hadith_number": "1078",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Sujud dalam Solat Isyak Selepas Membaca Surah Al-Inshiqaq",
+        "perawi_melayu": "Diriwayatkan oleh Abu Rafi':",
+        "english_text": "I offered the `Isha' prayer behind Abu Huraira رضی اللہ عنہ and he recited Idhas-Sama' Un-Shaqqat, and prostrated. I said, \"What is this?\" Abu Huraira said, \"I prostrated behind Abul-Qasim صلى الله عليه وسلم and I will do the same till I meet him.\"",
+        "malay_translation": "Aku menunaikan solat Isyak di belakang Abu Hurairah RA dan beliau membaca 'Idhas-Sama' Un-Shaqqat' (Surah Al-Inshiqaq), lalu sujud. Aku bertanya, \"Apa ini?\" Abu Hurairah berkata, \"Aku sujud di belakang Abul-Qasim SAW dan aku akan melakukan hal yang sama sehingga aku bertemu dengannya.\"",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ أَبِي قَالَ، حَدَّثَنِي بَكْرٌ، عَنْ أَبِي رَافِعٍ، قَالَ صَلَّيْتُ مَعَ أَبِي هُرَيْرَةَ الْعَتَمَةَ فَقَرَأَ ‏{‏إِذَا السَّمَاءُ انْشَقَّتْ‏}‏ فَسَجَدَ فَقُلْتُ مَا هَذِهِ قَالَ سَجَدْتُ بِهَا خَلْفَ أَبِي الْقَاسِمِ صلى الله عليه وسلم فَلاَ أَزَالُ أَسْجُدُ فِيهَا حَتَّى أَلْقَاهُ‏.‏"
+      },
+      {
+        "id": 1045,
+        "hadith_number": "1079",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Sujud Tilawah Bersama Nabi Muhammad SAW",
+        "perawi_melayu": "Diriwayatkan oleh Ibn `Umar رضي الله عنهما:",
+        "english_text": "Whenever the Prophet (ﷺ) recited the Sura which contained the prostration of recitation he used to prostrate and then, we, too, would prostrate and some of us did not find a place for prostration.",
+        "malay_translation": "Setiap kali Nabi Muhammad SAW membaca surah yang mengandungi sujud tilawah, baginda akan sujud. Kemudian, kami juga turut sujud. Sebahagian daripada kami kadang-kala tidak menemui tempat untuk sujud.",
+        "arabic_text": "حَدَّثَنَا صَدَقَةُ، قَالَ أَخْبَرَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَقْرَأُ السُّورَةَ الَّتِي فِيهَا السَّجْدَةُ فَيَسْجُدُ وَنَسْجُدُ حَتَّى مَا يَجِدُ أَحَدُنَا مَكَانًا لِمَوْضِعِ جَبْهَتِهِ‏.‏"
+      }
+    ]
+  }
+}

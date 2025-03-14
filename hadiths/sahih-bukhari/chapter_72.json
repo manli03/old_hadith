@@ -1,0 +1,105 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 8,
+    "data": [
+      {
+        "id": 5232,
+        "hadith_number": "5467",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Nabi Muhammad SAW Menamakan dan Mendoakan Anak",
+        "perawi_melayu": "Diriwayatkan oleh Abu Musa رضی اللہ عنہ :",
+        "english_text": "A son was born to me and I took him to the Prophet (ﷺ) who named him Ibrahim, did Tahnik for him with a date, invoked Allah to bless him and returned him to me. (The narrator added: That was Abu Musa's eldest son.)",
+        "malay_translation": "Seorang anak lelaki telah lahir untukku, dan aku membawanya kepada Nabi (ﷺ) yang menamakannya Ibrahim, melakukan Tahnik untuknya dengan buah kurma, memohon kepada Allah untuk memberkatinya dan mengembalikannya kepadaku. (Perawi menambahkan: Itulah anak sulung Abu Musa.)",
+        "arabic_text": "حَدَّثَنِي إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنِي بُرَيْدٌ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ وُلِدَ لِي غُلاَمٌ، فَأَتَيْتُ بِهِ النَّبِيَّ صلى الله عليه وسلم فَسَمَّاهُ إِبْرَاهِيمَ، فَحَنَّكَهُ بِتَمْرَةٍ، وَدَعَا لَهُ بِالْبَرَكَةِ وَدَفَعَهُ إِلَىَّ، وَكَانَ أَكْبَرَ وَلَدِ أَبِي مُوسَى‏.‏"
+      },
+      {
+        "id": 5233,
+        "hadith_number": "5468",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Nabi ﷺ Membasuh Tempat Kencing Bayi",
+        "perawi_melayu": "Diriwayatkan daripada `Aisha رضى الله عنها :",
+        "english_text": "A boy was brought to the Prophet (ﷺ) to do Tahnik for him, but the boy urinated on him, whereupon the Prophet had water poured on the place of urine.",
+        "malay_translation": "Seorang bayi dibawa kepada Nabi ﷺ untuk ditahnikkan, tetapi bayi itu kencing ke atas baginda. Lalu Nabi ﷺ memerintahkan air dituang ke tempat kencing tersebut.",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِصَبِيٍّ يُحَنِّكُهُ، فَبَالَ عَلَيْهِ، فَأَتْبَعَهُ الْمَاءَ‏.‏"
+      },
+      {
+        "id": 5234,
+        "hadith_number": "5469",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Kelahiran Abdullah bin Az-Zubair dan Doa Rasulullah (ﷺ)",
+        "perawi_melayu": "Diriwayatkan oleh Asma' bint Abu Bakr رضي الله عنها :",
+        "english_text": "I conceived `Abdullah bin Az-Zubair رضی اللہ عنہما at Mecca and went out (of Mecca) while I was about to give birth. I came to Medina and encamped at Quba', and gave birth at Quba'. Then I brought the child to Allah's Messenger (ﷺ) and placed it (on his lap). He asked for a date, chewed it, and put his saliva in the mouth of the child. So the first thing to enter its stomach was the saliva of Allah's Messenger (ﷺ). Then he did its Tahnik with a date, and invoked Allah to bless him. It was the first child born in the Islamic era, therefore they (Muslims) were very happy with its birth, for it had been said to them that the Jews had bewitched them, and so they would not produce any offspring.",
+        "malay_translation": "Saya mengandungkan Abdullah bin Az-Zubair رضي الله عنهما di Mekah dan keluar (dari Mekah) ketika saya hampir bersalin. Saya tiba di Madinah dan berkhemah di Quba', dan bersalin di Quba'. Kemudian saya membawa anak itu kepada Rasulullah ﷺ dan meletakkannya (di ribaannya). Baginda meminta kurma, mengunyahnya, dan memasukkan air liurnya ke dalam mulut anak itu. Jadi perkara pertama yang masuk ke dalam perutnya adalah air liur Rasulullah ﷺ. Kemudian baginda melakukan Tahniknya dengan kurma, dan berdoa kepada Allah untuk memberkatinya. Ia adalah anak pertama yang dilahirkan dalam era Islam, oleh itu mereka (Muslimin) sangat gembira dengan kelahirannya, kerana telah dikatakan kepada mereka bahawa orang Yahudi telah menyihir mereka, dan mereka tidak akan melahirkan sebarang zuriat.",
+        "arabic_text": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ أَنَّهَا حَمَلَتْ بِعَبْدِ اللَّهِ بْنِ الزُّبَيْرِ بِمَكَّةَ قَالَتْ فَخَرَجْتُ وَأَنَا مُتِمٌّ، فَأَتَيْتُ الْمَدِينَةَ فَنَزَلْتُ قُبَاءً فَوَلَدْتُ بِقُبَاءٍ، ثُمَّ أَتَيْتُ بِهِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَوَضَعْتُهُ فِي حَجْرِهِ، ثُمَّ دَعَا بِتَمْرَةٍ فَمَضَغَهَا، ثُمَّ تَفَلَ فِي فِيهِ فَكَانَ أَوَّلَ شَىْءٍ دَخَلَ جَوْفَهُ رِيقُ رَسُولِ اللَّهِ صلى الله عليه وسلم ثُمَّ حَنَّكَهُ بِالتَّمْرَةِ، ثُمَّ دَعَا لَهُ فَبَرَّكَ عَلَيْهِ، وَكَانَ أَوَّلَ مَوْلُودٍ وُلِدَ فِي الإِسْلاَمِ، فَفَرِحُوا بِهِ فَرَحًا شَدِيدًا، لأَنَّهُمْ قِيلَ لَهُمْ إِنَّ الْيَهُودَ قَدْ سَحَرَتْكُمْ فَلاَ يُولَدُ لَكُمْ‏.‏"
+      },
+      {
+        "id": 5235,
+        "hadith_number": "5470",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Kisah Abu Talha dan Ujian Kehilangan Anak",
+        "perawi_melayu": "Diriwayatkan daripada Anas bin Malik رضی اللہ عنہ :",
+        "english_text": "Abu Talha رضی اللہ عنہ had a child who was sick. Once, while Abu Talha  رضی اللہ عنہ was out, the child died. When Abu Talha رضی اللہ عنہ returned home, he asked, \"How does my son fare?\" Um Salaim رضی اللہ عنہا (his wife) replied, \"He is quieter than he has ever been.\" Then she brought supper for him and he took his supper and slept with her. When he had finished, she said (to him), \"Bury the child (as he's dead).\" Next morning Abu Talha رضی اللہ عنہ came to Allah's Messenger (ﷺ) and told him about that. The Prophet (ﷺ) said (to him), \"Did you sleep with your wife last night?\" Abu Talha رضی اللہ عنہ said, \"Yes\". The Prophet (ﷺ) said, \"O Allah! Bestow your blessing on them as regards that night of theirs.\" Um Sulaim رضی اللہ عنہا gave birth to a boy. Abu Talha رضی اللہ عنہ told me to take care of the child till it was taken to the Prophet. Then Abu Talha رضی اللہ عنہ took the child to the Prophet (ﷺ) and Um Sulaim رضی اللہ عنہا sent some dates along with the child. The Prophet (ﷺ) took the child (on his lap) and asked if there was something with him. The people replied, \"Yes, a few dates.\" The Prophet took a date, chewed it, took some of it out of his mouth, put it into the child's mouth and did Tahnik for him with that, and named him 'Abdullah. Hadrat Muhammad bin Sireen has reported the aforementioned Hadith from Hadrat Anas رضی اللہ عنہ .",
+        "malay_translation": "Abu Talha رضی اللہ عنہ mempunyai seorang anak yang sakit. Pada suatu ketika, semasa Abu Talha رضی اللہ عنہ keluar, anak tersebut meninggal dunia. Apabila Abu Talha رضی اللہ عنہ pulang ke rumah, dia bertanya, \"Bagaimana keadaan anak saya?\" Um Salaim رضی اللہ عنہا (isterinya) menjawab, \"Dia lebih tenang daripada sebelumnya.\" Kemudian dia menyediakan makan malam untuknya, dan dia makan malamnya dan tidur bersamanya. Apabila dia selesai, dia berkata (kepadanya), \"Kuburkan anak itu (kerana dia sudah meninggal).\" Keesokan harinya Abu Talha رضی اللہ عنہ datang kepada Rasulullah (ﷺ) dan menceritakan hal itu kepadanya. Nabi (ﷺ) berkata (kepadanya), \"Adakah kamu tidur dengan isterimu malam tadi?\" Abu Talha رضی اللہ عنہ berkata, \"Ya\". Nabi (ﷺ) bersabda, \"Ya Allah! Kurniakan keberkatan-Mu kepada mereka berkaitan malam mereka itu.\" Um Sulaim رضی اللہ عنہا melahirkan seorang anak lelaki. Abu Talha رضی اللہ عنہ memberitahu saya untuk menjaga anak itu sehingga ia dibawa kepada Nabi. Kemudian Abu Talha رضی اللہ عنہ membawa anak itu kepada Nabi (ﷺ) dan Um Sulaim رضی اللہ عنہا menghantar beberapa biji kurma bersama anak itu. Nabi (ﷺ) mengambil anak itu (di ribanya) dan bertanya jika ada sesuatu bersamanya. Orang ramai menjawab, \"Ya, beberapa biji kurma.\" Nabi mengambil sebiji kurma, mengunyahnya, mengeluarkan sedikit daripadanya dari mulutnya, memasukkannya ke dalam mulut anak itu dan melakukan Tahnik untuknya dengan itu, dan menamakannya 'Abdullah. Hadrat Muhammad bin Sireen telah meriwayatkan Hadith yang disebutkan di atas daripada Hadrat Anas رضی اللہ عنہ .",
+        "arabic_text": "حَدَّثَنَا مَطَرُ بْنُ الْفَضْلِ ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عَوْنٍ ، عَنْ أَنَسِ بْنِ سِيرِينَ ، عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ ، قَالَ : كَانَ ابْنٌ لِأَبِي طَلْحَةَ يَشْتَكِي ، فَخَرَجَ أَبُو طَلْحَةَ فَقُبِضَ الصَّبِيُّ ، فَلَمَّا رَجَعَ أَبُو طَلْحَةَ ، قَالَ : مَا فَعَلَ ابْنِي ؟ قَالَتْ أُمُّ سُلَيْمٍ : هُوَ أَسْكَنُ مَا كَانَ ، فَقَرَّبَتْ إِلَيْهِ الْعَشَاءَ ، فَتَعَشَّى ثُمَّ أَصَابَ مِنْهَا ، فَلَمَّا فَرَغَ ، قَالَتْ : وَارُوا الصَّبِيَّ ، فَلَمَّا أَصْبَحَ أَبُو طَلْحَةَ أَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَخْبَرَهُ ، فَقَالَ : أَعْرَسْتُمُ اللَّيْلَةَ ؟ قَالَ : نَعَمْ ، قَالَ : اللَّهُمَّ بَارِكْ لَهُمَا ، فَوَلَدَتْ غُلَامًا ، قَالَ لِي أَبُو طَلْحَةَ : احْفَظْهُ حَتَّى تَأْتِيَ بِهِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَأَتَى بِهِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَرْسَلَتْ مَعَهُ بِتَمَرَاتٍ ، فَأَخَذَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : أَمَعَهُ شَيْءٌ ؟ قَالُوا : نَعَمْ ، تَمَرَاتٌ ، فَأَخَذَهَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَمَضَغَهَا ثُمَّ أَخَذَ مِنْ فِيهِ فَجَعَلَهَا فِي فِي الصَّبِيِّ وَحَنَّكَهُ بِهِ وَسَمَّاهُ عَبْدَ اللَّهِ.حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، وَسَاقَ الْحَدِيثَ،‏.‏"
+      },
+      {
+        "id": 5236,
+        "hadith_number": "5471",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Pelaksanaan Aqiqah untuk Bayi Lelaki",
+        "perawi_melayu": "Diriwayatkan oleh Salman bin 'Amr رضی اللہ عنہ :",
+        "english_text": "'Aqiqa is to be offered for a (newly born) boy. Hajjaj, Hammad, Ayyub, Qatadah, Hisham, Habeeb, Hadrat Salman رضی اللہ عنہ reported it from the prophet ﷺ. Many people, Asim, Hisham, Hafsah, the daughter of Sireen, Rabab, Salman (bin Amir رضی اللہ عنہ) reported it from the prophet ﷺ. Yazeed bin Ibrahim, Ibn-s-Sireen quoted from Hadrat Salman رضی اللہ عنہ his saying.",
+        "malay_translation": "Aqiqah dilaksanakan untuk bayi lelaki yang baru lahir. Hajjaj, Hammad, Ayyub, Qatadah, Hisham, Habeeb, Hadrat Salman رضی اللہ عنہ meriwayatkannya daripada Nabi ﷺ. Ramai orang, Asim, Hisham, Hafsah, anak perempuan Sireen, Rabab, Salman (bin Amir رضی اللہ عنہ) meriwayatkannya daripada Nabi ﷺ. Yazeed bin Ibrahim, Ibn-s-Sireen memetik daripada Hadrat Salman رضی اللہ عنہ perkataannya.",
+        "arabic_text": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ سَلْمَانَ بْنِ عَامِرٍ، قَالَ مَعَ الْغُلاَمِ عَقِيقَةٌ‏.‏ وَقَالَ حَجَّاجٌ حَدَّثَنَا حَمَّادٌ أَخْبَرَنَا أَيُّوبُ وَقَتَادَةُ وَهِشَامٌ وَحَبِيبٌ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏وَقَالَ غَيْرُ وَاحِدٍ عَنْ عَاصِمٍ، وَهِشَامٍ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنِ الرَّبَابِ، عَنْ سَلْمَانَ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَرَوَاهُ يَزِيدُ بْنُ إِبْرَاهِيمَ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ قَوْلَهُ‏.‏"
+      },
+      {
+        "id": 5237,
+        "hadith_number": "5472",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Hukum 'Aqiqah bagi Anak Lelaki",
+        "perawi_melayu": "Diriwayatkan daripada Salman bin `Amir Ad-Dabbi رضی اللہ عنہ :",
+        "english_text": "I heard Allah's Messenger (ﷺ) saying, \"`Aqiqa is to be offered for a (newly born) boy, so slaughter (an animal) for him, and relieve him of his suffering.\" Narrated Habib bin Ash-Shahid: Ibn Seereen told me to ask Al-Hassan from whom he had heard the narration of `Aqiqa. I asked him and he said, \"From Samura bin Jundab رضی اللہ عنہ .\"",
+        "malay_translation": "Saya mendengar Rasulullah (ﷺ) bersabda, \"'Aqiqah hendaklah dilakukan untuk anak lelaki yang baru lahir, maka sembelihlah (binatang) untuknya, dan ringankanlah penderitaannya.\" Diriwayatkan oleh Habib bin Ash-Shahid: Ibn Seereen memberitahu saya supaya bertanya kepada Al-Hassan daripada siapa dia mendengar riwayat tentang 'Aqiqah. Saya bertanya kepadanya dan dia berkata, \"Daripada Samura bin Jundab رضی اللہ عنہ .\"",
+        "arabic_text": "وَقَالَ أَصْبَغُ أَخْبَرَنِي ابْنُ وَهْبٍ عَنْ جَرِيرِ بْنِ حَازِمٍ عَنْ أَيُّوبَ السَّخْتِيَانِيِّ عَنْ مُحَمَّدِ بْنِ سِيرِينَ حَدَّثَنَا سَلْمَانُ بْنُ عَامِرٍ الضَّبِّيُّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ \"‏ مَعَ الْغُلاَمِ عَقِيقَةٌ، فَأَهْرِيقُوا عَنْهُ دَمًا وَأَمِيطُوا عَنْهُ الأَذَى ‏\"‏‏. حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنَا قُرَيْشُ بْنُ أَنَسٍ، عَنْ حَبِيبِ بْنِ الشَّهِيدِ، قَالَ أَمَرَنِي ابْنُ سِيرِينَ أَنْ أَسْأَلَ الْحَسَنَ، مِمَّنْ سَمِعَ حَدِيثَ الْعَقِيقَةِ، فَسَأَلْتُهُ فَقَالَ مِنْ سَمُرَةَ بْنِ جُنْدَبٍ‏."
+      },
+      {
+        "id": 5238,
+        "hadith_number": "5473",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Fara' dan 'Atira Tidak Dibenarkan",
+        "perawi_melayu": "Diriwayatkan oleh Abu Hurairah رضي اللہ عنہ :",
+        "english_text": "The Prophet (ﷺ) said, \"Neither Fara' nor 'Atira (is permissible):\" Al-Fara' nor 'Atira (is permissible):\" Al- Fara' was the first offspring (of camels or sheep) which the pagans used to offer (as a sacrifice) to their idols. And Al-`Atira was (a sheep which was to be slaughtered) during the month of Rajab.",
+        "malay_translation": "Rasulullah ﷺ bersabda, \"Fara' dan 'Atira (tidak dibenarkan).\" Al-Fara' ialah anak pertama (unta atau kambing) yang digunakan oleh orang kafir untuk dipersembahkan (sebagai korban) kepada berhala mereka. Dan Al-'Atira adalah (seekor kambing yang disembelih) pada bulan Rejab.",
+        "arabic_text": "حَدَّثَنَا عَبْدَانُ، حَدَّثَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، أَخْبَرَنَا الزُّهْرِيُّ، عَنِ ابْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏‏.‏ وَالْفَرَعُ أَوَّلُ النِّتَاجِ، كَانُوا يَذْبَحُونَهُ لَطِوَاغِيتِهِمْ، وَالْعَتِيرَةُ فِي رَجَبٍ‏.‏"
+      },
+      {
+        "id": 5239,
+        "hadith_number": "5474",
+        "status": "Sahih",
+        "nama_buku": "Sahih Bukhari",
+        "penulis_buku": "Imam Bukhari",
+        "tajuk_hadith": "Hukum Fara' dan 'Atira",
+        "perawi_melayu": "Diriwayatkan oleh Abu Huraira رضي اللہ عنہ :",
+        "english_text": "The Prophet (ﷺ) said, \"Neither Fara' nor 'Atira) is permissible).\" Al-Fara' was the first offspring (they got of camels or sheep) which they (pagans) used to offer (as a sacrifice) to their idols. 'Atira was (a sheep which used to be slaughtered) during the month of Rajab.",
+        "malay_translation": "Rasulullah (ﷺ) bersabda, \"Tidak dibenarkan Fara' dan 'Atira.\" Al-Fara' adalah anak pertama (unta atau kambing) yang mereka (orang kafir) biasa korbankan kepada berhala mereka. 'Atira adalah (kambing yang biasa disembelih) pada bulan Rejab.",
+        "arabic_text": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ الزُّهْرِيُّ حَدَّثَنَا عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ \"‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏\"‏‏.‏ قَالَ وَالْفَرَعَ أَوَّلُ نِتَاجٍ كَانَ يُنْتَجُ لَهُمْ، كَانُوا يَذْبَحُونَهُ لِطَوَاغِيتِهِمْ، وَالْعَتِيرَةُ فِي رَجَبٍ‏.‏"
+      }
+    ]
+  }
+}

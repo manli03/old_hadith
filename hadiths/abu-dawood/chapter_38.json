@@ -1,0 +1,153 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 12,
+    "data": [
+      {
+        "id": 23359,
+        "hadith_number": "4279",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Dua Belas Khalifah dari Quraisy",
+        "perawi_melayu": "Jabir ibn Samurah",
+        "english_text": "Narrated Jabir ibn Samurah: The Prophet صلی ‌اللہ ‌علیہ ‌وسلم said: The religion will continue to be established till there are twelve caliphs over you, and the whole community will agree on each of them. I then heard from the Prophet صلی ‌اللہ ‌علیہ ‌وسلم some remarks which I could not understand. I asked my father: What is he saying: He said: all of them will belong to Quraysh.",
+        "malay_translation": "Diriwayatkan oleh Jabir ibn Samurah: Nabi صلی ‌اللہ ‌علیہ ‌وسلم bersabda: Agama ini akan terus tegak sehingga terdapat dua belas khalifah yang memerintah kamu, dan seluruh umat akan bersepakat atas setiap daripada mereka. Kemudian aku mendengar daripada Nabi صلی ‌اللہ ‌علیہ ‌وسلم beberapa ucapan yang tidak aku fahami. Aku bertanya kepada ayahku: Apa yang baginda sabdakan? Ayahku berkata: Kesemua mereka adalah daripada Quraisy.",
+        "arabic_text": "حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، ‏‏‏‏‏‏حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، ‏‏‏‏‏‏عَنْ إِسْمَاعِيل يَعْنِي ابْنَ أَبِي خَالِدٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ سَمُرَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ لَا يَزَالُ هَذَا الدِّينُ قَائِمًا حَتَّى يَكُونَ عَلَيْكُمُ اثْنَا عَشَرَ خَلِيفَةً كُلُّهُمْ تَجْتَمِعُ عَلَيْهِ الْأُمَّةُ، ‏‏‏‏‏‏فَسَمِعْتُ كَلَامًا مِنَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمْ أَفْهَمْهُ، ‏‏‏‏‏‏قُلْتُ لِأَبِي مَا يَقُولُ ؟ قَالَ:‏‏‏‏ كُلُّهُمْ مِنْ قُرَيْشٍ ."
+      },
+      {
+        "id": 23360,
+        "hadith_number": "4280",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Agama Islam Akan Terus Kuat Sehingga Dua Belas Khalifah dari Quraisy",
+        "perawi_melayu": "Jabir bin Samurah",
+        "english_text": "Narrated Jabir bin Samurah: I heard the Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم say: This religion will continue to be strong till the time of twelve caliphs. The people then uttered: Allah is more great and uproared. He then silently a word which I could not understand. So I said to my father: What did he say, father ? He said: All of them will belong to Quraish.",
+        "malay_translation": "Diriwayatkan dari Jabir bin Samurah: Saya mendengar Rasulullah صلی ‌اللہ ‌علیہ ‌وسلم bersabda: Agama ini akan terus kuat sehingga (datangnya) dua belas khalifah. Kemudian orang ramai berkata: Allah Maha Besar dan suara mereka meninggi. Kemudian baginda berkata secara perlahan suatu perkataan yang tidak saya fahami. Maka saya bertanya kepada ayah saya: Apakah yang baginda sabdakan, ayah? Ayah saya berkata: Kesemua mereka (khalifah) adalah dari (suku) Quraisy.",
+        "arabic_text": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيل، ‏‏‏‏‏‏حَدَّثَنَا وُهَيْبٌ، ‏‏‏‏‏‏حَدَّثَنَا دَاوُدُ، ‏‏‏‏‏‏عَنْ عَامِرٍ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ سَمُرَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ لَا يَزَالُ هَذَا الدِّينُ عَزِيزًا إِلَى اثْنَيْ عَشَرَ خَلِيفَةً، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَكَبَّرَ النَّاسُ وَضَجُّوا، ‏‏‏‏‏‏ثُمَّ قَالَ:‏‏‏‏ كَلِمَةً خَفِيفَةً، ‏‏‏‏‏‏قُلْتُ لِأَبِي:‏‏‏‏ يَا أَبَتِ مَا قَالَ:‏‏‏‏ قَالَ:‏‏‏‏ كُلُّهُمْ مِنْ قُرَيْشٍ ."
+      },
+      {
+        "id": 23361,
+        "hadith_number": "4281",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Keterangan Tambahan tentang Kejadian Selepas Itu",
+        "perawi_melayu": "Diriwayatkan daripada Jabir bin Samurah",
+        "english_text": "The tradition mentioned above has also been transmitted by Jabir bin Samurah through a different chain of narrators. This version adds: When he came back to his home. the Quraish came to him and said: Then what will happen ? He said: Then turmoil will prevail.",
+        "malay_translation": "Hadis yang disebutkan di atas juga telah diriwayatkan oleh Jabir bin Samurah melalui rangkaian perawi yang berbeza. Versi ini menambah: Apabila baginda kembali ke rumahnya, kaum Quraisy datang kepadanya dan berkata: Kemudian apa yang akan terjadi? Baginda bersabda: Kemudian huru-hara akan berlaku.",
+        "arabic_text": "حَدَّثَنَا ابْنُ نُفَيْلٍ، ‏‏‏‏‏‏حَدَّثَنَا زُهَيْرٌ، ‏‏‏‏‏‏حَدَّثَنَا زِيَادُ بْنُ خَيْثَمَةَ، ‏‏‏‏‏‏حَدَّثَنَا الْأَسْوَدُ بْنُ سَعِيدٍ الْهَمْدَانِيُّ، ‏‏‏‏‏‏عَنْ جَابِرِ بْنِ سَمُرَةَ بِهَذَا الْحَدِيثِ زَادَ فَلَمَّا رَجَعَ إِلَى مَنْزِلِهِ أَتَتْهُ قُرَيْشٌ فَقَالُوا:‏‏‏‏ ثُمَّ يَكُونُ مَاذَا ؟ قَالَ:‏‏‏‏ ثُمَّ يَكُونُ الْهَرْجُ."
+      },
+      {
+        "id": 23362,
+        "hadith_number": "4282",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Tanda-tanda Kiamat: Kedatangan Seorang Lelaki dari Keluarga Nabi yang Memenuhi Bumi dengan Keadilan",
+        "perawi_melayu": "Abdullah ibn Mas'ud",
+        "english_text": "Narrated Abdullah ibn Masud: The Prophet صلی ‌اللہ ‌علیہ ‌وسلم said: If only one day of this world remained. Allah would lengthen that day (according to the version of Zaidah), till He raised up in it a man who belongs to me or to my family whose father's name is the same as my father's, who will fill the earth with equity and justice as it has been filled with oppression and tyranny (according to the version of Fitr). Sufyan's version says: The world will not pass away before the Arabs are ruled by a man of my family whose name will be the same as mine. Abu Dawud said: The version of Umar and Abu Bakr is the same as that of Sufyan.",
+        "malay_translation": "Diriwayatkan daripada Abdullah ibn Mas'ud: Nabi ﷺ bersabda: Jika hanya tinggal satu hari sahaja dari dunia ini, Allah akan memanjangkan hari itu (menurut riwayat Zaidah), sehingga Dia membangkitkan di dalamnya seorang lelaki dari kalangananku atau dari keluargaku yang nama bapanya sama dengan nama bapaku, yang akan memenuhi bumi dengan keadilan dan kesaksamaan sebagaimana ia telah dipenuhi dengan kezaliman dan penindasan (menurut riwayat Fitr). Riwayat Sufyan menyebutkan: Dunia tidak akan berakhir sebelum bangsa Arab diperintah oleh seorang lelaki dari keluargaku yang namanya sama dengan namaku. Abu Dawud berkata: Riwayat Umar dan Abu Bakr adalah sama dengan riwayat Sufyan.",
+        "arabic_text": "حَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏أَنَّ عُمَرَ بْنَ عُبَيْدٍ حَدَّثَهُمْ. ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْعَلَاءِ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو بَكْرٍ يَعْنِي ابْنَ عَيَّاشٍ. ح وَحَدَّثَنَا مُسَدَّدٌ، ‏‏‏‏‏‏حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏عَنْ سُفْيَانَ. ح وَحَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، ‏‏‏‏‏‏أَخْبَرَنَا زَائِدَةُ. ح وَحَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ مُوسَى، ‏‏‏‏‏‏عَنْ فِطْرٍ، ‏‏‏‏‏‏الْمَعْنَى وَاحِدٌ كُلُّهُمْ، ‏‏‏‏‏‏عَنْ عَاصِمٍ، ‏‏‏‏‏‏عَنْ زِرٍّ، ‏‏‏‏‏‏عَنْعَبْدِ اللَّهِ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَوْ لَمْ يَبْقَ مِنَ الدُّنْيَا إِلَّا يَوْمٌ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ زَائِدَةُ فِي حَدِيثِهِ لَطَوَّلَ اللَّهُ ذَلِكَ الْيَوْمَ، ‏‏‏‏‏‏ثُمَّ اتَّفَقُوا:‏‏‏‏ حَتَّى يَبْعَثَ فِيهِ رَجُلًا مِنِّي أَوْ مِنْ أَهْلِ بَيْتِي يُوَاطِئُ اسْمُهُ اسْمِي وَاسْمُ أَبِيهِ اسْمَ أَبِي زَادَ فِي حَدِيثِ فِطْرٍ يَمْلَأُ الْأَرْضَ قِسْطًا وَعَدْلًا كَمَا مُلِئَتْ ظُلْمًا وَجَوْرًا، ‏‏‏‏‏‏وَقَالَ فِي حَدِيثِ سُفْيَانَ:‏‏‏‏ لَا تَذْهَبُ أَوْ لَا تَنْقَضِي الدُّنْيَا حَتَّى يَمْلِكَ الْعَرَبَ رَجُلٌ مِنْ أَهْلِ بَيْتِي يُوَاطِئُ اسْمُهُ اسْمِي ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ لَفْظُ عُمَرَ، ‏‏‏‏‏‏وَأَبِي بَكْرٍ بِمَعْنَى سُفْيَانَ."
+      },
+      {
+        "id": 23363,
+        "hadith_number": "4283",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Keadilan dari Keluarga Nabi di Akhir Zaman",
+        "perawi_melayu": "Ali ibn Abu Talib",
+        "english_text": "Narrated Ali ibn Abu Talib: The Prophet صلی ‌اللہ ‌علیہ ‌وسلم said: If only one day of this time (world) remained, Allah would raise up a man from my family who would fill this earth with justice as it has been filled with oppression.",
+        "malay_translation": "Diriwayatkan dari Ali ibn Abu Talib: Nabi صلی ‌اللہ ‌علیہ ‌وسلم bersabda: Jika hanya tinggal satu hari dari masa ini (dunia), Allah akan membangkitkan seorang lelaki dari keluarga ku yang akan memenuhi bumi ini dengan keadilan sebagaimana ia telah dipenuhi dengan kezaliman.",
+        "arabic_text": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا الْفَضْلُ بْنُ دُكَيْنٍ، ‏‏‏‏‏‏حَدَّثَنَا فِطْرٌ، ‏‏‏‏‏‏عَنِ الْقَاسِمِ بْنِ أَبِي بَزَّةَ، ‏‏‏‏‏‏عَنِ أَبِي الطُّفَيْلِ، ‏‏‏‏‏‏عَنْعَلِيٍ رَضِيَ اللَّهُ عَنْهُ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَوْ لَمْ يَبْقَ مِنَ الدَّهْرِ إِلَّا يَوْمٌ لَبَعَثَ اللَّهُ رَجُلًا مِنْ أَهْلِ بَيْتِي يَمْلَؤُهَا عَدْلًا كَمَا مُلِئَتْ جَوْرًا ."
+      },
+      {
+        "id": 23364,
+        "hadith_number": "4284",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Al-Mahdi dari Keturunanku, dari Keturunan Fatimah",
+        "perawi_melayu": "Ummu Salamah, Ummul Mukminin",
+        "english_text": "Narrated Umm Salamah, Ummul Muminin: The Prophet صلی ‌اللہ ‌علیہ ‌وسلم said: The Mahdi will be of my family, of the descendants of Fatimah. Abdullah ibn Jafar said: I heard Abul Malih praising Ali ibn Nufayl and describing his good qualities.",
+        "malay_translation": "Diriwayatkan dari Ummu Salamah, Ummul Mukminin: Nabi صلی ‌اللہ ‌علیہ ‌وسلم bersabda: Al-Mahdi akan berasal dari keluarga ku, dari keturunan Fatimah. Abdullah ibn Jafar berkata: Saya mendengar Abul Malih memuji Ali ibn Nufayl dan menggambarkan sifat-sifat baiknya.",
+        "arabic_text": "حَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ اللَّهِ بْنُ جَعْفَرٍ الرَّقِّيُّ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو الْمَلِيحِ الْحَسَنُ بْنُ عُمَرَ، ‏‏‏‏‏‏عَنْ زِيَادِ بْنِ بَيَانٍ، ‏‏‏‏‏‏عَنْ عَلِيِّ بْنِ نُفَيْلٍ، ‏‏‏‏‏‏عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ، ‏‏‏‏‏‏عَنْ أُمِّ سَلَمَةَ، ‏‏‏‏‏‏قَالَتْ:‏‏‏‏ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ الْمَهْدِيُّ مِنْ عِتْرَتِي مِنْ وَلَدِ فَاطِمَةَ ، ‏‏‏‏‏‏قَالَ عَبْدُ اللَّهِ بْنُ جَعْفَرٍ، ‏‏‏‏‏‏وَسَمِعْتُ أَبَا الْمَلِيحِ، ‏‏‏‏‏‏يُثْنِي عَلَى عَلِيِّ بْنِ نُفَيْلٍ وَيَذْكُرُ مِنْهُ صَلَاحًا."
+      },
+      {
+        "id": 23365,
+        "hadith_number": "4285",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Ciri-ciri dan Tempoh Pemerintahan Imam Mahdi",
+        "perawi_melayu": "Abu Saeed al-Khudri",
+        "english_text": "Narrated Abu Saeed al-Khudri: The Prophet صلی ‌اللہ ‌علیہ ‌وسلم said: The Mahdi will be of my stock, and will have a broad forehead a prominent nose. He will fill the earth will equity and justice as it was filled with oppression and tyranny, and he will rule for seven years.",
+        "malay_translation": "Diriwayatkan oleh Abu Saeed al-Khudri: Nabi صلی ‌اللہ ‌علیہ ‌وسلم bersabda: Imam Mahdi adalah daripada keturunanku, dahinya luas dan hidungnya mancung. Dia akan memenuhi bumi dengan keadilan dan kesaksamaan sebagaimana ia telah dipenuhi dengan kezaliman dan penindasan, dan dia akan memerintah selama tujuh tahun.",
+        "arabic_text": "حَدَّثَنَا سَهْلُ بْنُ تَمَّامِ بْنِ بَزِيعٍ، ‏‏‏‏‏‏حَدَّثَنَا عِمْرَانُ الْقَطَّانُ، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏عَنْ أَبِي نَضْرَةَ، ‏‏‏‏‏‏عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْمَهْدِيُّ مِنِّي أَجْلَى الْجَبْهَةِ أَقْنَى الْأَنْفِ يَمْلَأُ الْأَرْضَ قِسْطًا وَعَدْلًا كَمَا مُلِئَتْ جَوْرًا وَظُلْمًا يَمْلِكُ سَبْعَ سِنِينَ ."
+      },
+      {
+        "id": 23366,
+        "hadith_number": "4286",
+        "status": "sahih",
+        "nama_buku": "Sunan Abu Daud",
+        "penulis_buku": "Imam Abu Daud Sulaiman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Perselisihan Selepas Kematian Khalifah dan Kemunculan Seorang Lelaki dari Madinah",
+        "perawi_melayu": "Ummu Salamah, Ummul Mukminin",
+        "english_text": "Narrated Umm Salamah, Ummul Muminin: The Prophet صلی ‌اللہ ‌علیہ ‌وسلم said: Disagreement will occur at the death of a caliph and a man of the people of Madina will come flying forth to Makkah. Some of the people of Makkah will come to him, bring him out against his will and swear allegiance to him between the Corner and the Maqam. An expeditionary force will then be sent against him from Syria but will be swallowed up in the desert between Makkah and Madina. When the people see that, the eminent saints of Syria and the best people of Iraq will come to him and swear allegiance to him between the Corner and the Maqam. Then there will arise a man of Quraysh whose maternal uncles belong to Kalb and send against them an expeditionary force which will be overcome by them, and that is the expedition of Kalb. Disappointed will be the one who does not receive the booty of Kalb. He will divide the property, and will govern the people by the Sunnah of their Prophet صلی ‌اللہ ‌علیہ ‌وسلم and establish Islam on Earth. He will remain seven years, then die, and the Muslims will pray over him. Abu Dawud said: Some transmitted from Hisham nine years and some seven years .",
+        "malay_translation": "Diriwayatkan daripada Ummu Salamah, Ummul Mukminin: Nabi صلی ‌اللہ ‌علیہ ‌وسلم bersabda: Perselisihan akan berlaku ketika kematian seorang khalifah dan seorang lelaki dari penduduk Madinah akan datang bergegas ke Makkah. Beberapa orang dari penduduk Makkah akan mendatanginya, mengeluarkan dia secara paksa dan membai'atnya antara Rukun (sudut Kaabah) dan Maqam (Maqam Ibrahim). Kemudian, pasukan ekspedisi akan dihantar untuk menentangnya dari Syam tetapi akan ditelan bumi di padang pasir antara Makkah dan Madinah. Apabila orang ramai melihat itu, wali-wali besar Syam dan orang-orang terbaik Iraq akan datang kepadanya dan membai'atnya antara Rukun dan Maqam. Kemudian akan muncul seorang lelaki dari Quraisy yang bapa-bapa saudaranya berasal dari Kalb dan menghantar pasukan ekspedisi menentang mereka yang akan dikalahkan oleh mereka, dan itulah ekspedisi Kalb. Kecewa adalah orang yang tidak menerima harta rampasan Kalb. Dia akan membahagikan harta, dan akan memerintah orang ramai dengan Sunnah Nabi mereka صلی ‌اللہ ‌علیہ ‌وسلم dan menegakkan Islam di muka bumi. Dia akan kekal tujuh tahun, kemudian mati, dan umat Islam akan menyembahyangkannya. Abu Daud berkata: Sebahagian meriwayatkan daripada Hisyam sembilan tahun dan sebahagian tujuh tahun.",
+        "arabic_text": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، ‏‏‏‏‏‏حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، ‏‏‏‏‏‏حَدَّثَنِي أَبِي، ‏‏‏‏‏‏عَنْ قَتَادَةَ، ‏‏‏‏‏‏عَنْ صَالِحٍ أَبِي الْخَلِيلِ، ‏‏‏‏‏‏عَنْ صَاحِبٍ لَهُ، ‏‏‏‏‏‏عَنْأُمِّ سَلَمَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ يَكُونُ اخْتِلَافٌ عِنْدَ مَوْتِ خَلِيفَةٍ فَيَخْرُجُ رَجُلٌ مِنْ أَهْلِ الْمَدِينَةِ هَارِبًا إِلَى مَكَّةَ فَيَأْتِيهِ نَاسٌ مِنْ أَهْلِ مَكَّةَ فَيُخْرِجُونَهُ وَهُوَ كَارِهٌ، ‏‏‏‏‏‏فَيُبَايِعُونَهُ بَيْنَ الرُّكْنِ وَالْمَقَامِ وَيُبْعَثُ إِلَيْهِ بَعْثٌ مِنْ أَهْلِ الشَّامِ، ‏‏‏‏‏‏فَيُخْسَفُ بِهِمْ بِالْبَيْدَاءِ بَيْنَ مَكَّةَ، ‏‏‏‏‏‏وَالْمَدِينَةِ فَإِذَا رَأَى النَّاسُ ذَلِكَ أَتَاهُ أَبْدَالُ الشَّامِ وَعَصَائِبُ أَهْلِ الْعِرَاقِ فَيُبَايِعُونَهُ بَيْنَ الرُّكْنِ وَالْمَقَامِ ثُمَّ يَنْشَأُ رَجُلٌ مِنْ قُرَيْشٍ أَخْوَالُهُ كَلْبٌ، ‏‏‏‏‏‏فَيَبْعَثُ إِلَيْهِمْ بَعْثًا فَيَظْهَرُونَ عَلَيْهِمْ وَذَلِكَ بَعْثُ كَلْبٍ وَالْخَيْبَةُ لِمَنْ لَمْ يَشْهَدْ غَنِيمَةَ كَلْبٍ فَيَقْسِمُ الْمَالَ وَيَعْمَلُ فِي النَّاسِ بِسُنَّةِ نَبِيِّهِمْ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَيُلْقِي الْإِسْلَامُ بِجِرَانِهِ إِلى الْأَرْضِ فَيَلْبَثُ سَبْعَ سِنِينَ ثُمَّ يُتَوَفَّى وَيُصَلِّي عَلَيْهِ الْمُسْلِمُونَ ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ قَالَ بَعْضُهُمْ:‏‏‏‏ عَنِ هِشَامٍ تِسْعَ سِنِينَ، ‏‏‏‏‏‏وَقَالَ بَعْضُهُمْ سَبْعَ سِنِينَ."
+      },
+      {
+        "id": 23367,
+        "hadith_number": "4287",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Hadis dari Qatadah: Versi Sembilan Tahun",
+        "perawi_melayu": "Tidak Diketahui",
+        "english_text": "The tradition mentioned above has also been transmitted by Qatadah through a different chain of narrators. This version has nine years . Abu Dawud said: The other narrators mentioned nine years from Hisham except Muadh.",
+        "malay_translation": "Hadis yang disebutkan di atas juga diriwayatkan oleh Qatadah melalui rangkaian perawi yang berbeza. Versi ini menyebutkan sembilan tahun. Abu Dawood berkata: Perawi lain menyebutkan sembilan tahun dari Hisham kecuali Muadh.",
+        "arabic_text": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، ‏‏‏‏‏‏حَدَّثَنَا عَبْدُ الصَّمَدِ، ‏‏‏‏‏‏عَنْ هَمَّامٍ، ‏‏‏‏‏‏عَنْ قَتَادَةَ بِهَذَا الْحَدِيثِ، ‏‏‏‏‏‏وَقَالَ تِسْعَ سِنِينَ، ‏‏‏‏‏‏قَالَ أَبُو دَاوُد:‏‏‏‏ وَقَالَ غَيْرُ مُعَاذٍ، ‏‏‏‏‏‏عَنِ هِشَامٍ تِسْعَ سِنِينَ."
+      },
+      {
+        "id": 23368,
+        "hadith_number": "4288",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Hadis daripada Umm Salamah dengan Rantaian Perawi yang Berbeza dan Keutamaan Hadis Muadh",
+        "perawi_melayu": "Umm Salamah",
+        "english_text": "The tradition mentioned above has also been transmitted by Umm Salamah from the Prophet صلی ‌اللہ ‌علیہ ‌وسلم through a different chain of narrators. The tradition of Muadh is more perfect.",
+        "malay_translation": "Hadis yang disebutkan di atas juga telah diriwayatkan oleh Umm Salamah daripada Nabi صلی ‌اللہ ‌علیہ ‌وسلم melalui rangkaian perawi yang berbeza. Hadis Muadh adalah lebih sempurna.",
+        "arabic_text": "حَدَّثَنَا ابْنُ الْمُثَنَّى، ‏‏‏‏‏‏حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو الْعَوَّامِ، ‏‏‏‏‏‏حَدَّثَنَا قَتَادَةُ، ‏‏‏‏‏‏عَنْ أَبِي الْخَلِيلِ، ‏‏‏‏‏‏عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، ‏‏‏‏‏‏عَنْ أُمِّ سَلَمَةَ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِهَذَا الْحَدِيثِ وَحَدِيثُ مُعَاذٍ أَتَمُّ."
+      },
+      {
+        "id": 23369,
+        "hadith_number": "4289",
+        "status": "Sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Daud Sulaiman bin al-Asy'ath as-Sijistani",
+        "tajuk_hadith": "Tentera Ditelan Bumi: Ganjaran Mengikut Niat",
+        "perawi_melayu": "Ummu Salamah",
+        "english_text": "Umm salamah reported the Prophet صلی ‌اللہ ‌علیہ ‌وسلم as saying about the swallowing up an army by the earth. I asked: How will a man who comes against his will (be swallowed up by the earth), Messenger of Allah ? He replied: All will be swallowed up, but each will be raised according to his intention on the Day of Resurrection.",
+        "malay_translation": "Ummu Salamah meriwayatkan bahawa Nabi ﷺ bersabda mengenai penelanan bumi terhadap sebuah tentera. Saya bertanya: Bagaimana dengan seorang lelaki yang datang tanpa kerelaannya (ditelan bumi), wahai Rasulullah? Baginda menjawab: Kesemuanya akan ditelan bumi, tetapi setiap orang akan dibangkitkan mengikut niatnya pada Hari Kiamat.",
+        "arabic_text": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، ‏‏‏‏‏‏حَدَّثَنَا جَرِيرٌ، ‏‏‏‏‏‏عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ، ‏‏‏‏‏‏عَنْ عُبَيْدِ اللَّهِ ابْنِ الْقِبْطِيَّةِ، ‏‏‏‏‏‏عَنْ أُمِّ سَلَمَةَ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِقِصَّةِ جَيْشِ الْخَسْفِ، ‏‏‏‏‏‏قُلْتُ:‏‏‏‏ يَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَكَيْفَ بِمَنْ كَانَ كَارِهًا ؟ قَالَ:‏‏‏‏ يُخْسَفُ بِهِمْ وَلَكِنْ يُبْعَثُ يَوْمَ الْقِيَامَةِ عَلَى نِيَّتِهِ ."
+      },
+      {
+        "id": 23370,
+        "hadith_number": "4290",
+        "status": "sahih",
+        "nama_buku": "Sunan Abu Dawood",
+        "penulis_buku": "Imam Abu Dawud Sulayman ibn al-Ash'ath as-Sijistani",
+        "tajuk_hadith": "Keutamaan Hasan dan Keturunan Adilnya",
+        "perawi_melayu": "Abu Ishaq",
+        "english_text": "Abu Dawud said: Abu Ishaq told that Ali looked at his son al-Hasan and said: This son of mine is a sayyid (chief) as named by the Prophet صلی ‌اللہ ‌علیہ ‌وسلم, and from his loins will come forth a man who will be called by the name of your Prophet صلی ‌اللہ ‌علیہ ‌وسلم and resemble him in conduct but not in appearance. He then mentioned the story about his filling the earth with justice.",
+        "malay_translation": "Abu Dawud berkata: Abu Ishaq meriwayatkan bahawa Ali melihat anaknya al-Hasan dan berkata: Anakku ini adalah seorang sayyid (pemimpin) sebagaimana yang dinamakan oleh Nabi صلی ‌اللہ ‌علیہ ‌وسلم, dan dari sulbinya akan muncul seorang lelaki yang akan dinamakan dengan nama Nabimu صلی ‌اللہ ‌علیہ ‌وسلم dan menyerupainya dalam akhlak tetapi tidak dalam rupa. Kemudian beliau menyebutkan kisah tentangnya memenuhi bumi dengan keadilan.",
+        "arabic_text": "قَالَ أَبُو دَاوُد:‏‏‏‏ حُدِّثْتُ عَنْ هَارُونَ بْنِ الْمُغِيرَةِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَمْرُو بْنُ أَبِي قَيْسٍ، ‏‏‏‏‏‏عَنْ شُعَيْبِ بْنِ خَالِدٍ، ‏‏‏‏‏‏عَنْ أَبِي إِسْحَاق، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ عَلِيٌّ رَضِيَ اللَّهُ عَنْهُ:‏‏‏‏ وَنَظَرَ إِلَى ابْنِهِ الْحَسَنِ، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ إِنَّ ابْنِي هَذَا سَيِّدٌ كَمَا سَمَّاهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَسَيَخْرُجُ مِنْ صُلْبِهِ رَجُلٌ يُسَمَّى بِاسْمِ نَبِيِّكُمْ يُشْبِهُهُ فِي الْخُلُقِ وَلَا يُشْبِهُهُ فِي الْخَلْقِ، ‏‏‏‏‏‏ثُمَّ ذَكَرَ قِصَّةً يَمْلَأُ الْأَرْضَ عَدْلًا."
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 9,
+    "data": [
+      {
+        "id": 17419,
+        "hadith_number": "2295",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Sebaik-baik Saksi",
+        "perawi_melayu": "(Tidak dinyatakan)",
+        "english_text": "Zaid bin Khalid Al-Juhani narrated that the Messenger of Allah (s.a.w) said: Shall l not inform you of the best of witnesses? The one who comes with his testimony before being asked for it.",
+        "malay_translation": "Zaid bin Khalid Al-Juhani meriwayatkan bahawa Rasulullah (s.a.w) bersabda: Tidakkah aku akan memberitahu kamu tentang sebaik-baik saksi? Iaitu orang yang datang dengan kesaksiannya sebelum diminta untuknya.",
+        "arabic_text": "حَدَّثَنَا الْأَنْصَارِيُّ، حَدَّثَنَا مَعْنٌ، حَدَّثَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ عُثْمَانَ، عَنْ أَبِي عَمْرَةَ الْأَنْصَارِيِّ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ أَلَا أُخْبِرُكُمْ بِخَيْرِ الشُّهَدَاءِ ؟ الَّذِي يَأْتِي بِالشَّهَادَةِ قَبْلَ أَنْ يُسْأَلَهَا ."
+      },
+      {
+        "id": 17420,
+        "hadith_number": "2296",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Rantaian daripada Malik melalui Ibn Abi 'Amrah",
+        "perawi_melayu": "Tidak dinyatakan",
+        "english_text": "(Another chain) from Malik in which he said: Ibn Abi 'Amrah.",
+        "malay_translation": "(Rantaian lain) daripada Malik di mana beliau berkata: Ibn Abi 'Amrah.",
+        "arabic_text": "حَدَّثَنَا أَحْمَدُ بْنُ الْحَسَنِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ نَحْوَهُ، ‏‏‏‏‏‏وَقَالَ ابْنُ أَبِي عَمْرَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ هَذَا حَدِيثٌ حَسَنٌ، ‏‏‏‏‏‏وَأَكْثَرُ النَّاسِ، ‏‏‏‏‏‏يَقُولُونَ:‏‏‏‏ عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ، ‏‏‏‏‏‏وَاخْتَلَفُوا عَلَى مَالِكٍ فِي رِوَايَةِ هَذَا الْحَدِيثِ، ‏‏‏‏‏‏فَرَوَى بَعْضُهُمْ عَنْ أَبِي عَمْرَةَ، ‏‏‏‏‏‏وَرَوَى بَعْضُهُمْ عَنْ ابْنِ أَبِي عَمْرَةَ وَهُوَ عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ الْأَنْصَارِيُّ، ‏‏‏‏‏‏وَهَذَا أَصَحُّ لِأَنَّهُ قَدْ رُوِيَ مِنْ غَيْرِ حَدِيثِ مَالِكٍ، ‏‏‏‏‏‏عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ خَالِدٍ، ‏‏‏‏‏‏وَقَدْ رُوِيَ عَنِ ابْنِ أَبِي عَمْرَةَ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ خَالِدٍ غَيْرُ هَذَا الْحَدِيثِ، ‏‏‏‏‏‏وَهُوَ حَدِيثٌ صَحِيحٌ أَيْضًا، ‏‏‏‏‏‏وَأَبُو عَمْرَةَ مَوْلَى زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، ‏‏‏‏‏‏وَلَهُ حَدِيثُ الْغُلُولِ، ‏‏‏‏‏‏وَأَكْثَرُ النَّاسِ، ‏‏‏‏‏‏يَقُولُونَ:‏‏‏‏ عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ."
+      },
+      {
+        "id": 17421,
+        "hadith_number": "2297",
+        "status": "sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Sebaik-baik Saksi Memberi Kesaksian Sebelum Diminta",
+        "perawi_melayu": "Zaid bin Khalid Al-Juhani",
+        "english_text": "Zaid bin Khalid Al-Juhani narrated that the Messenger of Allah(s.a.w) said: The best of witnesses is the one who gives his testimony before being asked for it.",
+        "malay_translation": "Zaid bin Khalid Al-Juhani meriwayatkan bahawa Rasulullah (s.a.w) bersabda: Sebaik-baik saksi adalah orang yang memberikan kesaksiannya sebelum diminta.",
+        "arabic_text": "حَدَّثَنَا بِشْرُ بْنُ آدَمَ ابْنُ بِنْتِ أَزْهَرَ السَّمَّانِ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنَا أُبَيُّ بْنُ عَبَّاسِ بْنِ سَهْلِ بْنِ سَعْدٍ، حَدَّثَنِي أَبُو بَكْرِ بْنُ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ عُثْمَانَ، حَدَّثَنِي خَارِجَةُ بْنُ زَيْدِ بْنِ ثَابِتٍ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَمْرَةَ، حَدَّثَنِي زَيْدُ بْنُ خَالِدٍ الْجُهَنِيُّ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ:‏‏‏‏ خَيْرُ الشُّهَدَاءِ مَنْ أَدَّى شَهَادَتَهُ قَبْلَ أَنْ يُسْأَلَهَا ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ مِنْ هَذَا الْوَجْهِ."
+      },
+      {
+        "id": 17422,
+        "hadith_number": "2298",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Kesaksian yang Tidak Diterima",
+        "perawi_melayu": "Tidak Diketahui",
+        "english_text": "Aishah narrated that the Messenger of Allah (s.a.w) said: The testimony of a treacherous man is not acceptable nor a treacherous woman nor a man lashed for the Hadd nor a woman lashed nor one possessing malice of enmity nor a rehearsed witness nor the Qani of (one contracted by)the family on their behalf nor the one associating himself to other than his Wala or to other than his relatives.",
+        "malay_translation": "Aisyah meriwayatkan bahawa Rasulullah (s.a.w) bersabda: Kesaksian seorang lelaki pengkhianat tidak diterima, begitu juga wanita pengkhianat, lelaki yang disebat kerana Hadd, wanita yang disebat, orang yang memiliki kebencian permusuhan, saksi yang dilatih, Qani dari (orang yang dikontrak oleh) keluarga bagi pihak mereka, dan orang yang mengaitkan dirinya dengan selain Wala atau selain kerabatnya tidak diterima.",
+        "arabic_text": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ الْفَزَارِيُّ، عَنْ يَزِيدَ بْنِ زِيَادٍ الدِّمَشْقِيِّ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ لَا تَجُوزُ شَهَادَةُ خَائِنٍ، ‏‏‏‏‏‏وَلَا خَائِنَةٍ، ‏‏‏‏‏‏وَلَا مَجْلُودٍ حَدًّا، ‏‏‏‏‏‏وَلَا مَجْلُودَةٍ، ‏‏‏‏‏‏وَلَا ذِي غِمْرٍ لِأَخِيهِ، ‏‏‏‏‏‏وَلَا مُجَرَّبِ شَهَادَةٍ، ‏‏‏‏‏‏وَلَا الْقَانِعِ أَهْلَ الْبَيْتِ لَهُمْ، ‏‏‏‏‏‏وَلَا ظَنِينٍ فِي وَلَاءٍ، ‏‏‏‏‏‏وَلَا قَرَابَةٍ ، ‏‏‏‏‏‏قَالَ الْفَزَارِيُّ:‏‏‏‏ الْقَانِعُ التَّابِعُ، ‏‏‏‏‏‏هَذَا حَدِيثٌ غَرِيبٌ لَا نَعْرِفُهُ إِلَّا مِنْ حَدِيثِ يَزِيدَ بْنِ زِيَادٍ الدِّمَشْقِيِّ، ‏‏‏‏‏‏وَيَزِيدُ يُضَعَّفُ فِي الْحَدِيثِ، ‏‏‏‏‏‏وَلَا يُعْرَفُ هَذَا الْحَدِيثُ مِنْ حَدِيثِ الزُّهْرِيِّ إِلَّا مِنْ حَدِيثِهِ، ‏‏‏‏‏‏وَفِي الْبَابِ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، ‏‏‏‏‏‏قَالَ:‏‏‏‏ وَلَا نَعْرِفُ مَعْنَى هَذَا الْحَدِيثِ، ‏‏‏‏‏‏وَلَا يَصِحُّ عِنْدِي مِنْ قِبَلِ إِسْنَادِهِ، ‏‏‏‏‏‏وَالْعَمَلُ عِنْدَ أَهْلِ الْعِلْمِ فِي هَذَا أَنَّ شَهَادَةَ الْقَرِيبِ جَائِزَةٌ لِقَرَابَتِهِ، ‏‏‏‏‏‏وَاخْتَلَفَ أَهْلُ الْعِلْمِ فِي شَهَادَةِ الْوَالِدِ لِلْوَلَدِ، ‏‏‏‏‏‏وَالْوَلَدِ لِوَالِدِهِ، ‏‏‏‏‏‏وَلَمْ يُجِزْ أَكْثَرُ أَهْلِ الْعِلْمِ شَهَادَةَ الْوَالِدِ لِلْوَلَدِ، ‏‏‏‏‏‏وَلَا الْوَلَدِ لِلْوَالِدِ، ‏‏‏‏‏‏وَقَالَ بَعْضُ أَهْلِ الْعِلْمِ:‏‏‏‏ إِذَا كَانَ عَدْلًا، ‏‏‏‏‏‏فَشَهَادَةُ الْوَالِدِ لِلْوَلَدِ جَائِزَةٌ، ‏‏‏‏‏‏وَكَذَلِكَ شَهَادَةُ الْوَلَدِ لِلْوَالِدِ، ‏‏‏‏‏‏وَلَمْ يَخْتَلِفُوا فِي شَهَادَةِ الْأَخِ لِأَخِيهِ أَنَّهَا جَائِزَةٌ، ‏‏‏‏‏‏وَكَذَلِكَ شَهَادَةُ كُلِّ قَرِيبٍ لِقَرِيبِهِ، ‏‏‏‏‏‏وَقَالَ الشَّافِعِيُّ:‏‏‏‏ لَا تَجُوزُ شَهَادَةٌ لِرَجُلٍ عَلَى الْآخَرِ وَإِنْ كَانَ عَدْلًا إِذَا كَانَتْ بَيْنَهُمَا عَدَاوَةٌ، ‏‏‏‏‏‏وَذَهَبَ إِلَى حَدِيثِ عَبْدِ الرَّحْمَنِ الْأَعْرَجِ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُرْسَلًا، ‏‏‏‏‏‏لَا تَجُوزُ شَهَادَةُ صَاحِبِ إِحْنَةٍ، ‏‏‏‏‏‏يَعْنِي:‏‏‏‏ صَاحِبَ عَدَاوَةٍ، ‏‏‏‏‏‏وَكَذَلِكَ مَعْنَى هَذَا الْحَدِيثِ حَيْثُ قَالَ:‏‏‏‏ لَا تَجُوزُ شَهَادَةُ صَاحِبِ غِمْرٍ لِأَخِيهِ ، ‏‏‏‏‏‏يَعْنِي:‏‏‏‏ صَاحِبَ عَدَاوَةٍ."
+      },
+      {
+        "id": 17423,
+        "hadith_number": "2299",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Larangan Saksi Palsu dan Perkataan Dusta",
+        "perawi_melayu": "Ayman bin Khuraim",
+        "english_text": "Ayman bin Khuraim narrated that the Prophet (s.a.w) stood to give a Khutbah and said: O you people False witness is tantamount to Shirk with Allah Then the Messenger of Allah (s.a.w)recited: So shun the Rijs of the idols, and shun false speech.",
+        "malay_translation": "Ayman bin Khuraim meriwayatkan bahawa Nabi (s.a.w) berdiri untuk menyampaikan Khutbah dan bersabda: Wahai sekalian manusia! Saksi palsu adalah sama taraf dengan Syirik kepada Allah. Kemudian Rasulullah (s.a.w) membaca: Oleh itu jauhilah kekotoran berhala, dan jauhilah perkataan dusta.",
+        "arabic_text": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، عَنْ سُفْيَانَ بْنِ زِيَادٍ الْأَسَدِيِّ، عَنْ فَاتِكِ بْنِ فَضَالَةَ، عَنْ أَيْمَنَ بْنِ خُرَيْمٍ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَامَ خَطِيبًا، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ يَا أَيُّهَا النَّاسُ، ‏‏‏‏‏‏ عَدِلَتْ شَهَادَةُ الزُّورِ إِشْرَاكًا بِاللَّهِ ، ‏‏‏‏‏‏ثُمَّ قَرَأَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَاجْتَنِبُوا الرِّجْسَ مِنَ الأَوْثَانِ وَاجْتَنِبُوا قَوْلَ الزُّورِ سورة الحج آية 30، ‏‏‏‏‏‏قَالَ أَبُو عِيسَى:‏‏‏‏ وَهَذَا حَدِيثٌ غَرِيبٌ إِنَّمَا نَعْرِفُهُ مِنْ حَدِيثِ سُفْيَانَ بْنِ زِيَادٍ، ‏‏‏‏‏‏وَاخْتَلَفُوا فِي رِوَايَةِ هَذَا الْحَدِيثِ عَنْ سُفْيَانَ بْنِ زِيَادٍ، ‏‏‏‏‏‏وَلَا نَعْرِفُ لِأَيْمَنَ بْنِ خُرَيْمٍ سَمَاعًا مِنَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ."
+      },
+      {
+        "id": 17424,
+        "hadith_number": "2300",
+        "status": "sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Bahaya Saksi Palsu seperti Syirik",
+        "perawi_melayu": "Khuraim bin Fatik Al-Asadi",
+        "english_text": "Khuraim bin Fatik Al-Asadi narrated that the Messenger of Allah (s.a.w) performed the Subh (Fajr)prayer. Then when he turned he got up to stand and said: O you people! False witness is tantamount to Shirk with Allah. Saying it three times, then he recited this Ayah And shun false speech Until the end of the Ayah.",
+        "malay_translation": "Khuraim bin Fatik Al-Asadi meriwayatkan bahawa Rasulullah (s.a.w) menunaikan solat Subuh (Fajr). Kemudian ketika baginda berpaling, baginda bangun berdiri dan bersabda: Wahai sekalian manusia! Saksi palsu adalah sama dengan Syirik kepada Allah. Baginda mengatakannya tiga kali, kemudian baginda membaca ayat ini: Dan jauhilah perkataan dusta... hingga akhir ayat.",
+        "arabic_text": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا سُفْيَانُ وَهُوَ ابْنُ زِيَادٍ الْعُصْفُرِيُّ، عَنْ أَبِيهِ، عَنْ حَبِيبِ بْنِ النُّعْمَانِ الْأَسَدِيِّ، عَنْ خُرَيْمِ بْنِ فَاتِكٍ الْأَسَدِيِّ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَّى صَلَاةَ الصُّبْحِ فَلَمَّا انْصَرَفَ قَامَ قَائِمًا، ‏‏‏‏‏‏فَقَالَ:‏‏‏‏ عُدِلَتْ شَهَادَةُ الزُّورِ بِالشِّرْكِ بِاللَّهِ ثَلَاثَ مَرَّاتٍ، ‏‏‏‏‏‏ثُمَّ تَلَا هَذِهِ الْآيَةَ وَاجْتَنِبُوا قَوْلَ الزُّورِ سورة الحج آية 30 إِلَى آخِرِ الْآيَةِ، ‏‏‏‏‏‏قَالَ أَبُو عِيسَى:‏‏‏‏ هَذَا عِنْدِي أَصَحُّ، ‏‏‏‏‏‏وَخُرَيْمُ بْنُ فَاتِكٍ لَهُ صُحْبَةٌ، ‏‏‏‏‏‏وَقَدْ رَوَى عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَحَادِيثَ وَهُوَ مَشْهُورٌ."
+      },
+      {
+        "id": 17425,
+        "hadith_number": "2301",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Dosa-dosa Besar yang Paling Utama",
+        "perawi_melayu": "Tidak Diketahui",
+        "english_text": "Abdur-Rahman bin Abi Bakrah narrated from his father that the Messenger of Allah (s.a.w) said: Shall I not inform you of the greatest of the major sins? They said: Of course O Messenger of Allah(s.a.w)! He said: Shirk with Allah disobeying parents, and false testimony. Or: False speech He said: So the Messenger of Allah(s.a.w) would not stop saying it until we said ( to ourselves): 'I wish he would be quiet.",
+        "malay_translation": "Abdur-Rahman bin Abi Bakrah meriwayatkan daripada bapanya bahawa Rasulullah (s.a.w) bersabda: “Mahukah aku memberitahu kamu tentang dosa-dosa besar yang paling besar?” Mereka berkata: “Tentu wahai Rasulullah (s.a.w)!” Baginda bersabda: “Syirik kepada Allah, menderhakai ibu bapa, dan kesaksian palsu.” Atau: “Percakapan palsu.” Baginda bersabda: Maka Rasulullah (s.a.w) tidak berhenti mengatakannya sehingga kami berkata (dalam hati kami): “Alangkah baiknya jika baginda berdiam diri.”",
+        "arabic_text": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنِ الْجُرَيْرِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرَةَ، عَنْ أَبِيهِ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ أَلَا أُخْبِرُكُمْ بِأَكْبَرِ الْكَبَائِرِ ؟ قَالُوا:‏‏‏‏ بَلَى يَا رَسُولَ اللَّهِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ الْإِشْرَاكُ بِاللَّهِ، ‏‏‏‏‏‏وَعُقُوقُ الْوَالِدَيْنِ، ‏‏‏‏‏‏وَشَهَادَةُ الزُّورِ، ‏‏‏‏‏‏أَوْ قَوْلُ الزُّورِ ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ فَمَا زَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُهَا حَتَّى قُلْنَا لَيْتَهُ سَكَتَ، ‏‏‏‏‏‏قَالَ أَبُو عِيسَى:‏‏‏‏ هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ، ‏‏‏‏‏‏وَفِي الْبَابِ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو."
+      },
+      {
+        "id": 17426,
+        "hadith_number": "2302",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Sebaik-baik Generasi dan Amaran Tentang Generasi Kemudian",
+        "perawi_melayu": "Tidak Diketahui",
+        "english_text": "Imran bin Husain narrated that the Messenger of Allah(s.a.w)said: The best of people are my generation, then those who follow them,then those who follow them, then those who follow them. (He(s.a.w)said that) three times. Then, after them a people will come who increase in fatness, loving fatness, giving testimony before they are asked for it.",
+        "malay_translation": "Imran bin Husain meriwayatkan bahawa Rasulullah ﷺ bersabda: “Sebaik-baik manusia adalah generasi saya, kemudian mereka yang mengikuti mereka, kemudian mereka yang mengikuti mereka, kemudian mereka yang mengikuti mereka.” (Baginda ﷺ bersabda demikian) tiga kali. Kemudian, selepas mereka akan datang suatu kaum yang bertambah gemuk, mencintai kegemukan, memberi kesaksian sebelum mereka diminta untuknya.",
+        "arabic_text": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الْأَعْلَى، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنِ الْأَعْمَشِ، عَنْ عَلِيِّ بْنِ مُدْرِكٍ، عَنْ هِلَالِ بْنِ يَسَافٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنِ، قَالَ:‏‏‏‏ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ:‏‏‏‏ خَيْرُ النَّاسِ قَرْنِي، ‏‏‏‏‏‏ثُمَّ الَّذِينَ يَلُونَهُمْ، ‏‏‏‏‏‏ثُمَّ الَّذِينَ يَلُونَهُمْ، ‏‏‏‏‏‏ثُمَّ الَّذِينَ يَلُونَهُمْ ثَلَاثًا، ‏‏‏‏‏‏ثُمَّ يَجِيءُ قَوْمٌ مِنْ بَعْدِهِمْ يَتَسَمَّنُونَ وَيُحِبُّونَ السِّمَنَ يُعْطُونَ الشَّهَادَةَ قَبْلَ أَنْ يُسْأَلُوهَا ، ‏‏‏‏‏‏قَالَ أَبُو عِيسَى:‏‏‏‏ وَهَذَا حَدِيثٌ غَرِيبٌ مِنْ حَدِيثِ الْأَعْمَشِ، ‏‏‏‏‏‏عَنْ عَلِيِّ بْنِ مُدْرِكٍ، ‏‏‏‏‏‏وَأَصْحَابُ الْأَعْمَشِ إِنَّمَا رَوَوْا عَنِ الْأَعْمَشِ، ‏‏‏‏‏‏عَنْ هِلَالِ بْنِ يَسَافٍ، ‏‏‏‏‏‏عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، ‏‏‏‏‏‏حَدَّثَنَا أَبُو عَمَّارٍ الْحُسَيْنُ بْنُ حُرَيْثٍ."
+      },
+      {
+        "id": 17427,
+        "hadith_number": "2303",
+        "status": "Sahih",
+        "nama_buku": "Jami' Al-Tirmidhi",
+        "penulis_buku": "Abu `Isa Muhammad at-Tirmidhi",
+        "tajuk_hadith": "Keutamaan Generasi Sahabat dan Generasi Selepasnya",
+        "perawi_melayu": "Tidak dinyatakan",
+        "english_text": "Clarification of this is in the Hadith of 'Umar bin Al-Khattab, from the Prophet(s.a.w) who said: The best of people are my generation, then those who follow them,then those who follow them. Then lying will spread, until a man testifies while his testimony was not requested, and a man will take an oath while an oath was not sought.",
+        "malay_translation": "Penjelasan mengenai ini terdapat dalam Hadis 'Umar bin Al-Khattab, daripada Nabi (s.a.w) yang bersabda: Sebaik-baik manusia adalah generasiku, kemudian mereka yang mengikuti mereka, kemudian mereka yang mengikuti mereka. Kemudian dusta akan tersebar, sehingga seseorang memberi kesaksian walaupun kesaksiannya tidak diminta, dan seseorang akan bersumpah walaupun sumpah tidak dicari.",
+        "arabic_text": "وَبَيَانُ هَذَا فِي حَدِيثِ عُمَرَ بْنِ الْخَطَّابِ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ خَيْرُ النَّاسِ قَرْنِي، ‏‏‏‏‏‏ثُمَّ الَّذِينَ يَلُونَهُمْ، ‏‏‏‏‏‏ثُمَّ الَّذِينَ يَلُونَهُمْ، ‏‏‏‏‏‏ثُمَّ يَفْشُو الْكَذِبُ حَتَّى يَشْهَدَ الرَّجُلُ وَلَا يُسْتَشْهَدُ، ‏‏‏‏‏‏وَيَحْلِفُ الرَّجُلُ وَلَا يُسْتَحْلَفُ ، ‏‏‏‏‏‏وَمَعْنَى حَدِيثِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ خَيْرُ الشُّهَدَاءِ الَّذِي يَأْتِي بِشَهَادَتِهِ قَبْلَ أَنْ يُسْأَلَهَا هُوَ عِنْدَنَا إِذَا أُشْهِدَ الرَّجُلُ عَلَى الشَّيْءِ أَنْ يُؤَدِّيَ شَهَادَتَهُ وَلَا يَمْتَنِعَ مِنَ الشَّهَادَةِ، ‏‏‏‏‏‏هَكَذَا وَجْهُ الْحَدِيثِ عِنْدَ بَعْضِ أَهْلِ الْعِلْمِ."
+      }
+    ]
+  }
+}

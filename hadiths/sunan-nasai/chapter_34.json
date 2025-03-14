@@ -1,0 +1,177 @@
+{
+  "status": 200,
+  "message": "Hadiths has been found.",
+  "hadiths": {
+    "total": 14,
+    "data": [
+      {
+        "id": 38724,
+        "hadith_number": "3736",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Keharusan Ar-Ruqba (Pemberian yang Boleh Ditarik Semula)",
+        "perawi_melayu": "Zaid bin Thabit (Semoga Allah meredhainya)",
+        "english_text": "Hilal bin Al-'Ala' informed us: My father narrated to us: Ubaidullah -he is, Ibn 'Amr- narrated to us, from Sufyan, from Ibn Abi Najih, from Tawus, from Zaid bin Thabit, that the Prophet said: 'Ar-Ruqba is permissible.'",
+        "malay_translation": "Telah mengkhabarkan kepada kami Hilal bin Al-'Ala': Telah menceritakan kepada kami ayahku: Telah menceritakan kepada kami Ubaidullah –iaitu Ibn 'Amr- daripada Sufyan, daripada Ibn Abi Najih, daripada Tawus, daripada Zaid bin Thabit, bahawa Nabi ﷺ bersabda: 'Ar-Ruqba adalah harus.'",
+        "arabic_text": "أَخْبَرَنَا هِلَالُ بْنُ الْعَلَاءِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا أَبِي، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عُبَيْدُ اللَّهِ وَهُوَ ابْنُ عَمْرٍو، ‏‏‏‏‏‏عَنْ سُفْيَانَ، ‏‏‏‏‏‏عَنْ ابْنِ أَبِي نَجِيحٍ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ الرُّقْبَى جَائِزَةٌ ."
+      },
+      {
+        "id": 38725,
+        "hadith_number": "3737",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Hukum Ruqba: Kepunyaan Penerima",
+        "perawi_melayu": "Zaid bin Thabit",
+        "english_text": "Muhammad bin 'Ali bin Maimun informed us, he said: Muhammad -he is, Ibn Yusuf- narrated to us, he said: 'Sufyan narrated to us from Ibn Abi Najih, from Tawus, from a man, from Zaid bin Thabit that the Prophet ruled that the Ruqba belongs to the one to whom it is given.'",
+        "malay_translation": "Muhammad bin 'Ali bin Maimun memaklumkan kepada kami, dia berkata: Muhammad -iaitu Ibn Yusuf- meriwayatkan kepada kami, dia berkata: 'Sufyan meriwayatkan kepada kami daripada Ibn Abi Najih, daripada Tawus, daripada seorang lelaki, daripada Zaid bin Thabit bahawa Nabi ﷺ memutuskan bahawa Ruqba adalah milik orang yang menerimanya.'",
+        "arabic_text": "أَخْبَرَنِي مُحَمَّدُ بْنُ عَلِيِّ بْنِ مَيْمُونٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا مُحَمَّدٌ وَهُوَ ابْنُ يُوسُفَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ ابْنِ أَبِي نَجِيحٍ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنْ رَجُلٍ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جَعَلَ الرُّقْبَى لِلَّذِي أُرْقِبَهَا ."
+      },
+      {
+        "id": 38726,
+        "hadith_number": "3738",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Larangan Ruqba dan Perihal Hibah",
+        "perawi_melayu": "Zakariyya bin Yahya",
+        "english_text": "Zakariyya bin Yahya informed us, he said: Abdul-Jabbar bin Al-'Ala' narrated to us, he said: 'Sufyan narrated to us from Ibn Abi Najih, from Tawus, and perhaps it is from Ibn 'Abbas, who said: There is no Ruqba, and whoever gives a gift on the basis of Ruqba, it is part of his estate.'",
+        "malay_translation": "Zakariyya bin Yahya memaklumkan kepada kami, beliau berkata: Abdul-Jabbar bin Al-'Ala' meriwayatkan kepada kami, beliau berkata: 'Sufyan meriwayatkan kepada kami daripada Ibn Abi Najih, daripada Tawus, dan mungkin daripada Ibn 'Abbas, yang berkata: Tiada Ruqba, dan sesiapa yang memberikan hadiah atas dasar Ruqba, ia adalah sebahagian daripada harta pusakanya.'",
+        "arabic_text": "أَخْبَرَنَا زَكَرِيَّا بْنُ يَحْيَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَبْدُ الْجَبَّارِ بْنُ الْعَلَاءِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ ابْنِ أَبِي نَجِيحٍ، ‏‏‏‏‏‏عَنْ طَاوُسٍ لَعَلَّهُ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا رُقْبَى فَمَنْ أُرْقِبَ شَيْئًا فَهُوَ سَبِيلُ الْمِيرَاثِ ."
+      },
+      {
+        "id": 38727,
+        "hadith_number": "3739",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Larangan Memberi Harta Berdasarkan Ruqba",
+        "perawi_melayu": "Zaid meriwayatkan daripada Abu Az-Zubair, daripada Tawus, daripada Ibn 'Abbas",
+        "english_text": "Zaid narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas that the Messenger of Allah said: Do not give away your property on the basis of Ruqba, for whoever gives a gift on that basis, it belongs to the one to whom he gave it.",
+        "malay_translation": "Zaid meriwayatkan daripada Abu Az-Zubair, daripada Tawus, daripada Ibn 'Abbas bahawa Rasulullah ﷺ bersabda: \"Janganlah kamu memberikan hartamu berdasarkan Ruqba. Sesiapa yang memberi hadiah atas dasar itu, maka ia adalah milik orang yang diberi hadiah tersebut.",
+        "arabic_text": "أَخْبَرَنِي مُحَمَّدُ بْنُ وَهْبٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي أَبُو عَبْدِ الرَّحِيمِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنِي زَيْدٌ، ‏‏‏‏‏‏عَنْ أَبِي الزُّبَيْرِ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا تُرْقِبُوا أَمْوَالَكُمْ فَمَنْ أَرْقَبَ شَيْئًا فَهُوَ لِمَنْ أُرْقِبَهُ ."
+      },
+      {
+        "id": 38728,
+        "hadith_number": "3740",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Keharusan Umrah dan Ruqba, dan Larangan Mengambil Semula Pemberian",
+        "perawi_melayu": "Daripada Ibnu Abbas رضي الله عنه",
+        "english_text": "Hajjaj narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said: The Messenger of Allah said: 'Umra (life-long gift) is permissible for the one to whom it is given, and Ruqba is permissible to the one to whom it is given, and the one who takes back his gift is like the one who goes back to his vomit.'",
+        "malay_translation": "Hajjaj meriwayatkan daripada Abu Az-Zubair, daripada Tawus, daripada Ibnu Abbas رضي الله عنه, yang berkata: Rasulullah ﷺ bersabda: 'Umrah (pemberian seumur hidup) adalah dibenarkan bagi orang yang diberi, dan Ruqba adalah dibenarkan bagi orang yang diberi, dan orang yang mengambil semula pemberiannya adalah seperti orang yang kembali kepada muntahnya.'",
+        "arabic_text": "أَخْبَرَنَا أَحْمَدُ بْنُ حَرْبٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا أَبُو مُعَاوِيَةَ، ‏‏‏‏‏‏عَنْ حَجَّاجٍ، ‏‏‏‏‏‏عَنْ أَبِي الزُّبَيْرِ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنْ ابْنِ عَبَّاسِ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْعُمْرَى جَائِزَةٌ لِمَنْ أُعْمِرَهَا وَالرُّقْبَى جَائِزَةٌ لِمَنْ أُرْقِبَهَا وَالْعَائِدُ فِي هِبَتِهِ كَالْعَائِدِ فِي قَيْئِهِ ."
+      },
+      {
+        "id": 38729,
+        "hadith_number": "3741",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Umrah dan Ruqba Adalah Sama",
+        "perawi_melayu": "Daripada Ibn 'Abbas R.A.",
+        "english_text": "Sufyan narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said: 'Umra and Ruqba are the same.",
+        "malay_translation": "Sufyan meriwayatkan daripada Abu Az-Zubair, daripada Tawus, daripada Ibn 'Abbas, yang berkata: 'Umra dan Ruqba adalah sama.",
+        "arabic_text": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَحْيَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ أَبِي الزُّبَيْرِ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ الْعُمْرَى وَالرُّقْبَى سَوَاءٌ ."
+      },
+      {
+        "id": 38730,
+        "hadith_number": "3742",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Hukum Ruqba dan 'Umra",
+        "perawi_melayu": "Daripada Sufyan, daripada Abu Az-Zubair, daripada Tawus, daripada Ibn 'Abbas",
+        "english_text": "(A different chain) from Sufyan, from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said: Ruqba and 'Umra are not permissible; whoever is given something on the basis of 'Umra, it is his, and whoever is given something on the basis of Ruqba, it is his.",
+        "malay_translation": "Daripada Sufyan, daripada Abu Az-Zubair, daripada Tawus, daripada Ibn 'Abbas, yang berkata: Ruqba dan 'Umra adalah tidak dibenarkan; sesiapa yang diberi sesuatu atas dasar 'Umra, maka ia adalah miliknya, dan sesiapa yang diberi sesuatu atas dasar Ruqba, maka ia adalah miliknya.",
+        "arabic_text": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا يَعْلَى، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ أَبِي الزُّبَيْرِ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا تَحِلُّ الرُّقْبَى، ‏‏‏‏‏‏وَلَا الْعُمْرَى فَمَنْ أُعْمِرَ شَيْئًا فَهُوَ لَهُ وَمَنْ أُرْقِبَ شَيْئًا فَهُوَ لَهُ ."
+      },
+      {
+        "id": 38731,
+        "hadith_number": "3743",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Hukum 'Umra dan Ruqba",
+        "perawi_melayu": "Daripada Ibnu Abbas",
+        "english_text": "(A different chain) from Hajjaj, from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said: 'Umra and Ruqba are not proper. Whoever gives something on the basis of 'Umra or Ruqba, it belongs to the one to whom he gave it on that basis, both during his lifetime and after his death. Hanzalah narrated it in Mursal form.",
+        "malay_translation": "Daripada rangkaian yang berbeza, daripada Hajjaj, daripada Abu Az-Zubair, daripada Tawus, daripada Ibnu Abbas, yang berkata: 'Umra dan Ruqba tidak sah. Sesiapa yang memberikan sesuatu atas dasar 'Umra atau Ruqba, maka ia adalah milik orang yang diberikan kepadanya atas dasar itu, sama ada semasa hidupnya atau selepas kematiannya. Hanzalah meriwayatkannya dalam bentuk Mursal.",
+        "arabic_text": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا حَجَّاجٌ، ‏‏‏‏‏‏عَنْ أَبِي الزُّبَيْرِ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنِ ابْنِ عَبَّاسٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ لَا تَصْلُحُ الْعُمْرَى، ‏‏‏‏‏‏وَلَا الرُّقْبَى فَمَنْ أَعْمَرَ شَيْئًا أَوْ أَرْقَبَهُ فَإِنَّهُ لِمَنْ أُعْمِرَهُ وَأُرْقِبَهُ حَيَاتَهُ وَمَوْتَهُ أَرْسَلَهُ حَنْظَلَةُ ."
+      },
+      {
+        "id": 38732,
+        "hadith_number": "3744",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Hukum Ruqba (Pemberian Bersyarat)",
+        "perawi_melayu": "Hanzalah meriwayatkan bahawa dia mendengar Tawus berkata:",
+        "english_text": "Hanzalah narrated that he heard Tawus say: The Messenger of Allah said: 'Ruqba is not permissible. Whoever is given something on the basis of Ruqba, it is part of his estate.'",
+        "malay_translation": "Hanzalah meriwayatkan bahawa dia mendengar Tawus berkata: Rasulullah ﷺ bersabda: 'Ruqba tidak halal. Sesiapa yang diberikan sesuatu berdasarkan Ruqba, maka ia adalah sebahagian daripada pusakanya.'",
+        "arabic_text": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ قَالَ:‏‏‏‏ أَنْبَأَنَا حِبَّانُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَبْدُ اللَّهِ، ‏‏‏‏‏‏عَنْ حَنْظَلَةَ أَنَّهُ سَمِعَ طَاوُسًا، ‏‏‏‏‏‏يَقُولُ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ لَا تَحِلُّ الرُّقْبَى فَمَنْ أُرْقِبَ رُقْبَى فَهُوَ سَبِيلُ الْمِيرَاثِ ."
+      },
+      {
+        "id": 38733,
+        "hadith_number": "3745",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Umrah (Pemberian Seumur Hidup) adalah Sebahagian daripada Harta Pusaka",
+        "perawi_melayu": "Zaid bin Thabit (RA)",
+        "english_text": "Sufyan narrated from Ibn Abi Najih, from Tawus, from Zaid bin Thabit, who said: The Messenger of Allah said: 'Umra (a gift given for life) is part of the estate.'",
+        "malay_translation": "Sufyan meriwayatkan daripada Ibn Abi Najih, daripada Tawus, daripada Zaid bin Thabit, yang berkata: Rasulullah ﷺ bersabda: 'Umrah (pemberian seumur hidup) adalah sebahagian daripada harta pusaka.'",
+        "arabic_text": "أَخْبَرَنِي عَبْدَةُ بْنُ عَبْدِ الرَّحِيمِ، ‏‏‏‏‏‏عَنْ وَكِيعٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ ابْنِ أَبِي نَجِيحٍ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْعُمْرَى مِيرَاثٌ ."
+      },
+      {
+        "id": 38734,
+        "hadith_number": "3746",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Umrah (Pemberian Seumur Hidup) adalah untuk Pewaris",
+        "perawi_melayu": "Zaid bin Thabit رضي الله عنه",
+        "english_text": "Sufyan narrated from Ibn Tawus, from his father, from Hujr Al-Madari, from Zaid, who said: The Messenger of Allah said: 'Umra (a gift given for life) is for the heir.'",
+        "malay_translation": "Sufyan meriwayatkan daripada Ibn Tawus, daripada bapanya, daripada Hujr Al-Madari, daripada Zaid, yang berkata: Rasulullah ﷺ bersabda: 'Umrah (pemberian seumur hidup) adalah untuk pewaris.'",
+        "arabic_text": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا سُفْيَانُ، ‏‏‏‏‏‏عَنْ ابْنِ طَاوُسٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ حُجْرٍ الْمَدَرِيِّ، ‏‏‏‏‏‏عَنْ زَيْدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ:‏‏‏‏ الْعُمْرَى لِلْوَارِثِ ."
+      },
+      {
+        "id": 38735,
+        "hadith_number": "3747",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Keharusan 'Umra (Pemberian Seumur Hidup)",
+        "perawi_melayu": "Zaid bin Thabit (semoga Allah meredhainya)",
+        "english_text": "Ma'mar narrated from Ibn Tawus, from his father, from Hujr Al-Madari, from Zaid bin Thabit, from Prophet, who said: 'Umra (a gift given for life) is permissible.",
+        "malay_translation": "Ma'mar meriwayatkan daripada Ibn Tawus, daripada bapanya, daripada Hujr Al-Madari, daripada Zaid bin Thabit, daripada Nabi, yang bersabda: 'Umra (pemberian seumur hidup) adalah harus.",
+        "arabic_text": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، ‏‏‏‏‏‏عَنْ مَعْمَرٍ، ‏‏‏‏‏‏عَنْ ابْنِ طَاوُسٍ، ‏‏‏‏‏‏عَنْ أَبِيهِ، ‏‏‏‏‏‏عَنْ حُجْرٍ الْمَدَرِيِّ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ الْعُمْرَى جَائِزَةٌ ."
+      },
+      {
+        "id": 38736,
+        "hadith_number": "3748",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa'i",
+        "penulis_buku": "Imam Ahmad an-Nasa'i",
+        "tajuk_hadith": "Umrah (Pemberian Seumur Hidup) Kepunyaan Waris",
+        "perawi_melayu": "Ma'mar meriwayatkan daripada 'Amr bin Dinar, daripada Tawus, daripada Zaid bin Thabit",
+        "english_text": "Ma'mar narrated from 'Amr bin Dinar, from Tawus, from Zaid bin Thabit, that the Prophet said: 'Umra (a gift given for life) belongs to the heir.",
+        "malay_translation": "Ma'mar meriwayatkan daripada 'Amr bin Dinar, daripada Tawus, daripada Zaid bin Thabit, bahawa Nabi ﷺ bersabda: 'Umrah (pemberian seumur hidup) adalah milik waris.",
+        "arabic_text": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، ‏‏‏‏‏‏عَنْ ابْنِ الْمُبَارَكِ، ‏‏‏‏‏‏عَنْ مَعْمَرٍ، ‏‏‏‏‏‏عَنْ عَمْرِو بْنِ دِينَارٍ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ الْعُمْرَى لِلْوَارِثِ ."
+      },
+      {
+        "id": 38737,
+        "hadith_number": "3749",
+        "status": "Sahih",
+        "nama_buku": "Sunan An-Nasa`i",
+        "penulis_buku": "Imam Ahmad an-Nasa`i",
+        "tajuk_hadith": "Umrah: Hak Waris",
+        "perawi_melayu": "Zaid bin Thabit",
+        "english_text": "(A different chain) from Ma'mar who said: I heard 'Amr bin Dinar, narrating from Tawus, from Hujr Al-Madari, from Zaid bin Thabit, that the Messenger of Allah said: 'Umra (a gift given for life) belongs to the heir. And Allah knows best.",
+        "malay_translation": "Daripada (sanad berbeza) Ma'mar yang berkata: Saya mendengar 'Amr bin Dinar meriwayatkan daripada Tawus, daripada Hujr Al-Madari, daripada Zaid bin Thabit, bahawa Rasulullah ﷺ bersabda: 'Umra (pemberian seumur hidup) adalah hak waris. Dan Allah Maha Mengetahui.",
+        "arabic_text": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا حِبَّانُ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ أَنْبَأَنَا عَبْدُ اللَّهِ، ‏‏‏‏‏‏عَنْ مَعْمَرٍ، ‏‏‏‏‏‏قَالَ:‏‏‏‏ سَمِعْتُ عَمْرَو بْنَ دِينَارٍ يُحَدِّثُ، ‏‏‏‏‏‏عَنْ طَاوُسٍ، ‏‏‏‏‏‏عَنْ حُجْرٍ الْمَدَرِيِّ، ‏‏‏‏‏‏عَنْ زَيْدِ بْنِ ثَابِتٍ، ‏‏‏‏‏‏أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:‏‏‏‏ الْعُمْرَى لِلْوَارِثِ وَاللَّهُ أَعْلَمُ."
+      }
+    ]
+  }
+}
